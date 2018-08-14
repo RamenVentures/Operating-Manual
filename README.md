@@ -1,4 +1,21 @@
-# Ramen Ventures' Operating Manual
+# Ramen Ventures Operating Manual
+
+<p align="center">
+  <a href="https://ramen.ventures/">
+    <img src="https://static1.squarespace.com/static/56a7490fb209430da46e74d3/t/57a5fdc503596e090b45458f/1534184494358/?format=750w" alt="Ramen Ventures Logo" width=200 height=200>
+  </a>
+
+  <p align="center">
+    An angel fund specializing in helping founders create the only thing that matters: Product/Market Fit.
+    <br>
+    <a href="https://ramen.ventures/"><strong>Website</strong></a>
+    ·
+    <a href="https://angel.co/ramen-ventures"><strong>AngelList</strong></a>
+    ·
+    <a href="https://twitter.com/RamenVentures"><strong>Twitter</strong></a>
+  </p>
+</p>
+
 
 ## Table of Contents
 
