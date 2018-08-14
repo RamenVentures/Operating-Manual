@@ -196,7 +196,7 @@ During investment due diligence, we ask ourselves:
 5. Do we have pro-rata rights? 
 6. Do we have information rights?
 7. Do the founders agree to monthly updates?
-8. Are we suffering from any cognitive biases? [https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases]
+8. Are we suffering from any [cognitive biases](https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases)?
 
 We need your:
 1. Cap table
