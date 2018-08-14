@@ -2,19 +2,35 @@
 
 ## Table of Contents
 
-1. Who We Are
+1. [Who We Are](#who-we-are)
 2. Why We Exist
 3. [Our Investment Thesis](#our-investment-thesis)
 4. Our Investment Process
 5. [Our Investment Questions](#our-investment-questions)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
+## Who We Are
+
+Ramen Ventures is an angel investment fund based in Toronto, Canada. Ramen Ventures is:
+
+### [Adam McNamara](www.twitter.com/adammcnamara), Founding Partner
+
+Adam is a computer scientist who loves Product. He was the first VP Product at Shopify, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
+
+### [Joshua Tessier](www.twitter.com/joshpc), Founding Partner
+
+Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at Shopify, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
+
+### [Ali Zahid](www.twitter.com/alizhd), Associate
+
+Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first smart carbon fibre bike. Ali helps us discover great founders.
+
 ## Our Investment Thesis
 Every startup is made up of three components: Market, Team, and Product.
 
 We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
-So, we invest in companies solving painful and under-served problems in markets that will be huge, with a team that can execute.
+So, we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing.
 
 ## Our Investment Questions
 Because we invest pre-Product/Market Fit, we consider:
