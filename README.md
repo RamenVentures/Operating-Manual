@@ -7,7 +7,7 @@
 3. [Our Investment Thesis](#our-investment-thesis)
 4. Our Investment Process
 5. [Our Investment Questions](#our-investment-questions)
-6. [How We Help](#how-we-help)
+6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Our Investment Thesis
 Every startup is made up of three components: Market, Team, and Product.
@@ -94,7 +94,7 @@ Startups are dominated by power laws. [The top 10 unicorns are worth as much as 
 
 Can this team in this market at this valuation create a 50-100X return?
 
-## How We Help
+## How We Help Our Portfolio Companies
 > The only thing that matters is getting to Product/Market fit.”
 > - Marc Andreessen
 
