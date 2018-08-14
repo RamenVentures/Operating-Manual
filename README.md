@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    An angel fund specializing in helping founders create the only thing that matters: Product/Market Fit.
+    Ramen Ventures is an angel fund specializing in helping founders create the only thing that matters: Product/Market Fit.
     <br>
     <a href="https://ramen.ventures/"><strong>Website</strong></a>
     ·
@@ -31,7 +31,7 @@
 
 ## Who We Are
 
-Ramen Ventures is an angel investment fund based in Toronto, Canada. Ramen Ventures is:
+Ramen Ventures is made up of:
 
 ### [Adam McNamara](http://www.twitter.com/adammcnamara), Founding Partner
 
@@ -74,7 +74,9 @@ We strive to be known as the most founder-friendly investors in Canada. To that 
 Our process has four steps:
 
 ### Our Initial Screening
-We look at every company we see and ask ourselves:
+Our initial screening is designed to find companies that fit our thesis and are worth following-up with.
+
+**We Ask**
 1. Describe the company in one sentence.
 2. Who is their target market?
 3. What problem are they solving?
@@ -84,7 +86,7 @@ We look at every company we see and ask ourselves:
 7. Is this a world-class team? (Great Team)
 8. Are they at the right stage?
 
-We need:
+**We Need**
 1. Your deck (if you have one)
 2. A link to your MVP
 
@@ -92,7 +94,9 @@ If we’re interested, we’ll ask for a meeting.
 If not, we commit to telling you exactly why.
 
 ### Meeting
-The next step is to meet your founding team, preferably face-to-face. We’re going to ask you:
+The next step is to meet your founding team, preferably face-to-face. Our goal is to walk away deeply understanding your market and your team.
+
+**We Ask**
 1. What are you working on?
 2. Why this? 
  3. Why now? 
@@ -116,6 +120,8 @@ After our meeting, we ask ourselves 10 questions questions. They’re designed t
 
 If, after our analysis, we decide we’d like to invest, we’ll move to due diligence.
 If we decide not to invest, we commit to tell you why and share our analysis notes with you.
+
+**We Ask**
 
 #### 1. Will this be a huge market? (Great Market)
 
@@ -188,7 +194,9 @@ Startups are dominated by power laws. [The top 10 unicorns are worth as much as 
 Can this team in this market at this valuation be one of the 4/1,000 that create a 50-100X return?
 
 ### Our Investment Due Diligence
-During investment due diligence, we ask ourselves:
+Our investment diligence is designed to be light weight, but rigerous enough to uncover any red flags.
+
+**We Ask**
 1. What do references say about the founders?
 2. What do customers say about the company?
 3. Is the cap table clean?
@@ -198,7 +206,7 @@ During investment due diligence, we ask ourselves:
 7. Do the founders agree to monthly updates?
 8. Are we suffering from any [cognitive biases](https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases)?
 
-We need your:
+**We Need**
 1. Cap table
 2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements)
 3. Financing documents
@@ -207,7 +215,7 @@ We need your:
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
 
-We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we can help in three ways:
+We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we help in three ways:
 
 ### 1. Helping you find Product/Market Fit
 
