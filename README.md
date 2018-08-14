@@ -17,7 +17,7 @@ We believe that a great market - a market with lots of real potential customers 
 So, we invest in companies solving painful and under-served problems in markets that will be huge, with a team that can execute.
 
 ## Our Investment Questions
-Because we invest pre-Product/Market Fit, our investment thesis is roughly:
+Because we invest pre-Product/Market Fit, we consider:
 - 75% Market
 - 25% team
 - 0% Product
