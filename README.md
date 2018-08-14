@@ -50,20 +50,24 @@ Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first s
 ### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
+We're rational optimists who believe that technology is creating abundance and making the world a better place.
+
 ### Our Mission
-To invest in 100 early-stage software companies that will create a world of abundance.
+To massive abundance through technology.
 
 ### Our Strategy
-Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. Truly ambitious companies look incredibly risky at the start. Canada needs more angels, especially those who have helped build world-class companies, to suspend disbelief and help these companies when they are just starting. We will.
+Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. Truly ambitious companies look incredibly risky at the start. Canada needs more angels, especially those who have helped build world-class companies, to suspend disbelief and help these companies when they are just starting.
+
+Our strategy is to invest in 100 companies working on hard problems in big markets when they are pre-Product/Market Fit.
 
 ## Our Investment Thesis
 Every startup is made up of three components: Market, Team, and Product.
 
 We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
-So, we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing. Our thesis is:
+First we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing. Our thesis is:
 - 75% Market
-- 25% team
+- 25% Team
 - 0% Product
 
 ## Our Investment Process
@@ -71,10 +75,19 @@ We strive to be known as the most founder-friendly investors in Canada. To that 
 - Make investment decisions quickly, usually within 48 hours of meeting.
 - Invest $50,000 CAD on your existing terms.
 
-Our process has four steps:
+Our process is designed to help us discover companies that fit our thesis. That is, hard problems in big markets with irrationally passionate teams.
+
+It has four steps:
 
 ### Our Initial Screening
-Our initial screening is designed to find companies that fit our thesis and that we should learn more about.
+Our first step is to quickly filter all of the opportunities we see.
+
+**Our Goal**
+Decide if a company fits our thesis and we should learn more.
+
+If yes, move to [Meeting](#meeting).
+
+If no, we send you our notes.
 
 **We Ask**
 1. Describe the company in one sentence.
@@ -90,11 +103,11 @@ Our initial screening is designed to find companies that fit our thesis and that
 1. Your deck (if you have one)
 2. A link to your MVP
 
-If we’re interested, we’ll ask for a meeting.
-If not, we'll tell you exactly why.
-
 ### Meeting
-The next step is to meet your founding team, preferably face-to-face. Our goal is to walk away deeply understanding your market and your team.
+Our next step is to meet your founding team, preferably face-to-face.
+
+**Our Goal**
+To develop a deep understanding your market, problem, and team.
 
 **We Ask**
 1. What are you working on?
@@ -116,10 +129,12 @@ The next step is to meet your founding team, preferably face-to-face. Our goal i
 
 ### Our Investment Analysis
 
-After our meeting, we reflect on 10 questions that help us decide if a company fits our thesis.
+**Our Goal**
+Decide if we should pursue an investment.
 
-If, after our analysis, we’d like to invest, we’ll move to due diligence.
-If we decide not to invest, we'll tell you why and share our analysis notes with you.
+If yes, move to [Investment Due Diligence](#investment-due-diligence).
+
+If no, we send you our notes.
 
 **We Ask**
 
@@ -137,7 +152,7 @@ Is this a huge but fragmented market, or a market that will be huge in the futur
 
 #### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
 
-Does this company have an important mission (a huge market and a painful problem)?
+Does this company have an important mission (a huge market with a painful problem)?
 
 #### 4. Why now and not before? (Timing, Secret)
 
@@ -196,6 +211,13 @@ Can this team in this market at this valuation be one of the 4/1,000 that create
 ### Our Investment Due Diligence
 Our investment diligence is designed to be light weight, but rigerous enough to uncover any red flags.
 
+**Our Goal**
+To decide whether or not to invest.
+
+If yes, we [start helping](#how-we-help).
+
+If no, we send you our notes.
+
 **We Ask**
 1. What do references say about the founders?
 2. What do customers say about the company?
@@ -208,33 +230,33 @@ Our investment diligence is designed to be light weight, but rigerous enough to 
 
 **We Need**
 1. Cap table
-2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements)
-3. Financing documents
-4. Contact information for a few reference customers
+2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements, etc)
+3. Financing documents.
+4. Contact information for a few reference customers.
 
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
 
-We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we help in three ways:
+We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we:
 
-### 1. Helping you find Product/Market Fit
+### 1. Help you find Product/Market Fit
 
-1. Teaching you how to create an important Mission and Vision that attracts world-class employees and customers.
-2. Teaching you how to create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
-3. Teaching you how to measure Product/Market Fit and know when you’ve truly found it.
-4. Teaching you mental models for understanding what’s most important to do next.
+1. Teach you how to create an important Mission and Vision that attracts world-class employees and customers.
+2. Teach you how to create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
+3. Teach you how to measure Product/Market Fit and know when you’ve truly found it.
+4. Teach you mental models for understanding what’s most important to do next.
 
-### 2. Helping you build and scale both your product and your team.
+### 2. Help you build and scale both your product and your team.
 
-1. Teaching you how to identify the right candidates to fill out your team.
-2. Teaching you how to effectively structure your engineering team to build high quality, bullet-proof product.
-3. Providing a sounding board for architecture decisions, technical problems and UX questions.
+1. Teach you how to identify the right candidates to fill out your team.
+2. Teach you how to effectively structure your engineering team to build high quality, bullet-proof product.
+3. Act as a sounding board for architecture decisions, technical problems and UX questions.
 
-### 3. Helping you develop into world-class founders
+### 3. Help you develop into world-class founders
 
-1. Coaching on how to become a more effective founder.
-2. Teaching you how to grow and manage people.
-3. Guiding you towards new learning challenges, and providing self-improvement goals.
+1. Coach you on how to become a more effective founder.
+2. Teach you how to grow and manage people.
+3. Guide you towards new learning challenges and provide self-improvement goals.
 
 We deliver this help:
 1. **Daily**, by being available to talk anytime.
