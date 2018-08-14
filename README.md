@@ -20,7 +20,7 @@
 ## Table of Contents
 
 1. [Who We Are](#who-we-are)
-2. Why We Exist
+2. [Why We Exist](#why-we-exist)
 3. [Our Investment Thesis](#our-investment-thesis)
 4. Our Investment Process
 5. [Our Investment Questions](#our-investment-questions)
@@ -41,6 +41,18 @@ Josh is also computer scientist who loves hard tech and infrastructure. He was t
 ### [Ali Zahid](http://www.twitter.com/alizhd), Associate
 
 Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first smart carbon fibre bike. Ali helps us discover great founders.
+
+## Why We Exist
+
+### Our Philosophy
+> “Technology is not only the thing that moves the human race forward, but it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.”
+> - Naval Ravikant
+
+### Our Mission
+To find and invest in 100 early-stage software companies that will create a world of abundance.
+
+### Our Strategy
+Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. Truly ambitious companies look incredibly risky at the start. Canada needs more angels, especially those who have helped build world-class companies, to suspend disbelief and help these companies when they are just starting. We will.
 
 ## Our Investment Thesis
 Every startup is made up of three components: Market, Team, and Product.
