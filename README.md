@@ -53,7 +53,7 @@ Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first s
 We're rational optimists who believe that technology is creating abundance and making the world a better place.
 
 ### Our Mission
-To massive abundance through technology.
+To create massive abundance through technology.
 
 ### Our Strategy
 Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. Truly ambitious companies look incredibly risky at the start. Canada needs more angels, especially those who have helped build world-class companies, to suspend disbelief and help these companies when they are just starting.
