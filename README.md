@@ -49,7 +49,7 @@ Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first s
 > - Naval Ravikant
 
 ### Our Mission
-To find and invest in 100 early-stage software companies that will create a world of abundance.
+To invest in 100 early-stage software companies that will create a world of abundance.
 
 ### Our Strategy
 Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. Truly ambitious companies look incredibly risky at the start. Canada needs more angels, especially those who have helped build world-class companies, to suspend disbelief and help these companies when they are just starting. We will.
