@@ -43,15 +43,15 @@ Does this company have an important mission (a huge market and a painful problem
 ### 4. Why now and not before? (Timing, Secret)
 
 Has a change (like one of Drucker’s Seven Sources of Innovation) created an opportunity for innovation?
-- An Unexpected Success or Failure: Has something unexpected happened?
-- An Incongruity: Is there a gap between the way things are and they way they should be?
+- **An Unexpected Success or Failure**: Has something unexpected happened?
+- **An Incongruity**: Is there a gap between the way things are and they way they should be?
 	- Between the Reality of an Industry and Assumptions about it
 	- Between Assumed and Actual Customer Values
-- A Process Need: Are steps in a process missing, painful, or removable?
-- An Industry or Market Change: Are regulations, technologies, or changing customer preferences disrupting an industry?
-- A Change in Demographics: Are changes in populations, income, education, or age creating an opportunity?
-- A Change in Perception, Meaning, or Mood: Has a widely held view of life changed? (ie: fat being bad vs good)
-- New Knowledge: Will a new technology make something possible, easier, cheaper, or more powerful?
+- **A Process Need**: Are steps in a process missing, painful, or removable?
+- **An Industry or Market Change**: Are regulations, technologies, or changing customer preferences disrupting an industry?
+- **A Change in Demographics**: Are changes in populations, income, education, or age creating an opportunity?
+- **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed? (ie: fat being bad vs good)
+- **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
 ### 5. Is this a world-class team? (Great Team)
 
@@ -80,13 +80,13 @@ Have they found a value hypothesis that’s creating market pull?
 ### 9. What is the unfair advantage?
 
 Will they be able to build one of the [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)?
-- Scale Economies: A business in which per unit cost declines as production volume increases.
-- Network Economies: The value of a service to each user increases as new users join the network.
-- Counter Positioning: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
-- Switching Costs: The value loss expected by a customer that would be incurred from switching to an alternative supplier for additional purchases.
-- Branding: The durable attribution of higher value to an objectively identical offering that arises from historic info about the seller.
-- Cornered Resource: Preferential access at attractive terms to a coveted asset that can independently enhance value.
-- Process Power: Embedded company organization and activity sets which enable lower costs and/or superior product.
+- **Scale Economies**: A business in which per unit cost declines as production volume increases.
+- **Network Economies**: The value of a service to each user increases as new users join the network.
+- **Counter Positioning**: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
+- **Switching Costs**: The value loss expected by a customer that would be incurred from switching to an alternative supplier for additional purchases.
+- **Branding**: The durable attribution of higher value to an objectively identical offering that arises from historic info about the seller.
+- **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
+- **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
 ### 10. Could this be a 50x? (4 in 1,000)
 
