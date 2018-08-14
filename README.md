@@ -30,15 +30,15 @@
 
 Ramen Ventures is an angel investment fund based in Toronto, Canada. Ramen Ventures is:
 
-### [Adam McNamara](www.twitter.com/adammcnamara), Founding Partner
+### [Adam McNamara](http://www.twitter.com/adammcnamara), Founding Partner
 
 Adam is a computer scientist who loves Product. He was the first VP Product at Shopify, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
 
-### [Joshua Tessier](www.twitter.com/joshpc), Founding Partner
+### [Joshua Tessier](http://www.twitter.com/joshpc), Founding Partner
 
 Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at Shopify, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
 
-### [Ali Zahid](www.twitter.com/alizhd), Associate
+### [Ali Zahid](http://www.twitter.com/alizhd), Associate
 
 Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first smart carbon fibre bike. Ali helps us discover great founders.
 
