@@ -31,15 +31,15 @@
 
 ## Who We Are
 
-Ramen Ventures is made up of:
+Ramen Ventures is:
 
 ### [Adam McNamara](http://www.twitter.com/adammcnamara), Founding Partner
 
-Adam is a computer scientist who loves Product. He was the first VP Product at Shopify, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
+Adam is a computer scientist who loves building products and companies. He was the first VP Product at [Shopify](https://shopify.com), and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
 
 ### [Joshua Tessier](http://www.twitter.com/joshpc), Founding Partner
 
-Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at Shopify, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
+Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  [Shopify](https://shopify.com), and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
 
 ### [Ali Zahid](http://www.twitter.com/alizhd), Associate
 
@@ -48,7 +48,7 @@ Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first s
 ## Why We Exist
 
 ### Our Philosophy
-> “Technology is not only the thing that moves the human race forward, but it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
+> “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
 ### Our Mission
 To invest in 100 early-stage software companies that will create a world of abundance.
