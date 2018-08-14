@@ -101,18 +101,23 @@ Can this team in this market at this valuation create a 50-100X return?
 We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we can help in three ways:
 
 ### 1. Helping you find Product/Market Fit
-	1. Teaching you how to create an important Mission and Vision that attracts world-class employees and customers.
-	2. Teaching you how to create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
-	3. Teaching you how to measure Product/Market Fit and know when you’ve truly found it.
-	4. Teaching you mental models for understanding what’s most important to do next.
+
+1. Teaching you how to create an important Mission and Vision that attracts world-class employees and customers.
+2. Teaching you how to create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
+3. Teaching you how to measure Product/Market Fit and know when you’ve truly found it.
+4. Teaching you mental models for understanding what’s most important to do next.
+
 ### 2. Helping you build and scale both your product, and your team.
-	1. Teaching you how to identify the right candidates to fill out your team.
-	2. Teaching you how to effectively structure your engineering team to build high quality, bullet-proof product.
-	3. Providing a sounding board for architecture decisions, technical problems and UX questions.
+
+1. Teaching you how to identify the right candidates to fill out your team.
+2. Teaching you how to effectively structure your engineering team to build high quality, bullet-proof product.
+3. Providing a sounding board for architecture decisions, technical problems and UX questions.
+
 ### 3. Helping you develop into world-class founders
-	1. Coaching on how to become a more effective founder.
-	2. Teaching you how to grow and manage people.
-	3. Guiding you towards new learning challenges, and providing self-improvement goals.
+
+1. Coaching on how to become a more effective founder.
+2. Teaching you how to grow and manage people.
+3. Guiding you towards new learning challenges, and providing self-improvement goals.
 
 We deliver this help:
 1. **Daily**, by being available to talk anytime.
