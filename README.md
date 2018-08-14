@@ -22,8 +22,11 @@
 1. [Who We Are](#who-we-are)
 2. [Why We Exist](#why-we-exist)
 3. [Our Investment Thesis](#our-investment-thesis)
-4. Our Investment Process
-5. [Our Investment Questions](#our-investment-questions)
+4. [Our Investment Process](#our-investment-process)
+	1. [Our Initial Screening](#our-initial-screening)
+	2. [Meeting](#meeting)
+	3. [Our Investment Analysis](#our-investment-analysis)
+	4. [Our Investment Due Diligence](#our-investment-due-diligence)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
@@ -58,21 +61,67 @@ Every startup is made up of three components: Market, Team, and Product.
 
 We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
-So, we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing.
-
-## Our Investment Questions
-Because we invest pre-Product/Market Fit, we consider:
+So, we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing. Our thesis is:
 - 75% Market
 - 25% team
 - 0% Product
 
-To find companies that best fit our investment thesis, we ask ourselves:
+## Our Investment Process
+We strive to be known as the most founder-friendly investors in Canada. To that end, we:
+- Make investment decisions quickly, usually within 48 hours of meeting.
+- Invest $50,000 CAD on your existing terms.
 
-### 1. Will this be a huge market? (Great Market)
+Our process has four steps:
+
+### Our Initial Screening
+We look at every company we see and ask ourselves:
+1. Describe the company in one sentence.
+2. Who is their target market?
+3. What problem are they solving?
+4. Who are the founders and VIPs?
+5. Will this be a huge market? (Great Market)
+6. Is this a prime problem? (Problem/Market Fit)
+7. Is this a world-class team? (Great Team)
+8. Are they at the right stage?
+
+We need:
+1. Your deck (if you have one)
+2. A link to your MVP
+
+If we’re interested, we’ll ask for a meeting.
+If not, we commit to telling you exactly why.
+
+### Meeting
+The next step is to meet your founding team, preferably face-to-face. We’re going to ask you:
+1. What are you working on?
+2. Why this? 
+ 3. Why now? 
+4. How does it work?
+5. What’s your unfair advantage?
+6. What is your competition?
+7. What is your key metric and how is it growing?
+8. How do you make money?
+9. What are the top three reasons you might fail?
+10. How much have you raised before? On what terms?
+11. How much are you raising now? On what terms?
+12. What will you use it for?
+13. How long will it last?
+14. How will you be different by your next raise?
+15. Who's committed?
+16. Why do you want us to invest?
+
+### Our Investment Analysis
+
+After our meeting, we ask ourselves 10 questions questions. They’re designed to find companies that fit our specific investment thesis.
+
+If, after our analysis, we decide we’d like to invest, we’ll move to due diligence.
+If we decide not to invest, we commit to tell you why and share our analysis notes with you.
+
+#### 1. Will this be a huge market? (Great Market)
 
 Is this a huge but fragmented market, or a market that will be huge in the future?
 
-### 2. Is this a prime problem? (Problem/Market Fit)
+#### 2. Is this a prime problem? (Problem/Market Fit)
 
 [_42% of startups die because there’s no market need._](https://www.cbinsights.com/research/startup-failure-reasons-top/)
 1. Does the target market consider this problem one of the top 3 problems they have?
@@ -80,11 +129,11 @@ Is this a huge but fragmented market, or a market that will be huge in the futur
 3. Is it under-served?
 4. Would customers immediately adopt a solution if it was provided it to them right now?
 
-### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
+#### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
 
 Does this company have an important mission (a huge market and a painful problem)?
 
-### 4. Why now and not before? (Timing, Secret)
+#### 4. Why now and not before? (Timing, Secret)
 
 Has a change (like one of Drucker’s Seven Sources of Innovation) created an opportunity for innovation?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
@@ -97,23 +146,23 @@ Has a change (like one of Drucker’s Seven Sources of Innovation) created an op
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed? (ie: fat being bad vs good)
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-### 5. Is this a world-class team? (Great Team)
+#### 5. Is this a world-class team? (Great Team)
 
 - Are the founders executing against the opportunity?
 - Are they experimenting and learning rapidly?
 - Are they attracting world-class people?
 
-### 6. Is this the right team? (Founder/Market Fit)
+#### 6. Is this the right team? (Founder/Market Fit)
 
 [_22% of startups die because it’s the wrong team for the problem._](https://www.cbinsights.com/research/startup-failure-reasons-top/)
 - Are the founders irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-### 7. What is anomalous?
+#### 7. What is anomalous?
 
 Is something exceptional? Traction? Team?
 
-### 8. Do customers love it? (Product/Market Fit)
+#### 8. Do customers love it? (Product/Market Fit)
 
 Have they found a value hypothesis that’s creating market pull?
 - 5-7% week over week growth, mostly from word-of-mouth
@@ -121,7 +170,7 @@ Have they found a value hypothesis that’s creating market pull?
 - 40% of customers be “very disappointed” if the product went away
 - Retention cohorts that flatten
 
-### 9. What is the unfair advantage?
+#### 9. What is the unfair advantage?
 
 Will they be able to build one of the [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)?
 - **Scale Economies**: A business in which per unit cost declines as production volume increases.
@@ -132,11 +181,28 @@ Will they be able to build one of the [7 Powers](https://medium.com/@chrisstonem
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
-### 10. Can this be a 50x?
+#### 10. Can this be a 50x?
 
 Startups are dominated by power laws. [The top 10 unicorns are worth as much as the next 100 combined.](https://www.cbinsights.com/research/unicorn-power-law/) [0.04% of investments return 50x.](https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html)
 
 Can this team in this market at this valuation be one of the 4/1,000 that create a 50-100X return?
+
+### Our Investment Due Diligence
+During investment due diligence, we ask ourselves:
+1. What do references say about the founders?
+2. What do customers say about the company?
+3. Is the cap table clean?
+4. Are they raising enough to reach a logical next milestone?
+5. Do we have pro-rata rights? 
+6. Do we have information rights?
+7. Do the founders agree to monthly updates?
+8. Are we suffering from any cognitive biases? [https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases]
+
+We need your:
+1. Cap table
+2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements)
+3. Financing documents
+4. Contact information for a few reference customers
 
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
