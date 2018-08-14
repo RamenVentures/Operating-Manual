@@ -7,16 +7,16 @@
 3. [Our Investment Thesis](#our-investment-thesis)
 4. Our Investment Process
 5. [Our Investment Questions](#our-investment-questions)
-6. How We Help
+6. [How We Help](#how-we-help)
 
-## 3. Our Investment Thesis
+## Our Investment Thesis
 Every startup is made up of three components: Market, Team, and Product.
 
 We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
 So, we invest in companies solving painful and under-served problems in markets that will be huge, with a team that can execute.
 
-## 5. Our Investment Questions
+## Our Investment Questions
 Because we invest pre-Product/Market Fit, our investment thesis is roughly:
 - 75% Market
 - 25% team
@@ -53,7 +53,7 @@ Has a change (like one of Drucker’s Seven Sources of Innovation) created an op
 - A Change in Perception, Meaning, or Mood: Has a widely held view of life changed? (ie: fat being bad vs good)
 - New Knowledge: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-**5. Is this a world-class team? (Great Team) **
+**5. Is this a world-class team? (Great Team)**
 
 - Are the founders executing against the opportunity?
 - Are they experimenting and learning rapidly?
@@ -93,3 +93,30 @@ Will they be able to build one of the [7 Powers]?
 Startups are dominated by power laws. [The top 10 unicorns are worth as much as the next 100 combined.](https://www.cbinsights.com/research/unicorn-power-law/) [0.04% of investments return 50x.](https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html)
 
 Can this team in this market at this valuation create a 50-100X return?
+
+## How We Help
+> The only thing that matters is getting to Product/Market fit.”
+> - Marc Andreessen
+
+We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we can help in three ways:
+
+1. **Helping you find Product/Market Fit**
+	1. Teaching you how to create an important Mission and Vision that attracts world-class employees and customers.
+	2. Teaching you how to create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
+	3. Teaching you how to measure Product/Market Fit and know when you’ve truly found it.
+	4. Teaching you mental models for understanding what’s most important to do next.
+2. **Helping you build and scale both your product, and your team.**
+	1. Teaching you how to identify the right candidates to fill out your team.
+	2. Teaching you how to effectively structure your engineering team to build high quality, bullet-proof product.
+	3. Providing a sounding board for architecture decisions, technical problems and UX questions.
+3. **Helping you develop into world-class founders**
+	1. Coaching on how to become a more effective founder.
+	2. Teaching you how to grow and manage people.
+	3. Guiding you towards new learning challenges, and providing self-improvement goals.
+
+We deliver this help:
+1. **Daily**, by being available to talk anytime.
+2. **Monthly**, by:
+	1. Sending you a “Can We Help?” email reminding you of the three ways we can help.
+	2. Watching your Monthly Investor Update emails for opportunities to help and red flags.
+3. **Quarterly**, by sending you a Founder Report Card.
