@@ -50,15 +50,15 @@ Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first s
 ### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
-We're rational optimists who believe that technology is creating abundance and making the world a better place.
+We're rational optimists who believe that technology creates abundance and makes the world a better place.
 
 ### Our Mission
 To create massive abundance through technology.
 
 ### Our Strategy
-Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. Truly ambitious companies look incredibly risky at the start. Canada needs more angels, especially those who have helped build world-class companies, to suspend disbelief and help these companies when they are just starting.
+Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. The most ambitious companies are also the most risky (at the start). Canada needs more angels, especially those who have helped build world-class companies, to help these companies when no one else will.
 
-Our strategy is to invest in 100 companies working on hard problems in big markets when they are pre-Product/Market Fit.
+Our strategy is to invest in 100 companies working on hard problems in big markets and get them to Product/Market Fit.
 
 ## Our Investment Thesis
 Every startup is made up of three components: Market, Team, and Product.
@@ -72,10 +72,10 @@ First we look for companies with an important mission - that is, solving an impo
 
 ## Our Investment Process
 We strive to be known as the most founder-friendly investors in Canada. To that end, we:
-- Make investment decisions quickly, usually within 48 hours of meeting.
+- Make investment decisions quickly, usually within 48 hours of [Meeting](#meeting).
 - Invest $50,000 CAD on your existing terms.
 
-Our process is designed to help us discover companies that fit our thesis. That is, hard problems in big markets with irrationally passionate teams.
+Our investment process is designed to help us find companies that fit our thesis: solving hard problems in big markets with irrationally passionate teams.
 
 It has four steps:
 
@@ -130,7 +130,7 @@ To develop a deep understanding your market, problem, and team.
 ### Our Investment Analysis
 
 **Our Goal**
-Decide if we should pursue an investment.
+To decide if your company really does fit our thesis and we should pursue an investment.
 
 If yes, move to [Investment Due Diligence](#investment-due-diligence).
 
@@ -140,7 +140,7 @@ If no, we send you our notes.
 
 #### 1. Will this be a huge market? (Great Market)
 
-Is this a huge but fragmented market, or a market that will be huge in the future?
+Is this a huge but fragmented market, or a small market that will be huge in the future?
 
 #### 2. Is this a prime problem? (Problem/Market Fit)
 
@@ -156,7 +156,7 @@ Does this company have an important mission (a huge market with a painful proble
 
 #### 4. Why now and not before? (Timing, Secret)
 
-Has a change (like one of Drucker’s Seven Sources of Innovation) created an opportunity for innovation?
+What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
 - **An Incongruity**: Is there a gap between the way things are and they way they should be?
 	- Between the Reality of an Industry and Assumptions about it
@@ -168,10 +168,10 @@ Has a change (like one of Drucker’s Seven Sources of Innovation) created an op
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
 #### 5. Is this a world-class team? (Great Team)
-
-- Are the founders executing against the opportunity?
-- Are they experimenting and learning rapidly?
-- Are they attracting world-class people?
+Is there evidence of the founders:
+- Executing successfully against the opportunity?
+- Experimenting and learning rapidly?
+- Attracting world-class people?
 
 #### 6. Is this the right team? (Founder/Market Fit)
 
@@ -181,14 +181,14 @@ Has a change (like one of Drucker’s Seven Sources of Innovation) created an op
 
 #### 7. What is anomalous?
 
-Is something exceptional? Traction? Team?
+Is something (traction, team) exceptional?
 
 #### 8. Do customers love it? (Product/Market Fit)
 
-Have they found a value hypothesis that’s creating market pull?
+Have they found a Value Hypothesis that’s creating market pull?
 - 5-7% week over week growth, mostly from word-of-mouth
-- High engagement on the core action (ie: photos/user/day)
-- 40% of customers be “very disappointed” if the product went away
+- High engagement on the core function
+- 40% of users being “very disappointed” if the product went away
 - Retention cohorts that flatten
 
 #### 9. What is the unfair advantage?
@@ -206,10 +206,10 @@ Will they be able to build one of the [7 Powers](https://medium.com/@chrisstonem
 
 Startups are dominated by power laws. [The top 10 unicorns are worth as much as the next 100 combined.](https://www.cbinsights.com/research/unicorn-power-law/) [0.04% of investments return 50x.](https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html)
 
-Can this team in this market at this valuation be one of the 4/1,000 that create a 50-100X return?
+Can this Team in this Market at this valuation be one of the 4/1,000 that create a 50-100x return?
 
 ### Our Investment Due Diligence
-Our investment diligence is designed to be light weight, but rigerous enough to uncover any red flags.
+Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
 
 **Our Goal**
 To decide whether or not to invest.
@@ -237,7 +237,7 @@ If no, we send you our notes.
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
 
-We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we:
+Based on our experience and strengths, here are the three ways we can help you:
 
 ### 1. Help you find Product/Market Fit
 
@@ -246,7 +246,7 @@ We specialize in helping early-stage companies get to Product/Market Fit. Specif
 3. Teach you how to measure Product/Market Fit and know when you’ve truly found it.
 4. Teach you mental models for understanding what’s most important to do next.
 
-### 2. Help you build and scale both your product and your team.
+### 2. Help you build and scale both your Product and your Team.
 
 1. Teach you how to identify the right candidates to fill out your team.
 2. Teach you how to effectively structure your engineering team to build high quality, bullet-proof product.
