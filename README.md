@@ -107,7 +107,7 @@ We specialize in helping early-stage companies get to Product/Market Fit. Specif
 3. Teaching you how to measure Product/Market Fit and know when you’ve truly found it.
 4. Teaching you mental models for understanding what’s most important to do next.
 
-### 2. Helping you build and scale both your product, and your team.
+### 2. Helping you build and scale both your product and your team.
 
 1. Teaching you how to identify the right candidates to fill out your team.
 2. Teaching you how to effectively structure your engineering team to build high quality, bullet-proof product.
