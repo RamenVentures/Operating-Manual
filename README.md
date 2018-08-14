@@ -74,7 +74,7 @@ We strive to be known as the most founder-friendly investors in Canada. To that 
 Our process has four steps:
 
 ### Our Initial Screening
-Our initial screening is designed to find companies that fit our thesis and are worth following-up with.
+Our initial screening is designed to find companies that fit our thesis and that we should learn more about.
 
 **We Ask**
 1. Describe the company in one sentence.
@@ -91,7 +91,7 @@ Our initial screening is designed to find companies that fit our thesis and are 
 2. A link to your MVP
 
 If we’re interested, we’ll ask for a meeting.
-If not, we commit to telling you exactly why.
+If not, we'll tell you exactly why.
 
 ### Meeting
 The next step is to meet your founding team, preferably face-to-face. Our goal is to walk away deeply understanding your market and your team.
@@ -99,7 +99,7 @@ The next step is to meet your founding team, preferably face-to-face. Our goal i
 **We Ask**
 1. What are you working on?
 2. Why this? 
- 3. Why now? 
+3. Why now? 
 4. How does it work?
 5. What’s your unfair advantage?
 6. What is your competition?
@@ -116,10 +116,10 @@ The next step is to meet your founding team, preferably face-to-face. Our goal i
 
 ### Our Investment Analysis
 
-After our meeting, we ask ourselves 10 questions questions. They’re designed to find companies that fit our specific investment thesis.
+After our meeting, we reflect on 10 questions that help us decide if a company fits our thesis.
 
-If, after our analysis, we decide we’d like to invest, we’ll move to due diligence.
-If we decide not to invest, we commit to tell you why and share our analysis notes with you.
+If, after our analysis, we’d like to invest, we’ll move to due diligence.
+If we decide not to invest, we'll tell you why and share our analysis notes with you.
 
 **We Ask**
 
