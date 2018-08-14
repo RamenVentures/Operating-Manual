@@ -45,8 +45,7 @@ Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first s
 ## Why We Exist
 
 ### Our Philosophy
-> “Technology is not only the thing that moves the human race forward, but it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.”
-> - Naval Ravikant
+> “Technology is not only the thing that moves the human race forward, but it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
 ### Our Mission
 To invest in 100 early-stage software companies that will create a world of abundance.
@@ -133,15 +132,14 @@ Will they be able to build one of the [7 Powers](https://medium.com/@chrisstonem
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
-### 10. Could this be a 50x? (4 in 1,000)
+### 10. Can this be a 50x?
 
 Startups are dominated by power laws. [The top 10 unicorns are worth as much as the next 100 combined.](https://www.cbinsights.com/research/unicorn-power-law/) [0.04% of investments return 50x.](https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html)
 
-Can this team in this market at this valuation create a 50-100X return?
+Can this team in this market at this valuation be one of the 4/1,000 that create a 50-100X return?
 
 ## How We Help Our Portfolio Companies
-> The only thing that matters is getting to Product/Market fit.”
-> - Marc Andreessen
+> "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
 
 We specialize in helping early-stage companies get to Product/Market Fit. Specifically, we can help in three ways:
 
