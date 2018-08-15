@@ -86,10 +86,6 @@ Our first step is to quickly filter all of the opportunities we see.
 
 To decide if your company might fit our thesis and we should learn more.
 
-If yes, move to [Meeting](#meeting).
-
-If no, we send you our notes.
-
 **We Ask**
 1. Describe the company in one sentence.
 2. Who is their target market?
@@ -103,6 +99,10 @@ If no, we send you our notes.
 **We Need**
 1. Your deck (if you have one)
 2. A link to your MVP
+
+**If yes**, move to [Meeting](#meeting).
+
+**If no**, we send you our notes.
 
 ### Meeting
 Our next step is to meet your founding team, preferably face-to-face.
@@ -134,10 +134,6 @@ To develop a deep understanding of your market, problem, and team.
 **Our Goal**
 
 To decide if your company really does fit our thesis and we should pursue an investment.
-
-If yes, move to [Investment Due Diligence](#investment-due-diligence).
-
-If no, we send you our notes.
 
 **We Ask**
 
@@ -211,16 +207,16 @@ Startups are dominated by power laws. <a href="https://www.cbinsights.com/resear
 
 Can this Team in this Market at this valuation be one of the 4/1,000 that create a 50-100x return?
 
+**If yes**, move to [Investment Due Diligence](#investment-due-diligence).
+
+**If no**, we send you our notes.
+
 ### Our Investment Due Diligence
 Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
 
 **Our Goal**
 
 To decide whether or not to invest.
-
-If yes, we [start helping](#how-we-help).
-
-If no, we send you our notes.
 
 **We Ask**
 1. What do references say about the founders?
@@ -237,6 +233,10 @@ If no, we send you our notes.
 2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements, etc)
 3. Financing documents.
 4. Contact information for a few reference customers.
+
+**If yes**, we [start helping](#how-we-help).
+
+**If no**, we send you our notes.
 
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
