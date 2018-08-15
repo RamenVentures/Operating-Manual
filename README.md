@@ -23,10 +23,10 @@
 2. [Why We Exist](#why-we-exist)
 3. [Our Investment Thesis](#our-investment-thesis)
 4. [Our Investment Process](#our-investment-process)
-	1. [Our Initial Screening](#our-initial-screening)
+	1. [Screening](#screening)
 	2. [Meeting](#meeting)
-	3. [Our Investment Analysis](#our-investment-analysis)
-	4. [Our Investment Due Diligence](#our-investment-due-diligence)
+	3. [Analysis](#analysis)
+	4. [Due Diligence](#due-diligence)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
@@ -79,7 +79,7 @@ Our investment process is designed to help us find companies that fit our thesis
 
 It has four steps:
 
-### Our Initial Screening
+### Screening
 Our first step is to quickly filter all of the opportunities we see.
 
 #### Our Goal
@@ -130,7 +130,7 @@ To develop a deep understanding of your market, problem, and team.
 15. Who's committed?
 16. Why do you want us to invest?
 
-### Our Investment Analysis
+### Analysis
 
 #### Our Goal
 
@@ -209,11 +209,11 @@ Startups are dominated by power laws. <a href="https://www.cbinsights.com/resear
 Can this Team in this Market at this valuation be one of the 4/1,000 that create a 50-100x return?
 
 #### Next Steps
-**If yes**, move to [Investment Due Diligence](#investment-due-diligence).
+**If yes**, start [Due Diligence](#due-diligence).
 
 **If no**, we send you our notes.
 
-### Our Investment Due Diligence
+### Due Diligence
 Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
 
 #### Our Goal
