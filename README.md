@@ -33,17 +33,17 @@
 
 Ramen Ventures is:
 
-### [Adam McNamara](http://www.twitter.com/adammcnamara), Founding Partner
+### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>, Founding Partner
 
-Adam is a computer scientist who loves building products and companies. He was the first VP Product at [Shopify](https://shopify.com), and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
+Adam is a computer scientist who loves building products and companies. He was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
 
-### [Joshua Tessier](http://www.twitter.com/joshpc), Founding Partner
+### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>, Founding Partner
 
-Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  [Shopify](https://shopify.com), and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
+Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
 
-### [Ali Zahid](http://www.twitter.com/alizhd), Associate
+### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>, Associate
 
-Ali is a Y-Combinator graduate. He founded Vanhawks and made the world's first smart carbon fibre bike. Ali helps us discover great founders.
+Ali is a Y-Combinator graduate. He founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a> and made the world's first smart carbon fibre bike. Ali helps us discover great founders.
 
 ## Why We Exist
 
@@ -147,7 +147,7 @@ Is this a huge but fragmented market, or a small market that will be huge in the
 
 #### 2. Is this a prime problem? (Problem/Market Fit)
 
-[_42% of startups die because there’s no market need._](https://www.cbinsights.com/research/startup-failure-reasons-top/)
+_<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
 1. Does the target market consider this problem one of the top 3 problems they have?
 2. Is it frequent and painful?
 3. Is it under-served?
@@ -178,7 +178,7 @@ Is there evidence of the founders:
 
 #### 6. Is this the right team? (Founder/Market Fit)
 
-[_22% of startups die because it’s the wrong team for the problem._](https://www.cbinsights.com/research/startup-failure-reasons-top/)
+_<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">22% of startups die because it’s the wrong team for the problem.</a>_
 - Are the founders irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
@@ -196,7 +196,7 @@ Have they found a Value Hypothesis that’s creating market pull?
 
 #### 9. What is the unfair advantage?
 
-Will they be able to build one of the [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)?
+Will they be able to build one of the <a href="https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753" target="_blank">7 Powers</a>?
 - **Scale Economies**: A business in which per unit cost declines as production volume increases.
 - **Network Economies**: The value of a service to each user increases as new users join the network.
 - **Counter Positioning**: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
@@ -207,7 +207,7 @@ Will they be able to build one of the [7 Powers](https://medium.com/@chrisstonem
 
 #### 10. Can this be a 50x?
 
-Startups are dominated by power laws. [The top 10 unicorns are worth as much as the next 100 combined.](https://www.cbinsights.com/research/unicorn-power-law/) [0.04% of investments return 50x.](https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html)
+Startups are dominated by power laws. <a href="https://www.cbinsights.com/research/unicorn-power-law/" target="_blank">The top 10 unicorns are worth as much as the next 100 combined.</a> <a href="https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html">0.04% of investments return 50x.</a>.
 
 Can this Team in this Market at this valuation be one of the 4/1,000 that create a 50-100x return?
 
@@ -230,7 +230,7 @@ If no, we send you our notes.
 5. Do we have pro-rata rights? 
 6. Do we have information rights?
 7. Do the founders agree to monthly updates?
-8. Are we suffering from any [cognitive biases](https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases)?
+8. Are we suffering from any <a href="https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases" target="_blank">cognitive biases</a>?
 
 **We Need**
 1. Cap table
