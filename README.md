@@ -106,7 +106,7 @@ To decide if your company might fit our thesis and we should learn more.
 #### Next Steps
 **If yes**, move to [Meeting](#meeting).
 
-**If no**, we send you our notes.
+**If no**, we share our analysis and feedback.
 
 ### Meeting
 Our next step is to meet your founding team, preferably face-to-face.
@@ -214,7 +214,7 @@ Can this Team in this Market at this valuation be one of the 4/1,000 that create
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
 
-**If no**, we send you our notes.
+**If no**, we share our analysis and feedback.
 
 ### Due Diligence
 Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
@@ -242,7 +242,7 @@ To decide whether or not to invest.
 #### Next Steps
 **If yes**, we [start helping](#how-we-help).
 
-**If no**, we send you our notes.
+**If no**, we share our analysis and feedback.
 
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
