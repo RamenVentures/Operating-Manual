@@ -82,11 +82,11 @@ It has four steps:
 ### Our Initial Screening
 Our first step is to quickly filter all of the opportunities we see.
 
-**Our Goal**
+#### Our Goal
 
 To decide if your company might fit our thesis and we should learn more.
 
-**We Ask**
+#### Our Questions
 1. Describe the company in one sentence.
 2. Who is their target market?
 3. What problem are they solving?
@@ -96,10 +96,11 @@ To decide if your company might fit our thesis and we should learn more.
 7. Is this a world-class team? (Great Team)
 8. Are they at the right stage?
 
-**We Need**
+#### Requirements
 1. Your deck (if you have one)
 2. A link to your MVP
 
+#### Next Steps
 **If yes**, move to [Meeting](#meeting).
 
 **If no**, we send you our notes.
@@ -107,11 +108,11 @@ To decide if your company might fit our thesis and we should learn more.
 ### Meeting
 Our next step is to meet your founding team, preferably face-to-face.
 
-**Our Goal**
+#### Our Goal
 
 To develop a deep understanding of your market, problem, and team.
 
-**We Ask**
+#### Our Questions
 1. What are you working on?
 2. Why this? 
 3. Why now? 
@@ -131,17 +132,17 @@ To develop a deep understanding of your market, problem, and team.
 
 ### Our Investment Analysis
 
-**Our Goal**
+#### Our Goal
 
 To decide if your company really does fit our thesis and we should pursue an investment.
 
-**We Ask**
+#### Our Questions
 
-#### 1. Will this be a huge market? (Great Market)
+##### 1. Will this be a huge market? (Great Market)
 
 Is this a huge but fragmented market, or a small market that will be huge in the future?
 
-#### 2. Is this a prime problem? (Problem/Market Fit)
+##### 2. Is this a prime problem? (Problem/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
 1. Does the target market consider this problem one of the top 3 problems they have?
@@ -149,11 +150,11 @@ _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" targ
 3. Is it under-served?
 4. Would customers immediately adopt a solution if it was provided it to them right now?
 
-#### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
+##### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
 
 Does this company have an important mission (a huge market with a painful problem)?
 
-#### 4. Why now and not before? (Timing, Secret)
+##### 4. Why now and not before? (Timing, Secret)
 
 What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
@@ -166,23 +167,23 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed? (ie: fat being bad vs good)
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-#### 5. Is this a world-class team? (Great Team)
+##### 5. Is this a world-class team? (Great Team)
 Is there evidence of the founders:
 - Executing successfully against the opportunity?
 - Experimenting and learning rapidly?
 - Attracting world-class people?
 
-#### 6. Is this the right team? (Founder/Market Fit)
+##### 6. Is this the right team? (Founder/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">22% of startups die because it’s the wrong team for the problem.</a>_
 - Are the founders irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-#### 7. What is anomalous?
+##### 7. What is anomalous?
 
 Is something (traction, team) exceptional?
 
-#### 8. Do customers love it? (Product/Market Fit)
+##### 8. Do customers love it? (Product/Market Fit)
 
 Have they found a Value Hypothesis that’s creating market pull?
 - 5-7% week over week growth, mostly from word-of-mouth
@@ -190,7 +191,7 @@ Have they found a Value Hypothesis that’s creating market pull?
 - 40% of users being “very disappointed” if the product went away
 - Retention cohorts that flatten
 
-#### 9. What is the unfair advantage?
+##### 9. What is the unfair advantage?
 
 Will they be able to build one of the <a href="https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753" target="_blank">7 Powers</a>?
 - **Scale Economies**: A business in which per unit cost declines as production volume increases.
@@ -201,12 +202,13 @@ Will they be able to build one of the <a href="https://medium.com/@chrisstoneman
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
-#### 10. Can this be a 50x?
+##### 10. Can this be a 50x?
 
 Startups are dominated by power laws. <a href="https://www.cbinsights.com/research/unicorn-power-law/" target="_blank">The top 10 unicorns are worth as much as the next 100 combined.</a> <a href="https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html">0.04% of investments return 50x.</a>.
 
 Can this Team in this Market at this valuation be one of the 4/1,000 that create a 50-100x return?
 
+#### Next Steps
 **If yes**, move to [Investment Due Diligence](#investment-due-diligence).
 
 **If no**, we send you our notes.
@@ -214,11 +216,11 @@ Can this Team in this Market at this valuation be one of the 4/1,000 that create
 ### Our Investment Due Diligence
 Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
 
-**Our Goal**
+#### Our Goal
 
 To decide whether or not to invest.
 
-**We Ask**
+#### Our Questions
 1. What do references say about the founders?
 2. What do customers say about the company?
 3. Is the cap table clean?
@@ -228,12 +230,13 @@ To decide whether or not to invest.
 7. Do the founders agree to monthly updates?
 8. Are we suffering from any <a href="https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases" target="_blank">cognitive biases</a>?
 
-**We Need**
+#### Requirements
 1. Cap table
 2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements, etc)
 3. Financing documents.
 4. Contact information for a few reference customers.
 
+#### Next Steps
 **If yes**, we [start helping](#how-we-help).
 
 **If no**, we send you our notes.
