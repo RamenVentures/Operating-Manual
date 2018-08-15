@@ -148,10 +148,10 @@ Is this a huge but fragmented market, or a small market that will be huge in the
 ##### 2. Is this a prime problem? (Problem/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
-1. Does the target market consider this problem one of the top 3 problems they have?
-2. Is it frequent and painful?
-3. Is it under-served?
-4. Would customers immediately adopt a solution if it was provided it to them right now?
+- Does the target market consider this problem one of the top 3 problems they have?
+- Is it frequent and painful?
+- Is it under-served?
+- Would customers immediately adopt a solution if it was provided it to them right now?
 
 ##### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
 
@@ -251,26 +251,26 @@ Based on our experience and strengths, here are the three ways we can help you:
 
 ### 1. Help you find Product/Market Fit
 
-* Help you create an important Mission and Vision that attracts world-class employees and customers.
-* Help you create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
-* Help you measure Product/Market Fit and know when you’ve truly found it.
-* Share mental models for deciding what's most important to next and why.
+- Help you create an important Mission and Vision that attracts world-class employees and customers.
+- Help you create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
+- Help you measure Product/Market Fit and know when you’ve truly found it.
+- Share mental models for deciding what's most important to next and why.
 
 ### 2. Help you build and scale both your Product and your Team.
 
-* Help you identify the right roles and candidates for your team.
-* Help you effectively structure your team to build high quality product.
-* Act as a sounding board for technical and UX questions.
+- Help you identify the right roles and candidates for your team.
+- Help you effectively structure your team to build high quality product.
+- Act as a sounding board for technical and UX questions.
 
 ### 3. Help you develop into world-class founders
 
-* Coach you on becoming a more effective founder.
-* Guide you towards new learning challenges and provide self-improvement goals.
-* Help you grow and manage others.
+- Coach you on becoming a more effective founder.
+- Guide you towards new learning challenges and provide self-improvement goals.
+- Help you grow and manage others.
 
 We deliver this help:
-* **Daily**, by being available to talk about anything, personal or professional.
-* **Monthly**, by:
-	* Sending you a “Can We Help?” email reminding you of how we can help.
-	* Monitoring your Monthly Investor Update emails for requests for help and red flags.
-* **Quarterly**, by sharing a Founder Review.
+- **Daily**, by being available to talk about anything, personal or professional.
+- **Monthly**, by:
+	- Sending you a “Can We Help?” email reminding you of how we can help.
+	- Monitoring your Monthly Investor Update emails for requests for help and red flags.
+- **Quarterly**, by sharing a Founder Review.
