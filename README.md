@@ -61,14 +61,19 @@ Startups that go after the hardest problems in the biggest markets are the ones 
 Our strategy is to invest in 100 companies working on hard problems in big markets and get them to Product/Market Fit.
 
 ## Our Investment Thesis
-Every startup is made up of three components: Market, Team, and Product.
+Every startup is made up of three components:
+* Market
+* Team
+* Product.
 
 We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
-First we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing. Our thesis is:
+We believe that great startups are:
 - 75% Market
 - 25% Team
 - 0% Product
+
+So, first we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing.
 
 ## Our Investment Process
 We strive to be known as the most founder-friendly investors in Canada. To that end, we:
