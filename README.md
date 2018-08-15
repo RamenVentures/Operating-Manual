@@ -253,26 +253,26 @@ Based on our experience and strengths, here are the three ways we can help you:
 
 ### 1. Help you find Product/Market Fit
 
-1. Help you create an important Mission and Vision that attracts world-class employees and customers.
-2. Help you create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
-3. Help you measure Product/Market Fit and know when you’ve truly found it.
-4. Help you use mental models for understanding what’s most important to do next.
+* Help you create an important Mission and Vision that attracts world-class employees and customers.
+* Help you create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
+* Help you measure Product/Market Fit and know when you’ve truly found it.
+* Share mental models for deciding what's most important to next and why.
 
 ### 2. Help you build and scale both your Product and your Team.
 
-1. Help you identify the right candidates to fill out your team.
-2. Help you effectively structure your engineering team to build high quality, bullet-proof product.
-3. Act as a sounding board for architecture decisions, technical problems and UX questions.
+* Help you identify the right roles and candidates for your team.
+* Help you effectively structure your team to build high quality product.
+* Act as a sounding board for technical and UX questions.
 
 ### 3. Help you develop into world-class founders
 
-1. Coach you on how to become a more effective founder.
-2. Help you grow and manage people.
-3. Guide you towards new learning challenges and provide self-improvement goals.
+* Coach you on becoming a more effective founder.
+* Guide you towards new learning challenges and provide self-improvement goals.
+* Help you grow and manage others.
 
 We deliver this help:
-1. **Daily**, by being available to talk anytime.
-2. **Monthly**, by:
-	1. Sending you a “Can We Help?” email reminding you of the three ways we can help.
-	2. Watching your Monthly Investor Update emails for opportunities to help and red flags.
-3. **Quarterly**, by sending you a Founder Report Card.
+* **Daily**, by being available to talk about anything, personal or professional.
+* **Monthly**, by:
+	* Sending you a “Can We Help?” email reminding you of how we can help.
+	* Monitoring your Monthly Investor Update emails for requests for help and red flags.
+* **Quarterly**, by sharing a Founder Review.
