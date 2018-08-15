@@ -56,7 +56,7 @@ We're rational optimists who believe that technology creates abundance and makes
 To create massive abundance through technology.
 
 ### Our Strategy
-Startups with an important mission - solving an important problem in a huge market - are the ones that change the world. But there's a funding gap for these startups in Canada. We need more angels, especially those with experience building world-class companies, to support the highest risk/highest reward startups when they're just starting up.
+Startups with an important mission - solving an important problem in a huge market - are the ones that change the world. But there's not enough early-stage support for these companies in Canada. We need more angels, especially those with experience building world-class companies, to support these high risk/high reward startups before they've found Product/Market Fit and can raise money from VCs.
 
 We fill this gap.
 
