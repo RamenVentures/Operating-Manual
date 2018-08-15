@@ -83,7 +83,8 @@ It has four steps:
 Our first step is to quickly filter all of the opportunities we see.
 
 **Our Goal**
-Decide if a company fits our thesis and we should learn more.
+
+To decide if your company might fit our thesis and we should learn more.
 
 If yes, move to [Meeting](#meeting).
 
@@ -107,7 +108,8 @@ If no, we send you our notes.
 Our next step is to meet your founding team, preferably face-to-face.
 
 **Our Goal**
-To develop a deep understanding your market, problem, and team.
+
+To develop a deep understanding of your market, problem, and team.
 
 **We Ask**
 1. What are you working on?
@@ -130,6 +132,7 @@ To develop a deep understanding your market, problem, and team.
 ### Our Investment Analysis
 
 **Our Goal**
+
 To decide if your company really does fit our thesis and we should pursue an investment.
 
 If yes, move to [Investment Due Diligence](#investment-due-diligence).
@@ -212,6 +215,7 @@ Can this Team in this Market at this valuation be one of the 4/1,000 that create
 Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
 
 **Our Goal**
+
 To decide whether or not to invest.
 
 If yes, we [start helping](#how-we-help).
