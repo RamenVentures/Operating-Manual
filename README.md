@@ -56,9 +56,9 @@ We're rational optimists who believe that technology creates abundance and makes
 To create massive abundance through technology.
 
 ### Our Strategy
-Startups that go after the hardest problems in the biggest markets are the ones that change the world. But Canada has a funding gap. The most ambitious companies are also the most risky (at the start). Canada needs more angels, especially those who have helped build world-class companies, to help these companies when no one else will.
+Startups with an important mission - solving an important problem in a huge market - are the ones that change the world. But there's a funding gap for these startups in Canada. We need more angels, especially those with experience building world-class companies, to support the highest risk/highest reward startups when they're just starting up.
 
-Our strategy is to invest in 100 companies working on hard problems in big markets and get them to Product/Market Fit.
+Our strategy is to fill this funding gap by investing in 100 startups working on hard problems in big markets and get them to Product/Market Fit.
 
 ## Our Investment Thesis
 Every startup is made up of three components:
@@ -73,16 +73,14 @@ We believe that great startups are:
 - 25% Team
 - 0% Product
 
-So, first we look for companies with an important mission - that is, solving an important problem in a huge market. Then, we look for a team that's irrationally passionate and capable of executing.
+So, first we look for companies with an important mission. Then, we look for a team that's irrationally passionate and capable of executing.
 
 ## Our Investment Process
 We strive to be known as the most founder-friendly investors in Canada. To that end, we:
 - Make investment decisions quickly, usually within 48 hours of [Meeting](#meeting).
 - Invest $50,000 CAD on your existing terms.
 
-Our investment process is designed to help us find companies that fit our thesis: solving hard problems in big markets with irrationally passionate teams.
-
-It has four steps:
+Our investment process has four steps and is designed to uncover companies that fit [our thesis](#our-investment-thesis):
 
 ### Screening
 Our first step is to quickly filter all of the opportunities we see.
