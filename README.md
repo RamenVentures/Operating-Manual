@@ -66,7 +66,7 @@ We invest in startups with the potential to change the world when they're pre-Pr
 Every startup is made up of three components:
 * Market
 * Team
-* Product.
+* Product
 
 We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
