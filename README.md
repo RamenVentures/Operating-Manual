@@ -58,7 +58,9 @@ To create massive abundance through technology.
 ### Our Strategy
 Startups with an important mission - solving an important problem in a huge market - are the ones that change the world. But there's a funding gap for these startups in Canada. We need more angels, especially those with experience building world-class companies, to support the highest risk/highest reward startups when they're just starting up.
 
-We'll fill this gap by investing in startups with the potential to change the world when they're pre-Product/Market Fit and help them find it.
+We fill this gap.
+
+We invest in startups with the potential to change the world when they're pre-Product/Market Fit and help them find it.
 
 ## Our Investment Thesis
 Every startup is made up of three components:
