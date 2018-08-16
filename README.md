@@ -23,10 +23,10 @@
 2. [Why We Exist](#why-we-exist)
 3. [Our Investment Thesis](#our-investment-thesis)
 4. [Our Investment Process](#our-investment-process)
-	1. [Screening](#screening)
-	2. [Meeting](#meeting)
-	3. [Analysis](#analysis)
-	4. [Due Diligence](#due-diligence)
+	1. [Step 1: Screening](#step-1-screening)
+	2. [Step 2: Meeting](#step-2-meeting)
+	3. [Step 3: Analysis](#step-3-analysis)
+	4. [Step 4: Due Diligence](#step-4-due-diligence)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
@@ -84,7 +84,7 @@ We strive to be known as the most founder-friendly investors in Canada. To that 
 
 Our investment process has four steps and is designed to uncover companies that fit [our thesis](#our-investment-thesis):
 
-### Screening
+### Step 1: Screening
 Our first step is to quickly filter all of the opportunities we see.
 
 #### Our Goal
@@ -110,7 +110,7 @@ To decide if your company might fit our thesis and we should learn more.
 
 **If no**, we share our analysis and feedback.
 
-### Meeting
+### Step 2: Meeting
 Our next step is to meet your founding team, preferably face-to-face.
 
 #### Our Goal
@@ -135,7 +135,7 @@ To develop a deep understanding of your market, problem, and team.
 15. Who's committed?
 16. Why do you want us to invest?
 
-### Analysis
+### Step 3: Analysis
 
 #### Our Goal
 
@@ -218,7 +218,7 @@ Can this Team in this Market at this valuation be one of the 4/1,000 that create
 
 **If no**, we share our analysis and feedback.
 
-### Due Diligence
+### Step 4: Due Diligence
 Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
 
 #### Our Goal
