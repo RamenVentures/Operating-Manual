@@ -118,22 +118,27 @@ Our next step is to meet your founding team, preferably face-to-face.
 To develop a deep understanding of your market, problem, and team.
 
 #### Our Questions
-1. What are you working on?
-2. Why this? 
-3. Why now? 
-4. How does it work?
-5. What’s your unfair advantage?
-6. What is your competition?
-7. What is your key metric and how is it growing?
-8. How do you make money?
-9. What are the top three reasons you might fail?
-10. How much have you raised before? On what terms?
-11. How much are you raising now? On what terms?
-12. What will you use it for?
-13. How long will it last?
-14. How will you be different by your next raise?
-15. Who's committed?
-16. Why do you want us to invest?
+1. Describe your company in one sentence.
+2. Who's the target market?
+3. What problem are you solving?
+4. How do you know this is a real problem?
+5. How do you solve it?
+6. Why solve it this way?
+7. What's your long term vision?
+8. Why are you working on this?
+9. Why now?
+10. What’s your unfair advantage?
+11. What's your competition?
+12. What's your key metric and how is it growing?
+13. How do you make money?
+14. What are the top three reasons you might fail?
+15. How much have you raised before? On what terms?
+16. How much are you raising now? On what terms?
+17. What will you use it for?
+18. How long will it last?
+19. How will you be different by your next raise?
+20. What investors are committed?
+21. Why do you want us?
 
 ### Step 3: Analysis
 
@@ -190,7 +195,7 @@ Is something (traction, team) exceptional?
 
 ##### 8. Do customers love it? (Product/Market Fit)
 
-Have they found a Value Hypothesis that’s creating market pull?
+Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75WSLUNrTHq9zJ9ThDY_aKGvjD) that’s creating market pull?
 - 5-7% week over week growth, mostly from word-of-mouth
 - High engagement on the core function
 - 40% of users being “very disappointed” if the product went away
