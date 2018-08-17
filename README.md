@@ -166,7 +166,7 @@ Does this company have an important mission (a huge market with a painful proble
 
 ##### 4. Why now and not before? (Timing, Secret)
 
-What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
+What change or lack of change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
 - **An Incongruity**: Is there a gap between the way things are and they way they should be?
 	- Between the Reality of an Industry and Assumptions about it
