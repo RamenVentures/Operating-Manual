@@ -202,7 +202,7 @@ Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75W
 - 40% of users being “very disappointed” if the product went away
 - Retention cohorts that flatten
 
-##### 9. What is the unfair advantage?
+##### 9. Will they create an unfair advantage?
 
 Will they be able to build one of the <a href="https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753" target="_blank">7 Powers</a>?
 - **Scale Economies**: A business in which per unit cost declines as production volume increases.
