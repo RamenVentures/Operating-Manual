@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    Ramen Ventures is an angel fund specializing in helping founders create the only thing that matters: Product/Market Fit.
+    Ramen Ventures is an angel fund specializing in helping pre-seed founders create the only thing that matters: Product/Market Fit.
     <br>
     <a href="https://ramen.ventures/"><strong>Website</strong></a>
     ·
