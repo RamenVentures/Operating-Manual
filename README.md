@@ -150,7 +150,8 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 ##### 1. Will this be a huge market? (Great Market)
 
-Is this a huge but fragmented market, or a small market that will be huge in the future?
+- Is this a huge but fragmented market, or a small market that will be huge in the future?
+- Can a [$100M ARR SaaS](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) or $250M GMV Marketplace be built in this market?
 
 ##### 2. Is this a prime problem? (Problem/Market Fit)
 
