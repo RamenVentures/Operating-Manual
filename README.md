@@ -95,11 +95,12 @@ To decide if your company might fit our thesis and we should learn more.
 1. Describe the company in one sentence.
 2. Who is their target market?
 3. What problem are they solving?
-4. Who are the founders and VIPs?
-5. Will this be a huge market? (Great Market)
-6. Is this a prime problem? (Problem/Market Fit)
-7. Is this a world-class team? (Great Team)
-8. Are they at the right stage?
+4. Could this be a huge market? (Great Market)
+5. Is this a prime problem? (Problem/Market Fit)
+6. What could this become? (Black Swan)
+7. Who are the founders and VIPs?
+8. Is this a world-class team? (Great Team)
+9. Are they at the right stage? (Pre-Seed)
 
 #### Requirements
 1. Your deck (if you have one)
@@ -148,24 +149,32 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Questions
 
-##### 1. Will this be a huge market? (Great Market)
+##### 1. Could this be a huge and valuable market? (Great Market)
 
-- Is this a huge but fragmented market, or a small market that will be huge in the future?
-- Can a [$100M ARR SaaS](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) or $250M GMV Marketplace be built in this market?
+- Is this a huge but fragmented market, or a small market that could become huge?
+- If this worked, could a [$100M ARR SaaS](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) or $250M GMV Marketplace be built in this market?
 
 ##### 2. Is this a prime problem? (Problem/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
-- Does the target market consider this problem one of the top 3 problems they have?
+- Is this a Top 3 problem for this target market?
 - Is it frequent and painful?
 - Is it under-served?
 - Would customers immediately adopt a solution if it was provided it to them right now?
 
-##### 3. Will this be one of the most important companies on the planet? (Mission & Vision)
+##### 3. What could this become? (Black Swan)
 
-Does this company have an important mission (a huge market with a painful problem)?
+If this _did_ work, what could it become?
 
-##### 4. Why now and not before? (Timing, Secret)
+Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as towncars for the 1%.
+
+As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
+
+##### 4. Will this be one of the most important companies on the planet? (Mission & Vision)
+
+Does this company have an important mission and vision?
+
+##### 5. Why now and not before? (Timing, Secret)
 
 What change or lack of change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
@@ -178,23 +187,23 @@ What change or lack of change (like Drucker’s Seven Sources of Innovation) has
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed? (ie: fat being bad vs good)
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-##### 5. Is this a world-class team? (Great Team)
+##### 6. Is this a world-class team? (Great Team)
 Is there evidence of the founders:
 - Executing successfully against the opportunity?
 - Experimenting and learning rapidly?
 - Attracting world-class people?
 
-##### 6. Is this the right team? (Founder/Market Fit)
+##### 7. Is this the right team? (Founder/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">22% of startups die because it’s the wrong team for the problem.</a>_
 - Are the founders irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-##### 7. What is anomalous?
+##### 8. What is anomalous?
 
 Is something (traction, team) exceptional?
 
-##### 8. Do customers love it? (Product/Market Fit)
+##### 9. Do early users love it? (Product/Market Fit)
 
 Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75WSLUNrTHq9zJ9ThDY_aKGvjD) that’s creating market pull?
 - 5-7% week over week growth, mostly from word-of-mouth
@@ -202,7 +211,7 @@ Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75W
 - 40% of users being “very disappointed” if the product went away
 - Retention cohorts that flatten
 
-##### 9. Will they create an unfair advantage?
+##### 10. Can they create an unfair advantage? (Unfair Advantage)
 
 Will they be able to build one of the <a href="https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753" target="_blank">7 Powers</a>?
 - **Scale Economies**: A business in which per unit cost declines as production volume increases.
@@ -212,12 +221,6 @@ Will they be able to build one of the <a href="https://medium.com/@chrisstoneman
 - **Branding**: The durable attribution of higher value to an objectively identical offering that arises from historic info about the seller.
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
-
-##### 10. Can this be a 50x?
-
-Startups are dominated by power laws. <a href="https://www.cbinsights.com/research/unicorn-power-law/" target="_blank">The top 10 unicorns are worth as much as the next 100 combined.</a> <a href="https://www.sethlevine.com/archives/2014/08/venture-outcomes-are-even-more-skewed-than-you-think.html">0.04% of investments return 50x.</a>.
-
-Can this Team in this Market at this valuation be one of the 4/1,000 that create a 50-100x return?
 
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
