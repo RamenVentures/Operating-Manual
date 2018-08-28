@@ -92,15 +92,31 @@ Our first step is to quickly filter all of the opportunities we see.
 To decide if your company might fit our thesis and we should learn more.
 
 #### Our Questions
-1. Describe the company in one sentence.
-2. Who is their target market?
-3. What problem are they solving?
-4. Could this be a huge market? (Great Market)
-5. Is this a prime problem? (Problem/Market Fit)
-6. What could this become? (Black Swan)
-7. Who are the founders and VIPs?
-8. Is this a world-class team? (Great Team)
-9. Are they at the right stage? (Pre-Seed)
+##### 1. Describe the company in one sentence.
+##### 2. Who is their target market?
+##### 3. What problem are they solving?
+##### 4. Could this be a huge and valuable market? (Great Market)
+Details in post-meeting analysis.
+
+##### 5. Is this an important problem? (Problem/Market Fit)
+Details in post-meeting analysis.
+
+##### 6. What could this become? (Black Swan)
+Details in post-meeting analysis.
+
+##### 7. Who are the founders and VIPs?
+- How many founders?
+- Is there a technical co-founder?
+- How long have they known each other?
+- Is everyone working full time?
+
+##### 8. Is this a world-class team? (Great Team)
+Details in post-meeting analysis.
+
+##### 9. Are they at the right stage? (Pre-Seed)
+1. Market?
+2. Team?
+3. MVP?
 
 #### Requirements
 1. Your deck (if you have one)
@@ -154,7 +170,7 @@ To decide if your company really does fit our thesis and we should pursue an inv
 - Is this a huge but fragmented market, or a small market that could become huge?
 - If this worked, could a [$100M ARR SaaS](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) or $250M GMV Marketplace be built in this market?
 
-##### 2. Is this a prime problem? (Problem/Market Fit)
+##### 2. Is this an important problem? (Problem/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
 - Is this a Top 3 problem for this target market?
@@ -188,10 +204,8 @@ What change or lack of change (like Drucker’s Seven Sources of Innovation) has
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
 ##### 6. Is this a world-class team? (Great Team)
-Is there evidence of the founders:
-- Executing successfully against the opportunity?
-- Experimenting and learning rapidly?
-- Attracting world-class people?
+- Is the ratio between what they've achieved and how long they've been working on it in the top 10%?
+- Are they attracting world-class people?
 
 ##### 7. Is this the right team? (Founder/Market Fit)
 
