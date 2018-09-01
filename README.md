@@ -168,7 +168,7 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Could this be a huge and valuable market? (Great Market)
 
 - Is this a huge but fragmented market, or a small market that could become huge?
-- If this worked, could a [$100M ARR SaaS](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html) or $250M GMV Marketplace be built in this market?
+- If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
 
 ##### 2. Is this an important problem? (Problem/Market Fit)
 
@@ -188,7 +188,7 @@ As a fund, [the more experimental you are, the better the results](https://twitt
 
 ##### 4. Will this be one of the most important companies on the planet? (Mission & Vision)
 
-Does this company have an important mission and vision?
+Will this mission attract and retain great people?
 
 ##### 5. Why now and not before? (Timing, Secret)
 
@@ -203,14 +203,17 @@ What change or lack of change (like Drucker’s Seven Sources of Innovation) has
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed? (ie: fat being bad vs good)
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-##### 6. Is this a world-class team? (Great Team)
-- Is the ratio between what they've achieved and how long they've been working on it in the top 10%?
+##### 6. Are these world-class founders? (Great Team)
+- Is the ratio of progress / time in the top 10%?
 - Are they attracting world-class people?
+- Do they have perserverance?
+- Are they coachable?
+- Are they willing to be bold and experiment?
 
 ##### 7. Is this the right team? (Founder/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">22% of startups die because it’s the wrong team for the problem.</a>_
-- Are the founders irrationally passionate about this problem?
+- Are they irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
 ##### 8. What is anomalous?
@@ -236,6 +239,9 @@ Will they be able to build one of the <a href="https://medium.com/@chrisstoneman
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
+##### 11. Are we biased?
+Are we suffering from one of many <a href="https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases" target="_blank">cognitive biases</a>?
+
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
 
@@ -256,7 +262,6 @@ To decide whether or not to invest.
 5. Do we have pro-rata rights? 
 6. Do we have information rights?
 7. Do the founders agree to monthly updates?
-8. Are we suffering from any <a href="https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases" target="_blank">cognitive biases</a>?
 
 #### Requirements
 1. Cap table
