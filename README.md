@@ -135,27 +135,48 @@ Our next step is to meet your founding team, preferably face-to-face.
 To develop a deep understanding of your market, problem, and team.
 
 #### Our Questions
-1. Describe your company in one sentence.
-2. Who's the target market?
-3. What problem are you solving?
-4. How do you know this is a real problem?
-5. How do you solve it?
-6. Why solve it this way?
-7. What's your long term vision?
-8. Why are you working on this?
-9. Why now?
-10. What’s your unfair advantage?
-11. What's your competition?
-12. What's your key metric and how is it growing?
-13. How do you make money?
-14. What are the top three reasons you might fail?
-15. How much have you raised before? On what terms?
-16. How much are you raising now? On what terms?
-17. What will you use it for?
-18. How long will it last?
-19. How will you be different by your next raise?
-20. What investors are committed?
-21. Why do you want us?
+
+##### Mission
+- What do you do? (in one sentence)
+
+##### Problem
+- Who is the target user?
+- What is their problem?
+- How do you know this is a real problem?
+
+##### Market Size
+- How big is this market?
+
+##### Solution
+- How do solve the user’s problem?
+- Why this way?
+
+##### Insight
+- What is your unique insight?
+- What will your unfair advantage be?
+- Why now and not before?
+
+##### Team
+- Who is on the team?
+- What is your history together?
+- Why work on _this_ problem?
+- What does each person do?
+- Is everyone full time?
+- How is equity split?
+
+##### Progress
+- What is the timeline of the company until now?
+- What progress have you achieved in that time?
+
+##### Business Model
+- How will you make money?
+
+##### Your Ask
+- Are you raising now? How much and on what terms?
+- Have you raised before? How much and on what terms?
+- What will you use it for?
+- How will you be different by your next raise?
+- Who’s committed?
 
 ### Step 3: Analysis
 
