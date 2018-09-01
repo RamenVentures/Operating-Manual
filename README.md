@@ -92,31 +92,11 @@ Our first step is to quickly filter all of the opportunities we see.
 To decide if your company might fit our thesis and we should learn more.
 
 #### Our Questions
-##### 1. Describe the company in one sentence.
-##### 2. Who is their target market?
-##### 3. What problem are they solving?
-##### 4. Could this be a huge and valuable market? (Great Market)
-Details in post-meeting analysis.
-
-##### 5. Is this an important problem? (Problem/Market Fit)
-Details in post-meeting analysis.
-
-##### 6. What could this become? (Black Swan)
-Details in post-meeting analysis.
-
-##### 7. Who are the founders and VIPs?
-- How many founders?
-- Is there a technical co-founder?
-- How long have they known each other?
-- Is everyone working full time?
-
-##### 8. Is this a world-class team? (Great Team)
-Details in post-meeting analysis.
-
-##### 9. Are they at the right stage? (Pre-Seed)
-1. Market?
-2. Team?
-3. MVP?
+1. What does the company do?
+2. Will this be an important problem for a lot of people?
+3. Is this a problem we understand or would like to?
+4. Are the founders people we should know?
+5. Are they Pre-Seed (Team, Problem, and MVP?)
 
 #### Requirements
 1. Your deck (if you have one)
