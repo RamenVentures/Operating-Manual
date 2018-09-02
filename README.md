@@ -171,18 +171,18 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Questions
 
-##### 1. Could this be a huge and valuable market? (Great Market)
-
-- Is this a huge but fragmented market, or a small market that could become huge?
-- If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
-
-##### 2. Is this an important problem? (Problem/Market Fit)
+##### 1. Is this an important problem? (Problem/Market Fit)
 
 _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
 - Is this a Top 3 problem for this target market?
 - Is it frequent and painful?
 - Is it under-served?
 - Would customers immediately adopt a solution if it was provided it to them right now?
+
+##### 2. Could this be a huge and valuable market? (Great Market)
+
+- Is this a huge but fragmented market, or a small market that could become huge?
+- If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
 
 ##### 3. What could this become? (Black Swan)
 
@@ -196,17 +196,17 @@ As a fund, [the more experimental you are, the better the results](https://twitt
 
 Will this mission attract and retain great people?
 
-##### 5. Why now and not before? (Timing, Secret)
+##### 5. Why now and not before? (Insight, Timing, Secret)
 
-What change or lack of change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
+What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
 - **An Incongruity**: Is there a gap between the way things are and they way they should be?
-	- Between the Reality of an Industry and Assumptions about it
-	- Between Assumed and Actual Customer Values
+	- Between the reality of an industry and assumptions about it?
+	- Between assumed and actual customer values?
 - **A Process Need**: Are steps in a process missing, painful, or removable?
-- **An Industry or Market Change**: Are regulations, technologies, or changing customer preferences disrupting an industry?
-- **A Change in Demographics**: Are changes in populations, income, education, or age creating an opportunity?
-- **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed? (ie: fat being bad vs good)
+- **An Industry or Market Change**: Are regulations, technologies, or customer preferences changing?
+- **A Demographics Change**: Are populations, income, education, or age changing?
+- **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed?
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
 ##### 6. Are these world-class founders? (Great Team)
@@ -229,19 +229,19 @@ Is the team, traction, or tech anomolous?
 ##### 9. Do early users love it? (Product/Market Fit)
 
 Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75WSLUNrTHq9zJ9ThDY_aKGvjD) that’s creating market pull?
-- 5-7% week over week growth, mostly from word-of-mouth
-- High engagement on the core function
-- 40% of users being “very disappointed” if the product went away
-- Retention cohorts that flatten
+- 5-7% week over week growth, mostly from word-of-mouth.
+- High engagement on the core function.
+- 40% of users being “very disappointed” if the product went away.
+- Retention cohorts that flatten.
 
 ##### 10. Can they create an unfair advantage? (Unfair Advantage)
 
 Will they be able to build one of the <a href="https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753" target="_blank">7 Powers</a>?
-- **Scale Economies**: A business in which per unit cost declines as production volume increases.
-- **Network Economies**: The value of a service to each user increases as new users join the network.
+- **Scale Economies**: Per unit cost declines as scale increases.
+- **Network Economies**: The value to each user increases as new users join the network.
 - **Counter Positioning**: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
-- **Switching Costs**: The value loss expected by a customer that would be incurred from switching to an alternative supplier for additional purchases.
-- **Branding**: The durable attribution of higher value to an objectively identical offering that arises from historic info about the seller.
+- **Switching Costs**: The value loss expected by switching to an alternative.
+- **Branding**: The attribution of higher value to an objectively identical offering.
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
