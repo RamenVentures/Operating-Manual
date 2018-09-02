@@ -125,7 +125,7 @@ To develop a deep understanding of your market, problem, and team.
 - How do you know this is a real problem?
 
 ##### Market Size
-- How big is this market?
+- How big will this market be?
 
 ##### Solution
 - How do solve the user’s problem?
