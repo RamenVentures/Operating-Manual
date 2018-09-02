@@ -99,8 +99,9 @@ To decide if your company might fit our thesis and we should learn more.
 5. Is this be an important problem?
 6. Could this be a huge market?
 7. Is this a market we understand or would like to?
-8. Could we add value as investors?
-9. Are they Pre-Seed? (Market, Problem, Team, MVP)
+8. Is something exceptional? (team, traction, or tech?)
+9. Could we add value as investors?
+10. Are they Pre-Seed? (Market, Problem, Team, MVP)
 
 #### Requirements
 1. Your deck (if you have one)
@@ -221,9 +222,9 @@ _<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" targ
 - Are they irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-##### 8. What is anomalous?
+##### 8. What is exceptional?
 
-Is something (traction, team) exceptional?
+Is the team, traction, or tech anomolous?
 
 ##### 9. Do early users love it? (Product/Market Fit)
 
