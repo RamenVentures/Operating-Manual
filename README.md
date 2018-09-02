@@ -92,13 +92,15 @@ Our first step is to quickly filter all of the opportunities we see.
 To decide if your company might fit our thesis and we should learn more.
 
 #### Our Questions
-1. Who are the founders and VIPs?
+1. Who are the founders?
 2. What does the company do?
 3. Who is the target user?
-4. What is the user's problem?
-5. Is this an important problem?
-6. Could this be a huge and valuable market?
-7. Are they Pre-Seed? (Team, Problem, and MVP)
+4. What user problem are they solving?
+5. Is this be an important problem?
+6. Could this be a huge market?
+7. Is this a market we understand or would like to?
+8. Could we add value as investors?
+9. Are they Pre-Seed? (Market, Problem, Team, MVP)
 
 #### Requirements
 1. Your deck (if you have one)
