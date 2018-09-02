@@ -95,7 +95,7 @@ To decide if your company might fit our thesis and we should learn more.
 1. Who are the founders?
 2. What does the company do?
 3. Who is the target user?
-4. What user problem are they solving?
+4. What problem are they solving for them?
 5. Is this be an important problem?
 6. Could this be a huge market?
 7. Is this a market we understand or would like to?
