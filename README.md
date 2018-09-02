@@ -258,27 +258,44 @@ Our investment due diligence is designed to be light weight but rigorous enough 
 
 #### Our Goal
 
-To decide whether or not to invest.
+To ensure that the company and funding is structured for success.
 
 #### Our Questions
-1. What do references say about the founders?
-2. What do customers say about the company?
-3. Is the cap table clean?
-4. Are they raising enough to reach a logical next milestone?
-5. Do we have pro-rata rights? 
-6. Do we have information rights?
-7. Do the founders agree to monthly updates?
+##### Founders
+- Are the founders ethical?
+- Are the founders vesting?
+
+##### Cap Table
+- Is the cap table lean and fair?
+- Is the cap table free of preferential terms? (liquidity preferences, ratchets, super voting rights)
+
+##### Fundraising
+- Are they using a standard fundraising agreement and terms?
+- Are all investors receiving equal treatment?
+- Do we have pro-rata rights?
+- Do we have information rights?
+- Are they raising enough to reach a logical next milestone?
+
+##### Working Together
+- Do the founders agree to monthly updates?
 
 #### Requirements
-1. Cap table
-2. Company formation documents (Shareholder’s Agreement, Founder Vesting Agreements, etc)
-3. Financing documents.
-4. Contact information for a few reference customers.
+1. Corporate Records
+  - Cap table (including all option, note, and warrant holders)
+  - Shareholder Agreement
+  - Founder Vesting Agreements
+  - Investor's Rights Agreement
+  - Right of First Refusal Agreement
+  - Voting Agreement
+2. Past financing agreements
+3. Current financing docs
+4. Three (3) lastest investor update emails
+5. Contact info for a few reference customers.
 
 #### Next Steps
 **If yes**, we [start helping](#how-we-help).
 
-**If no**, we share our analysis and feedback.
+**If not yet**, we share our analysis and feedback.
 
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
