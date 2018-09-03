@@ -173,7 +173,7 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 ##### 1. Is this an important problem? (Problem/Market Fit)
 
-_<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">42% of startups die because there’s no market need.</a>_
+_[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Is this a Top 3 problem for this target market?
 - Is it frequent and painful?
 - Is it under-served?
@@ -218,7 +218,7 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 
 ##### 7. Is this the right team? (Founder/Market Fit)
 
-_<a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank">22% of startups die because it’s the wrong team for the problem.</a>_
+_[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Are they irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
@@ -236,7 +236,7 @@ Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75W
 
 ##### 10. Can they create an unfair advantage? (Unfair Advantage)
 
-Will they be able to build one of the <a href="https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753" target="_blank">7 Powers</a>?
+Will they be able to build one of the [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)?
 - **Scale Economies**: Per unit cost declines as scale increases.
 - **Network Economies**: The value to each user increases as new users join the network.
 - **Counter Positioning**: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
@@ -246,7 +246,7 @@ Will they be able to build one of the <a href="https://medium.com/@chrisstoneman
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
 ##### 11. Are we biased?
-Are we suffering from one of many <a href="https://en.wikipedia.org/wiki/List\_of\_cognitive\_biases" target="_blank">cognitive biases</a>?
+Are we suffering from one of many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)?
 
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
