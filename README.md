@@ -142,10 +142,9 @@ To develop a deep understanding of your market, problem, and team.
 - Why now and not before?
 
 ##### Team
-- Who is on the team?
+- Who is on the team and what does each person do?
 - What is your history together?
 - Why work on _this_ problem?
-- What does each person do?
 - Is everyone full time?
 - How is equity split?
 
