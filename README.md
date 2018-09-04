@@ -158,8 +158,8 @@ To develop a deep understanding of your market, problem, and team.
 ##### Your Ask
 - Are you raising now? How much and on what terms?
 - Have you raised before? How much and on what terms?
-- What will you use it for?
-- How will you be different by your next raise?
+- What milestones do you need to successfully raise your _next_ round?
+- How will you use the funds to get there?
 - Who’s committed?
 
 ### Step 3: Analysis
