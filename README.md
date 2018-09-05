@@ -170,7 +170,7 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Questions
 
-##### 1. Is this an important problem? (Problem/Market Fit)
+##### 1. Is this an important problem? (The Problem/Market Fit Test)
 
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Is this a Top 3 problem for this target market?
@@ -178,12 +178,12 @@ _[42% of startups die because there’s no market need.](https://www.cbinsights.
 - Is it under-served?
 - Would customers immediately adopt a solution if it was provided it to them right now?
 
-##### 2. Could this be a huge and valuable market? (Great Market)
+##### 2. Could this be a huge and valuable market? (The Great Market Test)
 
 - Is this a huge but fragmented market, or a small market that could become huge?
 - If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
 
-##### 3. What could this become? (Black Swan)
+##### 3. What could this become? (The Black Swan Test)
 
 If this _did_ work, what could it become?
 
@@ -191,11 +191,11 @@ Airbnb started as [strangers sleeping on air beds in your livingroom](https://me
 
 As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
 
-##### 4. Will this be one of the most important companies on the planet? (Mission & Vision)
+##### 4. Will this be one of the most important companies on the planet? (The Mission Test)
 
 Will this mission attract and retain great people?
 
-##### 5. Why now and not before? (Insight, Timing, Secret)
+##### 5. Why now and not before? (The Insight/Timing/Secret Test)
 
 What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
@@ -208,24 +208,24 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed?
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-##### 6. Are these world-class founders? (Great Team)
+##### 6. Are these world-class founders? (The Great Team Test)
 - Is the ratio of progress / time in the top 10%?
 - Are they attracting world-class people?
 - Do they have perserverance?
 - Are they coachable?
 - Are they willing to be bold and experiment?
 
-##### 7. Is this the right team? (Founder/Market Fit)
+##### 7. Is this the right team? (The Founder/Market Fit Test)
 
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Are they irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-##### 8. What is exceptional?
+##### 8. What is exceptional? (The Outlier Test)
 
 Is the team, traction, or tech anomolous?
 
-##### 9. Do early users love it? (Product/Market Fit)
+##### 9. Do early users love it? (The Product/Market Fit Test)
 
 Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75WSLUNrTHq9zJ9ThDY_aKGvjD) that’s creating market pull?
 - 5-7% week over week growth, mostly from word-of-mouth.
@@ -233,7 +233,7 @@ Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75W
 - 40% of users being “very disappointed” if the product went away.
 - Retention cohorts that flatten.
 
-##### 10. Can they create an unfair advantage? (Unfair Advantage)
+##### 10. Can they create an unfair advantage? (The Unfair Advantage Test)
 
 Will they be able to build one of the [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)?
 - **Scale Economies**: Per unit cost declines as scale increases.
@@ -244,7 +244,16 @@ Will they be able to build one of the [7 Powers](https://medium.com/@chrisstonem
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
 - **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
 
-##### 11. Are we biased?
+
+##### 11. Will they reach their next milestone? (The Staying Alive Test)
+
+[30% of startups die because they run out of cash.](https://www.cbinsights.com/research/startup-failure-reasons-top/)
+
+- What is required to successfully raise their _next_ round? (ie: GMV, MRR, DAUs)
+- Will their use of funds get them there?
+- Are they raising enough _this round_ to get there?
+
+##### 12. Are we biased? (The Dumb Decision Test)
 Are we suffering from one of many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)?
 
 #### Next Steps
