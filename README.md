@@ -39,7 +39,7 @@ Adam is a computer scientist who loves building products and companies. He was t
 
 ### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>, Founding Partner
 
-Josh is also computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
+Josh is also a computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
 
 ### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>, Associate
 
@@ -68,14 +68,14 @@ Every startup is made up of three components:
 * Team
 * Product
 
-We believe that a great market - a market with lots of real potential customers - pulls product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
+We believe that a great market - a market with lots of real potential customers - pulls a product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
 
 We believe that great startups are:
 - 75% Market
 - 25% Team
 - 0% Product
 
-So, first we look for companies with an important mission. Then, we look for a team that's irrationally passionate and capable of executing.
+So, first, we look for companies with an important mission. Then, we look for a team that's irrationally passionate and capable of executing.
 
 ## Our Investment Process
 We strive to be known as the most founder-friendly investors in Canada. To that end, we:
@@ -201,7 +201,7 @@ _[42% of startups die because there’s no market need.](https://www.cbinsights.
 
 If this _did_ work, what could it become?
 
-Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as towncars for the 1%. As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
+Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as town cars for the 1%. As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
 
 ##### 6. Will this be one of the most important companies on the planet? (The Mission Test)
 
@@ -236,7 +236,7 @@ _[22% of startups die because it’s the wrong team for the problem.](https://ww
 
 ##### 10. What is exceptional? (The Outlier Test)
 
-Is the team, traction, or tech anomolous?
+Is the team, traction, or tech anomalous?
 
 ##### 11. Can they create an Unfair Advantage? (The Unfair Advantage Test)
 
@@ -267,11 +267,11 @@ Are we suffering from one of many [cognitive biases](https://en.wikipedia.org/wi
 **If no**, we share our analysis and feedback.
 
 ### Step 4: Due Diligence
-Our investment due diligence is designed to be light weight but rigorous enough to uncover any red flags.
+Our investment due diligence is designed to be lightweight but rigorous enough to uncover any red flags.
 
 #### Our Goal
 
-To ensure that the company and funding is structured for success.
+To ensure that the company and funding are structured for success.
 
 #### Our Questions
 ##### Founders
@@ -280,7 +280,7 @@ To ensure that the company and funding is structured for success.
 
 ##### Cap Table
 - Is the cap table lean and fair?
-- Is the cap table free of preferential terms? (liquidity preferences, ratchets, super voting rights)
+- Is the cap table free of preferential terms? (liquidity preferences, ratchets, super-voting rights)
 
 ##### Fundraising
 - Are they using a standard fundraising agreement and terms?
@@ -302,7 +302,7 @@ To ensure that the company and funding is structured for success.
   - Voting Agreement
 2. Past financing agreements
 3. Current financing docs
-4. Three (3) lastest investor update emails
+4. Three (3) latest investor update emails
 5. Contact info for a few reference customers.
 
 #### Next Steps
@@ -318,14 +318,14 @@ Based on our experience and strengths, here are the three ways we can help you:
 ### 1. Help you find Product/Market Fit
 
 - Help you create an important Mission and Vision that attracts world-class employees and customers.
-- Help you create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
+- Help you find a Business Model (a combination of a problem, target market(s), unique value proposition, solution, channels, revenue streams, cost structure, key metrics, and unfair advantage) that results in Product/Market Fit.
 - Help you measure Product/Market Fit and know when you’ve truly found it.
 - Share mental models for deciding what's most important to next and why.
 
 ### 2. Help you build and scale both your Product and your Team.
 
 - Help you identify the right roles and candidates for your team.
-- Help you effectively structure your team to build high quality product.
+- Help you effectively structure your team to build a high-quality product.
 - Act as a sounding board for technical and UX questions.
 
 ### 3. Help you develop into world-class founders
