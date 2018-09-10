@@ -201,9 +201,7 @@ _[42% of startups die because there’s no market need.](https://www.cbinsights.
 
 If this _did_ work, what could it become?
 
-Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as towncars for the 1%.
-
-As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
+Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as towncars for the 1%. As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
 
 ##### 6. Will this be one of the most important companies on the planet? (The Mission Test)
 
@@ -224,6 +222,7 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 
 ##### 8. Are these world-class founders? (The Great Team Test)
 - Is the ratio of progress / time in the top 10%?
+- Is there a world-class technical founder?
 - Are they attracting world-class people?
 - Do they have perserverance?
 - Are they coachable?
