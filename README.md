@@ -219,10 +219,10 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 
 ##### 8. Are these world-class founders? (The Great Team Test)
 - Is the ratio of progress/time in the top 10%?
+- Are they relentlessly focused on product and growth?
 - Is there a world-class technical founder?
 - Are they attracting world-class people?
 - Do they have perseverance?
-- Are they intensely focused?
 - Are they coachable?
 - Are they willing to be bold and experiment?
 
