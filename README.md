@@ -125,21 +125,18 @@ To develop a deep understanding of your market, problem, and team.
 - What do you do? (in one sentence)
 
 ##### Problem
-- Who is the target user?
-- What is their problem?
-- How do you know this is a real problem?
+- What problem are you solving?
+- Who desperately needs this?
 
 ##### Market Size
-- How big will this market be?
+- How big will this market be in 10 years?
 
-##### Solution
+##### Solution & Unique Value Prop
 - How do solve the user’s problem?
-- Why this way?
-
-##### Insight
+- Why is this 10x better than existing alternatives?
 - What is your unique insight?
-- What will your unfair advantage be?
 - Why now and not before?
+- What will your unfair advantage be?
 
 ##### Team
 - Who is on the team and what does each person do?
