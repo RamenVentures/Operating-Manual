@@ -173,17 +173,31 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Is this an important problem? (The Problem/Market Fit Test)
 
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
+- Who desperately needs the product? (best: founder, second best: founders know the target user _perfectly_)
 - Is this a Top 3 problem for this target market?
 - Is it frequent and painful?
 - Is it under-served?
 - Would customers immediately adopt a solution if it was provided it to them right now?
 
-##### 2. Could this be a huge and valuable market? (The Great Market Test)
+##### 2. Do early users love it? (The Product/Market Fit Test)
 
-- Is this a huge but fragmented market, or a small market that could become huge?
+- Have they found a Product/Market Fit? Why or why not?
+	- 5-7% week over week growth, mostly from word-of-mouth.
+	- Retention cohorts that flatten.
+	- 40% of users “very disappointed” if the product went away.
+- Why is this not growing faster?
+
+##### 3. Will this be a big market in 10 years, and will they win it? (The Great Market Test)
+
+- Why will this be a big market in 10 years?
+- Are they starting with a large part of a small market?
 - If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
 
-##### 3. What could this become? (The Black Swan Test)
+##### 4. Is their Unique Value Proposition unique? (The Unique Value Prop Test)
+- Is this truly unique, or derivative? It’s easier to do something new and hard than something derivative and easy.
+- Is this _new_ - 10x better or cheaper?
+
+##### 5. What could this become? (The Black Swan Test)
 
 If this _did_ work, what could it become?
 
@@ -191,11 +205,11 @@ Airbnb started as [strangers sleeping on air beds in your livingroom](https://me
 
 As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
 
-##### 4. Will this be one of the most important companies on the planet? (The Mission Test)
+##### 6. Will this be one of the most important companies on the planet? (The Mission Test)
 
-Will this mission attract and retain great people?
+- Will this mission attract and retain great people?
 
-##### 5. Why now and not before? (The Insight/Timing/Secret Test)
+##### 7. Why now and not before? (The Insight/Timing/Secret Test)
 
 What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
@@ -208,44 +222,36 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed?
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-##### 6. Are these world-class founders? (The Great Team Test)
+##### 8. Are these world-class founders? (The Great Team Test)
 - Is the ratio of progress / time in the top 10%?
 - Are they attracting world-class people?
 - Do they have perserverance?
 - Are they coachable?
 - Are they willing to be bold and experiment?
 
-##### 7. Is this the right team? (The Founder/Market Fit Test)
+##### 9. Is this the right team? (The Founder/Market Fit Test)
 
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Are they irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-##### 8. What is exceptional? (The Outlier Test)
+##### 10. What is exceptional? (The Outlier Test)
 
 Is the team, traction, or tech anomolous?
 
-##### 9. Do early users love it? (The Product/Market Fit Test)
+##### 11. Can they create an Unfair Advantage? (The Unfair Advantage Test)
 
-Have they found a [Value Hypothesis](https://drive.google.com/open?id=1Psagej75WSLUNrTHq9zJ9ThDY_aKGvjD) that’s creating market pull?
-- 5-7% week over week growth, mostly from word-of-mouth.
-- High engagement on the core function.
-- 40% of users being “very disappointed” if the product went away.
-- Retention cohorts that flatten.
-
-##### 10. Can they create an unfair advantage? (The Unfair Advantage Test)
-
-Will they be able to build one of the [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)?
+What will make this more powerful at scale and difficult to copy? [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)
 - **Scale Economies**: Per unit cost declines as scale increases.
 - **Network Economies**: The value to each user increases as new users join the network.
 - **Counter Positioning**: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
 - **Switching Costs**: The value loss expected by switching to an alternative.
 - **Branding**: The attribution of higher value to an objectively identical offering.
 - **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
-- **Process Power**: Embedded company organization and activity sets which enable lower costs and/or superior product.
+- **Process Power**: Company organization and activities which enable lower costs and/or superior product.
 
 
-##### 11. Will they reach their next milestone? (The Staying Alive Test)
+##### 12. Will they reach their next milestone? (The Staying Alive Test)
 
 [30% of startups die because they run out of cash.](https://www.cbinsights.com/research/startup-failure-reasons-top/)
 
@@ -253,7 +259,7 @@ Will they be able to build one of the [7 Powers](https://medium.com/@chrisstonem
 - Will their use of funds get them there?
 - Are they raising enough _this round_ to get there?
 
-##### 12. Are we biased? (The Dumb Decision Test)
+##### 13. Are we biased? (The Dumb Decision Test)
 Are we suffering from one of many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)?
 
 #### Next Steps
