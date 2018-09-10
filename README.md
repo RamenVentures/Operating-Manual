@@ -222,6 +222,7 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - Is there a world-class technical founder?
 - Are they attracting world-class people?
 - Do they have perseverance?
+- Are they intensely focused?
 - Are they coachable?
 - Are they willing to be bold and experiment?
 
