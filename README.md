@@ -221,10 +221,10 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
 ##### 8. Are these world-class founders? (The Great Team Test)
-- Is the ratio of progress / time in the top 10%?
+- Is the ratio of progress/time in the top 10%?
 - Is there a world-class technical founder?
 - Are they attracting world-class people?
-- Do they have perserverance?
+- Do they have perseverance?
 - Are they coachable?
 - Are they willing to be bold and experiment?
 
