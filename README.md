@@ -121,11 +121,12 @@ To develop a deep understanding of your market, problem, and team.
 
 #### Our Questions
 
-##### Mission
-- What do you do? (in one sentence)
+##### Purpose & Vision
+- What's your mission? Why do you exist? (eg: "To organize the world’s information." - Google)
+- What's your vision? Where will we be in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
 
 ##### Problem
-- What problem are you solving?
+- What problem are you starting with?
 - Who desperately needs this?
 
 ##### Market Size
@@ -167,7 +168,12 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Questions
 
-##### 1. Is this an important problem? (The Problem/Market Fit Test)
+##### 1. Could this be one of the most important companies on the planet? (The Mission and Vision Test)
+
+- Does the company have an important mission?
+- Do the founders have a bold, ambitious vision?
+
+##### 2. Are they starting with an important problem? (The Problem/Market Fit Test)
 
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Who desperately needs the product? (best: founder, second best: founders know the target user _perfectly_)
@@ -176,7 +182,7 @@ _[42% of startups die because there’s no market need.](https://www.cbinsights.
 - Is it under-served?
 - Would customers immediately adopt a solution if it was provided it to them right now?
 
-##### 2. Do early users love it? (The Product/Market Fit Test)
+##### 3. Does their target market love it? (The Product/Market Fit Test)
 
 - Have they found a Product/Market Fit? Why or why not?
 	- 5-7% week over week growth, mostly from word-of-mouth.
@@ -184,25 +190,21 @@ _[42% of startups die because there’s no market need.](https://www.cbinsights.
 	- 40% of users “very disappointed” if the product went away.
 - Why is this not growing faster?
 
-##### 3. Will this be a big market in 10 years, and will they win it? (The Great Market Test)
+##### 4. Will this be a big market in 10 years, and will they win it? (The Great Market Test)
 
 - Why will this be a big market in 10 years?
 - Are they starting with a large part of a small market?
 - If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
 
-##### 4. Is their Unique Value Proposition unique? (The Unique Value Prop Test)
+##### 5. Is their Unique Value Proposition _unique_? (The Unique Value Prop Test)
 - Is this truly unique, or derivative? It’s easier to do something new and hard than something derivative and easy.
 - Is this _new_ - 10x better or cheaper?
 
-##### 5. What could this become? (The Black Swan Test)
+##### 6. What could this become? (The Black Swan Test)
 
 If this _did_ work, what could it become?
 
 Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as town cars for the 1%. As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
-
-##### 6. Will this be one of the most important companies on the planet? (The Mission Test)
-
-- Will this mission attract and retain great people?
 
 ##### 7. Why now and not before? (The Insight/Timing/Secret Test)
 
