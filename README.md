@@ -182,31 +182,23 @@ _[42% of startups die because there’s no market need.](https://www.cbinsights.
 - Is it under-served?
 - Would customers immediately adopt a solution if it was provided it to them right now?
 
-##### 3. Does their target market love it? (The Product/Market Fit Test)
-
-- Have they found a Product/Market Fit? Why or why not?
-	- 5-7% week over week growth, mostly from word-of-mouth.
-	- Retention cohorts that flatten.
-	- 40% of users “very disappointed” if the product went away.
-- Why is this not growing faster?
-
-##### 4. Will this be a big market in 10 years, and will they win it? (The Great Market Test)
+##### 3. Will this be a big market in 10 years, and will they win it? (The Great Market Test)
 
 - Why will this be a big market in 10 years?
 - Are they starting with a large part of a small market?
 - If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
 
-##### 5. Is their Unique Value Proposition _unique_? (The Unique Value Prop Test)
+##### 4. Is their Unique Value Proposition _unique_? (The Unique Value Prop Test)
 - Is this truly unique, or derivative? It’s easier to do something new and hard than something derivative and easy.
 - Is this _new_ - 10x better or cheaper?
 
-##### 6. What could this become? (The Black Swan Test)
+##### 5. What could this become? (The Black Swan Test)
 
 If this _did_ work, what could it become?
 
 Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as town cars for the 1%. As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
 
-##### 7. Why now and not before? (The Insight/Timing/Secret Test)
+##### 6. Why now and not before? (The Insight/Timing/Secret Test)
 
 What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
 - **An Unexpected Success or Failure**: Has something unexpected happened?
@@ -219,7 +211,7 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed?
 - **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
 
-##### 8. Are these world-class founders? (The Great Team Test)
+##### 7. Are these world-class founders? (The Great Team Test)
 - Is the ratio of progress/time in the top 10%?
 - Are they relentlessly focused on product and growth?
 - Is there a world-class technical founder?
@@ -228,17 +220,17 @@ What change (like Drucker’s Seven Sources of Innovation) has created this oppo
 - Are they coachable?
 - Are they willing to be bold and experiment?
 
-##### 9. Is this the right team? (The Founder/Market Fit Test)
+##### 8. Is this the right team? (The Founder/Market Fit Test)
 
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 - Are they irrationally passionate about this problem?
 - Do they understand the history of the market they’re entering?
 
-##### 10. What is exceptional? (The Outlier Test)
+##### 9. What is exceptional? (The Outlier Test)
 
 Is the team, traction, or tech anomalous?
 
-##### 11. Can they create an Unfair Advantage? (The Unfair Advantage Test)
+##### 10. Can they create an Unfair Advantage? (The Unfair Advantage Test)
 
 What will make this more powerful at scale and difficult to copy? [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)
 - **Scale Economies**: Per unit cost declines as scale increases.
@@ -250,7 +242,7 @@ What will make this more powerful at scale and difficult to copy? [7 Powers](htt
 - **Process Power**: Company organization and activities which enable lower costs and/or superior product.
 
 
-##### 12. Will they reach their next milestone? (The Staying Alive Test)
+##### 11. Will they reach their next milestone? (The Staying Alive Test)
 
 [30% of startups die because they run out of cash.](https://www.cbinsights.com/research/startup-failure-reasons-top/)
 
@@ -258,7 +250,7 @@ What will make this more powerful at scale and difficult to copy? [7 Powers](htt
 - Will their use of funds get them there?
 - Are they raising enough _this round_ to get there?
 
-##### 13. Are we biased? (The Dumb Decision Test)
+##### 12. Are we biased? (The Dumb Decision Test)
 Are we suffering from one of many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)?
 
 #### Next Steps
