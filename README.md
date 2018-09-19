@@ -165,6 +165,8 @@ To decide if your company really does fit our thesis and we should pursue an inv
 #### Our Questions
 
 ##### 1. Is _this_ the future?
+To answer this, we ask:
+
 ###### 1.1 Is this the future?
 ###### 1.2 Is this vision massively ambitious?
 ###### 1.3 What could this become?
@@ -182,6 +184,8 @@ Is this truly unique, or derivative?
 ###### 1.7 Do we believe that this is important?
 
 ##### 2. Will _these_ founders create it?
+To answer this, we ask:
+
 ###### 2.1 Are these massively ambitious, unstoppable, capable founders?
 Like @pc, @tobi, or Elon Musk, are these bold, technical, personal growth-minded, and unstoppable founders?
 
