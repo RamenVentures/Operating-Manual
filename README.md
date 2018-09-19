@@ -94,14 +94,12 @@ To decide if your company might fit our thesis and we should learn more.
 #### Our Questions
 1. Who are the founders?
 2. What does the company do?
-3. Who is the target user?
-4. What problem are they solving for them?
-5. Is this an important problem?
-6. Could this be a huge market?
-7. Is this a market we understand or would like to?
-8. Is something exceptional? (team, traction, or tech?)
-9. Could we add value as investors?
-10. Are they Pre-Seed? (Market, Problem, Team, MVP)
+3. Could this be the future?
+4. Could this be big?
+5. Could this be 10x better than the present?
+6. Do we believe this is important?
+7. Is something exceptional? (team, traction, or tech?)
+8. Are they Pre-Seed? (Problem, Target Users, Team, MVP)
 
 #### Requirements
 1. Your deck (if you have one)
@@ -121,22 +119,20 @@ To develop a deep understanding of your market, problem, and team.
 
 #### Our Questions
 
-##### Purpose & Vision
-- What's your mission? Why do you exist? (eg: "To organize the world’s information." - Google)
-- What's your vision? Where will we be in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
+##### Mission & Vision
+- What's your mission? (eg: "To organize the world’s information." - Google)
+- What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
+- Is this the most ambitious thing you can work on?
 
-##### Problem
-- What problem are you starting with?
+##### Problem & Market
+- What's the actual hard problem?
 - Who desperately needs this?
-
-##### Market Size
 - How big will this market be in 10 years?
 
 ##### Solution & Unique Value Prop
 - How do solve the user’s problem?
-- Why is this 10x better than existing alternatives?
-- What is your unique insight?
-- Why now and not before?
+- Why is this 10x better than the present?
+- What is the unique insight/secret that enables this? Why now and not before?
 - What will your unfair advantage be?
 
 ##### Team
@@ -168,90 +164,31 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Questions
 
-##### 1. Could this be one of the most important companies on the planet? (The Mission and Vision Test)
+##### 1. Is _this_ the future?
+###### 1.1 Is this the future?
+###### 1.2 Is this vision massively ambitious?
+###### 1.3 What could this become?
+Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
 
-- Does the company have an important mission?
-- Do the founders have a bold, ambitious vision?
+###### 1.4 Is this 10x better than the present?
 
-##### 2. Are they starting with an important problem? (The Problem/Market Fit Test)
-
+###### 1.5 Do people want this?
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-- Who desperately needs the product? (best: founder, second best: founders know the target user _perfectly_)
-- Is this a Top 3 problem for this target market?
-- Is it frequent and painful?
-- Is it under-served?
-- Would customers immediately adopt a solution if it was provided it to them right now?
+Who desperately needs the product? (best: founder, second best: founders know the target user _perfectly_)
 
-##### 3. Will this be a big market in 10 years, and will they win it? (The Great Market Test)
+###### 1.6 What is the unique insight/secret that enables this?
+Is this truly unique, or derivative?
 
-- Why will this be a big market in 10 years?
-- Are they starting with a large part of a small market?
-- If this worked, could a [$100M ARR](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), $250M GMV, or 10M user company be built in this market?
+###### 1.7 Do we believe that this is important?
 
-##### 4. Is their Unique Value Proposition _unique_? (The Unique Value Prop Test)
-- Is this truly unique, or derivative? It’s easier to do something new and hard than something derivative and easy.
-- Is this _new_ - 10x better or cheaper?
+##### 2. Will _these_ founders create it?
+###### 2.1 Are these massively ambitious, unstoppable, capable founders?
+Like @pc, @tobi, or Elon Musk, bold, technical, self-improving, and unstoppable founders?
 
-##### 5. What could this become? (The Black Swan Test)
-
-If this _did_ work, what could it become?
-
-Airbnb started as [strangers sleeping on air beds in your livingroom](https://medium.com/@bchesky/7-rejections-7d894cbaa084). Uber started as town cars for the 1%. As a fund, [the more experimental you are, the better the results](https://twitter.com/BenedictEvans/status/1008039058113626112).
-
-##### 6. Why now and not before? (The Insight/Timing/Secret Test)
-
-What change (like Drucker’s Seven Sources of Innovation) has created this opportunity?
-- **An Unexpected Success or Failure**: Has something unexpected happened?
-- **An Incongruity**: Is there a gap between the way things are and they way they should be?
-	- Between the reality of an industry and assumptions about it?
-	- Between assumed and actual customer values?
-- **A Process Need**: Are steps in a process missing, painful, or removable?
-- **An Industry or Market Change**: Are regulations, technologies, or customer preferences changing?
-- **A Demographics Change**: Are populations, income, education, or age changing?
-- **A Change in Perception, Meaning, or Mood**: Has a widely held view of life changed?
-- **New Knowledge**: Will a new technology make something possible, easier, cheaper, or more powerful?
-
-##### 7. Are these world-class founders? (The Great Team Test)
-- Is the ratio of progress/time in the top 10%?
-- Are they relentlessly focused on product and growth?
-- Is there a world-class technical founder?
-- Are they attracting world-class people?
-- Do they have perseverance?
-- Are they coachable?
-- Are they willing to be bold and experiment?
-
-##### 8. Is this the right team? (The Founder/Market Fit Test)
-
+###### 2.2 Do they live for _this_ mission?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-- Are they irrationally passionate about this problem?
-- Do they understand the history of the market they’re entering?
 
-##### 9. What is exceptional? (The Outlier Test)
-
-Is the team, traction, or tech anomalous?
-
-##### 10. Can they create an Unfair Advantage? (The Unfair Advantage Test)
-
-What will make this more powerful at scale and difficult to copy? [7 Powers](https://medium.com/@chrisstoneman/notes-on-7-powers-foundations-of-business-by-hamilton-helmer-5d20cfecc753)
-- **Scale Economies**: Per unit cost declines as scale increases.
-- **Network Economies**: The value to each user increases as new users join the network.
-- **Counter Positioning**: A newcomer adopts a new, superior business model which the incumbent can’t copy because it would damage their existing business.
-- **Switching Costs**: The value loss expected by switching to an alternative.
-- **Branding**: The attribution of higher value to an objectively identical offering.
-- **Cornered Resource**: Preferential access at attractive terms to a coveted asset that can independently enhance value.
-- **Process Power**: Company organization and activities which enable lower costs and/or superior product.
-
-
-##### 11. Will they reach their next milestone? (The Staying Alive Test)
-
-[30% of startups die because they run out of cash.](https://www.cbinsights.com/research/startup-failure-reasons-top/)
-
-- What is required to successfully raise their _next_ round? (ie: GMV, MRR, DAUs)
-- Will their use of funds get them there?
-- Are they raising enough _this round_ to get there?
-
-##### 12. Are we biased? (The Dumb Decision Test)
-Are we suffering from one of many [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)?
+###### 2.3 Are the executing in the top 5%?
 
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
