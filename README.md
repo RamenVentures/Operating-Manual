@@ -176,14 +176,14 @@ Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 Who desperately needs the product? (best: founder, second best: founders know the target user _perfectly_)
 
-###### 1.6 What is the unique insight/secret that enables this?
+###### 1.6 What is the unique insight/secret that enables this vision?
 Is this truly unique, or derivative?
 
 ###### 1.7 Do we believe that this is important?
 
 ##### 2. Will _these_ founders create it?
 ###### 2.1 Are these massively ambitious, unstoppable, capable founders?
-Like @pc, @tobi, or Elon Musk, bold, technical, self-improving, and unstoppable founders?
+Like @pc, @tobi, or Elon Musk, are these bold, technical, personal growth-minded, and unstoppable founders?
 
 ###### 2.2 Do they live for _this_ mission?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
