@@ -93,7 +93,8 @@ To decide if your company might fit our thesis and we should learn more.
 
 #### Our Questions
 1. Who are the founders?
-2. What does the company do?
+2. What problem does this company solve?
+3. For what specific users?
 3. Could this be the future?
 4. Could this be big?
 5. Could this be 10x better than the present?
@@ -132,8 +133,8 @@ To develop a deep understanding of your market, problem, and team.
 ##### Solution & Unique Value Prop
 - How do solve the user’s problem?
 - Why is this 10x better than the present?
-- What is the unique insight/secret that enables this? Why now and not before?
-- What will your unfair advantage be?
+- What is the unique Insight/Secret that enables this? Why now and not before?
+- What will your Unfair Advantage be?
 
 ##### Team
 - Who is on the team and what does each person do?
