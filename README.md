@@ -131,7 +131,7 @@ To develop a deep understanding of your market, problem, and team.
 - How big will this market be in 10 years?
 
 ##### Solution & Unique Value Prop
-- How do solve the user’s problem?
+- How does this solve the user’s problem?
 - Why is this 10x better than the present?
 - What is the unique Insight/Secret that enables this? Why now and not before?
 - What will your Unfair Advantage be?
@@ -254,7 +254,7 @@ Based on our experience and strengths, here are the three ways we can help you:
 - Help you create an important Mission and Vision that attracts world-class employees and customers.
 - Help you find a Business Model (a combination of a problem, target market(s), unique value proposition, solution, channels, revenue streams, cost structure, key metrics, and unfair advantage) that results in Product/Market Fit.
 - Help you measure Product/Market Fit and know when you’ve truly found it.
-- Share mental models for deciding what's most important to next and why.
+- Share mental models for deciding what's most important to do next and why.
 
 ### 2. Help you build and scale both your Product and your Team.
 
