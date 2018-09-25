@@ -131,7 +131,7 @@ To develop a deep understanding of your market, problem, and team.
 - How big will this market be in 10 years?
 
 ##### Solution & Unique Value Prop
-- How do solve the user’s problem?
+- How do you solve the user’s problem?
 - Why is this 10x better than the present?
 - What is the unique Insight/Secret that enables this? Why now and not before?
 - What will your Unfair Advantage be?
@@ -193,7 +193,7 @@ Like @pc, @tobi, or Elon Musk, are these bold, technical, personal growth-minded
 ###### 2.2 Do they live for _this_ mission?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 2.3 Are the executing in the top 5%?
+###### 2.3 Are they executing in the top 5%?
 
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
