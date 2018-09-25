@@ -168,7 +168,9 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Is _this_ the future?
 To answer this, we ask:
 
-###### 1.1 Is this the future?
+###### 1.1 Is this futuristic?
+Could this be what everyone does in 5-10 years, but almost no one is doing today?
+
 ###### 1.2 Is this vision massively ambitious?
 ###### 1.3 What could this become?
 Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
