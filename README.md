@@ -95,12 +95,12 @@ To decide if your company might fit our thesis and we should learn more.
 1. Who are the founders?
 2. What problem does this company solve?
 3. For what specific users?
-3. Could this be the future?
-4. Could this be big?
-5. Could this be 10x better than the present?
-6. Do we believe this is important?
-7. Is something exceptional? (team, traction, or tech?)
-8. Are they Pre-Seed? (Problem, Target Users, Team, MVP)
+4. Do we believe this is an important problem?
+5. Could this affect millions (or billions) of people?
+6. Does this vision look like a moonshot?
+7. Could this be the future?
+8. Is something exceptional? (team, traction, or technology)
+9. Are they "Pre-Seed"? (Problem, Target Users, Team, MVP)
 
 #### Requirements
 1. Your deck (if you have one)
