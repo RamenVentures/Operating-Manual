@@ -168,14 +168,16 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Is _this_ the future?
 To answer this, we ask:
 
-###### 1.1 Is this futuristic?
+###### 1.1 Could this be the future?
 Could this be what everyone does in 5-10 years, but almost no one is doing today?
 
-###### 1.2 Is this vision massively ambitious?
-###### 1.3 What could this become?
-Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
+###### 1.2 Could this improve the lives of millions (or even billions)?
 
-###### 1.4 Is this 10x better than the present?
+###### 1.3 Is this vision a moonshot?
+Is this 10x, not just 10% better, better on one of the world's hard problems?
+
+###### 1.4 What could this become?
+Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
 
 ###### 1.5 Do people want this?
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
@@ -184,7 +186,7 @@ Who desperately needs the product? (best: founder, second best: founders know th
 ###### 1.6 What is the unique insight/secret that enables this vision?
 Is this truly unique, or derivative?
 
-###### 1.7 Do we believe that this is important?
+###### 1.7 Do _we_ believe that this is important?
 
 ##### 2. Will _these_ founders create it?
 To answer this, we ask:
