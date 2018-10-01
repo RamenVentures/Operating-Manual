@@ -101,6 +101,10 @@ To decide if your company might fit our thesis and we should learn more.
 7. Could this be the future?
 8. Is something exceptional? (team, traction, or technology)
 9. Are they "Pre-Seed"? (Problem, Target Users, Team, MVP)
+  - Have they found Problem/Market Fit?
+  - Have they launched their MVP?
+  - Does their MVP have customers? (10+?)
+  - Does their team have the ability to build, and maintain their product in-house?
 
 #### Requirements
 1. Your deck (if you have one)
