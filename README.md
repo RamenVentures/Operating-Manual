@@ -95,12 +95,12 @@ To decide if your company might fit our thesis and we should learn more.
 1. Who are the founders?
 2. What problem does this company solve?
 3. For what specific users?
-3. Could this be the future?
-4. Could this be big?
-5. Could this be 10x better than the present?
-6. Do we believe this is important?
-7. Is something exceptional? (team, traction, or tech?)
-8. Are they Pre-Seed? (Problem, Target Users, Team, MVP)
+4. Do we believe this is an important problem?
+5. Could this affect millions (or billions) of people?
+6. Does this vision look like a moonshot?
+7. Could this be the future?
+8. Is something exceptional? (team, traction, or technology)
+9. Are they "Pre-Seed"? (Problem, Target Users, Team, MVP)
 
 #### Requirements
 1. Your deck (if you have one)
@@ -131,7 +131,7 @@ To develop a deep understanding of your market, problem, and team.
 - How big will this market be in 10 years?
 
 ##### Solution & Unique Value Prop
-- How does this solve the user’s problem?
+- How do you solve the user’s problem?
 - Why is this 10x better than the present?
 - What is the unique Insight/Secret that enables this? Why now and not before?
 - What will your Unfair Advantage be?
@@ -168,12 +168,16 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Is _this_ the future?
 To answer this, we ask:
 
-###### 1.1 Is this the future?
-###### 1.2 Is this vision massively ambitious?
-###### 1.3 What could this become?
-Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
+###### 1.1 Could this be the future?
+Could this be what everyone does in 5-10 years, but almost no one is doing today?
 
-###### 1.4 Is this 10x better than the present?
+###### 1.2 Could this improve the lives of millions (or even billions)?
+
+###### 1.3 Is this vision a moonshot?
+Is this 10x, not just 10% better, better on one of the world's hard problems?
+
+###### 1.4 What could this become?
+Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
 
 ###### 1.5 Do people want this?
 _[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
@@ -182,7 +186,7 @@ Who desperately needs the product? (best: founder, second best: founders know th
 ###### 1.6 What is the unique insight/secret that enables this vision?
 Is this truly unique, or derivative?
 
-###### 1.7 Do we believe that this is important?
+###### 1.7 Do _we_ believe that this is important?
 
 ##### 2. Will _these_ founders create it?
 To answer this, we ask:
@@ -193,7 +197,7 @@ Like @pc, @tobi, or Elon Musk, are these bold, technical, personal growth-minded
 ###### 2.2 Do they live for _this_ mission?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 2.3 Are the executing in the top 5%?
+###### 2.3 Are they executing in the top 5%?
 
 #### Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
