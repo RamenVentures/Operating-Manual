@@ -102,8 +102,7 @@ To decide if your company might fit our thesis and we should learn more.
 8. Is something exceptional? (team, traction, or technology)
 9. Are they "Pre-Seed"?
   - Have they picked a problem and initial market?
-  - Have they launched their MVP?
-  - Does their MVP have users? (10+?)
+  - Have they made significant progress towards an MVP?
   - Does their team have the ability to build, and maintain their product in-house?
 
 #### Requirements
