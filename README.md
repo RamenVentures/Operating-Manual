@@ -100,7 +100,10 @@ To decide if your company might fit our thesis and we should learn more.
 6. Does this vision look like a moonshot?
 7. Could this be the future?
 8. Is something exceptional? (team, traction, or technology)
-9. Are they "Pre-Seed"? (Problem, Target Users, Team, MVP)
+9. Are they "Pre-Seed"?
+  - Have they picked a problem and initial market?
+  - Have they made significant progress towards an MVP?
+  - Does their team have the ability to build, and maintain their product in-house?
 
 #### Requirements
 1. Your deck (if you have one)
