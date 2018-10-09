@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    Ramen Ventures is an angel fund specializing in helping pre-seed founders create the only thing that matters: Product/Market Fit.
+    Ramen Ventures is an angel fund that helps Founders working on Moonshots get from Zero to Product/Market Fit.
     <br>
     <a href="https://ramen.ventures/"><strong>Website</strong></a>
     ·
@@ -56,26 +56,31 @@ We're rational optimists who believe that technology creates abundance and makes
 To create massive abundance through technology.
 
 ### Our Strategy
-Startups with an important mission - solving an important problem in a huge market - are the ones that change the world. But there's not enough early-stage support for these companies in Canada. We need more angels, especially those with experience building world-class companies, to support these high risk/high reward startups before they've found Product/Market Fit and can raise money from VCs.
+The World needs more founders working on Moonshot solutions to important problems that affect millions or billions of people.
+
+These Moonshot companies are the ones who need the most support, especially when they're just starting up. They need investors who:
+- Encourage your massively ambitious Mission and Vision
+- Recognize failure as necessary for greatness, and value it as an opportunity to learn
+- Bring diverse backgrounds, perspectives, and cognitive styles
+- Focus on the right questions, not just answers
+
+But there's not enough support for these companies, especially in Canada. We need more angels, especially those with experience building world-class companies, to help them.
 
 We fill this gap.
 
-We invest in startups with the potential to change the world when they're pre-Product/Market Fit and help them find it.
+We invest in founders working on Moonshots when they're Pre-Product/Market Fit, then help them get to Product/Market Fit (while staying ambitious).
 
 ## Our Investment Thesis
-Every startup is made up of three components:
-* Market
-* Team
-* Product
+We believe that every startup is made up of three main pieces:
+* A Market (a Problem and Users)
+* A Product (a Unique Value Proposition and Solution)
+* A Team
 
-We believe that a great market - a market with lots of real potential customers - pulls a product out of a startup. The product doesn't need to be great; it just has to solve an important problem. And, the market doesn't care how good the team is, as long as the team can produce that viable product.
+First, we look for companies working on a huge, important, and valuable Problem for Users who desperately need it solved. We call this having an "**Important Mission**."
 
-We believe that great startups are:
-- 75% Market
-- 25% Team
-- 0% Product
+Next, we look for companies trying to solve the Problem in a way that's 10x, not 10%, better than today. We call this having a "**Moonshot Vision**."
 
-So, first, we look for companies with an important mission. Then, we look for a team that's irrationally passionate and capable of executing.
+Finally, we look for a team that's irrationally passionate about this Important Mission, has the ambition to pursue a Moonshot Vision, and the aptitude to execute on it. We call this having the "**Right Team**".
 
 ## Our Investment Process
 We strive to be known as the most founder-friendly investors in Canada. To that end, we:
@@ -89,7 +94,7 @@ Our first step is to quickly filter all of the opportunities we see.
 
 #### Our Goal
 
-To decide if your company might fit our thesis and we should learn more.
+To decide if your company might fit our Thesis and we should learn more.
 
 #### Our Questions
 1. Who are the founders?
@@ -102,7 +107,7 @@ To decide if your company might fit our thesis and we should learn more.
 8. Are they "Pre-Seed"?
   - Have they picked a Problem, Users, and Unique Value Prop?
   - Have they made significant progress towards an MVP Solution?
-  - Does their team have the ability to build, and maintain their product in-house?
+  - Does their Team have the ability to build, and maintain their product in-house?
 
 #### Requirements
 1. Your deck (if you have one)
@@ -118,22 +123,19 @@ Our next step is to meet your founding team, preferably face-to-face.
 
 #### Our Goal
 
-To develop a deep understanding of your market, problem, and team.
+To develop a deep understanding of your Problem, Users, Unique Value Prop, and Team.
 
 #### Our Questions
 
-##### Mission & Vision
+##### Mission
 - What's your mission? (eg: "To organize the world’s information." - Google)
-- What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
-- Is this the most ambitious thing you can work on?
-
-##### Problem & Market
 - What specific Problem are you trying to solve?
 - Why is this Problem important? Who desperately needs this solved?
 - Why is this Problem huge? Does it affect millions or billions?
 - Why is this Problem valuable?
 
-##### Solution & Unique Value Prop
+##### Vision
+- What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
 - How do you solve the user’s problem?
 - Why is this 10x better than the present?
 - What is the unique Insight/Secret that enables this? Why now and not before?
@@ -181,7 +183,7 @@ _[42% of startups die because there’s no Market need.](https://www.cbinsights.
 ##### 1.3 Could this Problem be valuable?
 Would solving this Problm create a ton of value, and is there a way for the company to capture some of that value?
 
-##### 1.4 Is this Unique Value Prop a Moonshot?
+##### 1.4 Is this Vision a Moonshot?
 Is this a radical solution that could be 10x, not 10%, better?
 
 ##### 1.5 What is the unique insight/secret that enables this Vision?
