@@ -59,10 +59,10 @@ To create massive abundance through technology.
 The World needs more founders working on Moonshot solutions to important problems that affect millions or billions of people.
 
 These Moonshot companies are the ones who need the most support, especially when they're just starting up. They need investors who:
-- Encourage your massively ambitious Mission and Vision
-- Recognize failure as necessary for greatness, and value it as an opportunity to learn
+- Encourage pursing important Mission and Moonshot Vision
+- Recognize failure as part of pursing greatness, and value it as an opportunity to learn
 - Bring diverse backgrounds, perspectives, and cognitive styles
-- Focus on the right questions, not just answers
+- Focus on asking the right questions, not just getting answers
 
 But there's not enough support for these companies, especially in Canada. We need more angels, especially those with experience building world-class companies, to help them.
 
