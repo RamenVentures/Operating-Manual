@@ -93,16 +93,15 @@ To decide if your company might fit our thesis and we should learn more.
 
 #### Our Questions
 1. Who are the founders?
-2. What problem does this company solve?
-3. For what specific users?
-4. Do we believe this is an important problem?
-5. Could this affect millions (or billions) of people?
-6. Does this vision look like a moonshot?
-7. Could this be the future?
-8. Is something exceptional? (team, traction, or technology)
-9. Are they "Pre-Seed"?
-  - Have they picked a problem and initial market?
-  - Have they made significant progress towards an MVP?
+2. What Problem does this company solve?
+3. For what specific Users?
+4. Could this Problem be important?
+5. Could this Problem be huge?
+6. Could this Unique Value Prop be a Moonshot?
+7. Is something exceptional? (eg: team, traction, or technology)
+8. Are they "Pre-Seed"?
+  - Have they picked a Problem, Users, and Unique Value Prop?
+  - Have they made significant progress towards an MVP Solution?
   - Does their team have the ability to build, and maintain their product in-house?
 
 #### Requirements
@@ -129,9 +128,10 @@ To develop a deep understanding of your market, problem, and team.
 - Is this the most ambitious thing you can work on?
 
 ##### Problem & Market
-- What's the actual hard problem?
-- Who desperately needs this?
-- How big will this market be in 10 years?
+- What specific Problem are you trying to solve?
+- Why is this Problem important? Who desperately needs this solved?
+- Why is this Problem huge? Does it affect millions or billions?
+- Why is this Problem valuable?
 
 ##### Solution & Unique Value Prop
 - How do you solve the user’s problem?
@@ -168,37 +168,39 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Questions
 
-##### 1. Is _this_ the future?
+#### 1. Is _this_ the future?
 To answer this, we ask:
 
-###### 1.1 Could this be the future?
-Could this be what everyone does in 5-10 years, but almost no one is doing today?
+##### 1.1 Could this Problem be huge?
+Could solving this specific Problem improve the lives of millions or even billions?
 
-###### 1.2 Could this improve the lives of millions (or even billions)?
+##### 1.2 Could this Problem be important?
+Who desperately needs the Problem solved?
+_[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 1.3 Is this vision a moonshot?
-Is this 10x, not just 10% better, better on one of the world's hard problems?
+##### 1.3 Could this Problem be valuable?
+Would solving this Problm create a ton of value, and is there a way for the company to capture some of that value?
 
-###### 1.4 What could this become?
-Suspend disbelief. If this _did_ work, what could it become? (eg: Air mattresses -> Airbnb)
+##### 1.4 Is this Unique Value Prop a Moonshot?
+Is this a radical solution that could be 10x, not 10%, better?
 
-###### 1.5 Do people want this?
-_[42% of startups die because there’s no market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-Who desperately needs the product? (best: founder, second best: founders know the target user _perfectly_)
+##### 1.5 What is the unique insight/secret that enables this Vision?
+Why now and not before?
 
-###### 1.6 What is the unique insight/secret that enables this vision?
-Is this truly unique, or derivative?
+##### 1.6 What could this become?
+Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
 
-###### 1.7 Do _we_ believe that this is important?
+##### 1.7 Do _we_ believe in this Mission and Vision?
 
 ##### 2. Will _these_ founders create it?
 To answer this, we ask:
 
-###### 2.1 Are these massively ambitious, unstoppable, capable founders?
-Like @pc, @tobi, or Elon Musk, are these bold, technical, personal growth-minded, and unstoppable founders?
-
-###### 2.2 Do they live for _this_ mission?
+###### 2.1 Do they have the right aptitude?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
+Are they world-class in this Problem?
+
+###### 2.2 Do they have the right attitude?
+Like @pc, @tobi, or Elon Musk, are they bold, personal growth-minded, unstoppable, mission-driven founders?
 
 ###### 2.3 Are they executing in the top 5%?
 
