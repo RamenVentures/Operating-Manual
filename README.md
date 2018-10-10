@@ -155,7 +155,7 @@ To develop a deep understanding of your Problem, Users, Unique Value Prop, and T
 ##### Business Model
 - How will you make money?
 
-##### Your Ask
+##### Your Fundraising
 - Are you raising now? How much and on what terms?
 - Have you raised before? How much and on what terms?
 - What milestones do you need to successfully raise your _next_ round?
