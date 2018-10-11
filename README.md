@@ -181,7 +181,7 @@ Who desperately needs the Problem solved?
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
 ##### 1.3 Could this Problem be valuable?
-Would solving this Problm create a ton of value, and is there a way for the company to capture some of that value?
+Would solving this Problem create a ton of value, and is there a way for the company to capture some of that value?
 
 ##### 1.4 Is this Vision a Moonshot?
 Is this a radical solution that could be 10x, not 10%, better?
