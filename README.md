@@ -238,18 +238,27 @@ To ensure that the company and funding are structured for success.
 - Do the founders agree to monthly updates?
 
 #### Requirements
-1. Corporate Records
-  - Cap table (including all option, note, and warrant holders)
+Access to a Data Room that includes your:
+
+1. Corporate Documents
   - Shareholder Agreement
+  - Director Resolutions
+  - Employee Stock Options Plan
+  - Cap Table (on a fully diluted basis including all option, note, and warrant holders)
+2. Founder Documents
+  - Founder Employment Agreements
   - Founder Vesting Agreements
-  - Investor's Rights Agreement
-  - Right of First Refusal Agreement
-  - Voting Agreement
-2. Financing Docs (including all side letters)
-  - Past
-  - Current
-2. Three (3) latest investor update emails
-3. Contact info for a few reference customers.
+3. Past and Current Financing Documents
+  - Subscription/Share Purchase Agreements
+  - SAFEs, Kisses, and Convertible Notes
+  - Right of First Refusal and Co-Sale Agreements
+  - Side Letters
+4. Material Contracts
+  - Major Supplier Agreements
+  - Major Customer Agreements
+  - Major Partnership Agreements
+5. Three (3) latest investor update emails
+6. Contact info for a few reference customers.
 
 #### Next Steps
 **If yes**, we [start helping](#how-we-help).
