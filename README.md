@@ -26,7 +26,7 @@
 	1. [Step 1: Screening](#step-1-screening)
 	2. [Step 2: Meeting](#step-2-meeting)
 	3. [Step 3: Analysis](#step-3-analysis)
-	4. [Step 4: Due Diligence](#step-4-due-diligence)
+	4. [Step 4: Investment Diligence](#step-4-investment-diligence)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
