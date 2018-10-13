@@ -245,10 +245,11 @@ To ensure that the company and funding are structured for success.
   - Investor's Rights Agreement
   - Right of First Refusal Agreement
   - Voting Agreement
-2. Past financing agreements
-3. Current financing docs
-4. Three (3) latest investor update emails
-5. Contact info for a few reference customers.
+2. Financing Docs (including all side letters)
+  - Past
+  - Current
+2. Three (3) latest investor update emails
+3. Contact info for a few reference customers.
 
 #### Next Steps
 **If yes**, we [start helping](#how-we-help).
