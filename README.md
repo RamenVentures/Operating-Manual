@@ -92,11 +92,11 @@ Our investment process has four steps and is designed to uncover companies that 
 ### Step 1: Screening
 Our first step is to quickly filter all of the opportunities we see.
 
-#### Our Goal
+#### Our Screening Goal
 
 To decide if your company might fit our Thesis and we should learn more.
 
-#### Our Questions
+#### Our Screening Questions
 1. Who are the founders?
 2. What Problem does this company solve?
 3. For what specific Users?
@@ -109,11 +109,11 @@ To decide if your company might fit our Thesis and we should learn more.
   - Have they made significant progress towards an MVP Solution?
   - Does their Team have the ability to build, and maintain their product in-house?
 
-#### Requirements
+#### Our Screening Requirements
 1. Your deck (if you have one)
 2. A link to your MVP
 
-#### Next Steps
+#### Our Screening Next Steps
 **If yes**, move to [Meeting](#meeting).
 
 **If no**, we share our analysis and feedback.
@@ -121,11 +121,11 @@ To decide if your company might fit our Thesis and we should learn more.
 ### Step 2: Meeting
 Our next step is to meet your founding team, preferably face-to-face.
 
-#### Our Goal
+#### Our Meeting Goal
 
 To develop a deep understanding of your Problem, Users, Unique Value Prop, and Team.
 
-#### Our Questions
+#### Our Meeting Questions
 
 ##### Mission
 - What's your mission? (eg: "To organize the world’s information." - Google)
@@ -164,11 +164,11 @@ To develop a deep understanding of your Problem, Users, Unique Value Prop, and T
 
 ### Step 3: Analysis
 
-#### Our Goal
+#### Our Analysis Goal
 
 To decide if your company really does fit our thesis and we should pursue an investment.
 
-#### Our Questions
+#### Our Analysis Questions
 
 #### 1. Is _this_ the future?
 To answer this, we ask:
@@ -206,19 +206,19 @@ Like @pc, @tobi, or Elon Musk, are they bold, personal growth-minded, unstoppabl
 
 ###### 2.3 Are they executing in the top 5%?
 
-#### Next Steps
+#### Our Analysis Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
 
 **If no**, we share our analysis and feedback.
 
-### Step 4: Due Diligence
+### Step 4: Investment Diligence
 Our investment due diligence is designed to be lightweight but rigorous enough to uncover any red flags.
 
-#### Our Goal
+#### Our Investment Diligence Goal
 
 To ensure that the company and funding are structured for success.
 
-#### Our Questions
+#### Our Investment Diligence Questions
 ##### Founders
 - Are the founders ethical?
 - Are the founders vesting?
@@ -237,7 +237,7 @@ To ensure that the company and funding are structured for success.
 ##### Working Together
 - Do the founders agree to monthly updates?
 
-#### Requirements
+#### Our Investment Diligence Requirements
 Access to a Data Room that includes your:
 
 1. Corporate Documents
@@ -260,7 +260,7 @@ Access to a Data Room that includes your:
 5. Three (3) latest investor update emails
 6. Contact info for a few reference customers.
 
-#### Next Steps
+#### Our Investment Diligence Next Steps
 **If yes**, we [start helping](#how-we-help).
 
 **If not yet**, we share our analysis and feedback.
