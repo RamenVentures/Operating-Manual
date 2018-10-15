@@ -170,29 +170,29 @@ To decide if your company really does fit our thesis and we should pursue an inv
 
 #### Our Analysis Questions
 
-#### 1. Is _this_ the future?
+##### 1. Is _this_ the future?
 To answer this, we ask:
 
-##### 1.1 Could this Problem be huge?
+###### 1.1 Could this Problem be huge?
 Could solving this specific Problem improve the lives of millions or even billions?
 
-##### 1.2 Could this Problem be important?
+###### 1.2 Could this Problem be important?
 Who desperately needs the Problem solved?
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-##### 1.3 Could this Problem be valuable?
+###### 1.3 Could this Problem be valuable?
 Would solving this Problem create a ton of value, and is there a way for the company to capture some of that value?
 
-##### 1.4 Is this Vision a Moonshot?
+###### 1.4 Is this Vision a Moonshot?
 Is this a radical solution that could be 10x, not 10%, better?
 
-##### 1.5 What is the unique insight/secret that enables this Vision?
+###### 1.5 What is the unique insight/secret that enables this Vision?
 Why now and not before?
 
-##### 1.6 What could this become?
+###### 1.6 What could this become?
 Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
 
-##### 1.7 Do _we_ believe in this Mission and Vision?
+###### 1.7 Do _we_ believe in this Mission and Vision?
 
 ##### 2. Will _these_ founders create it?
 To answer this, we ask:
