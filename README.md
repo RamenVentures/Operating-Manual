@@ -261,7 +261,7 @@ Access to a Data Room that includes your:
 6. Contact info for a few reference customers.
 
 #### Our Investment Diligence Next Steps
-**If yes**, we [start helping](#how-we-help).
+**If yes**, we [start helping](#how-we-help-our-portfolio-companies).
 
 **If not yet**, we share our analysis and feedback.
 
