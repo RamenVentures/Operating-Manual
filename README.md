@@ -233,6 +233,7 @@ To ensure that the company and funding are structured for success.
 - Do we have pro-rata rights?
 - Do we have information rights?
 - Are they raising enough to reach a logical next milestone?
+- If later than Pre-Seed, do they have a strong lead investor who will also lead their _next_ round?
 
 ##### Working Together
 - Do the founders agree to monthly updates?
