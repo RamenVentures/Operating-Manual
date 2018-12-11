@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    Ramen Ventures is an angel fund in Toronto that helps founders create Moonshot solutions to important problems and find Product/Market Fit.
+    We’re angel investors in Toronto that help great founders create moonshot solutions to huge problems.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
