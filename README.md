@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    We’re angel investors in Toronto that help great founders create moonshot solutions to huge problems.
+    We help founders solve important problems that affect millions of people.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
@@ -53,18 +53,18 @@ Ali is a Y-Combinator graduate. He founded <a href="http://www.vanhawks.com" tar
 We're rational optimists who believe that technology creates abundance and makes the world a better place.
 
 ### Our Mission
-To create massive abundance through technology.
+To help founders use technology to create abundance.
 
 ### Our Strategy
 The World needs more founders working on Moonshot solutions to important problems that affect millions or billions of people.
 
 These Moonshot companies are the ones who need the most support, especially when they're just starting up. They need investors who:
-- Encourage pursing important Mission and Moonshot Vision
-- Recognize failure as part of pursing greatness, and value it as an opportunity to learn
-- Bring diverse backgrounds, perspectives, and cognitive styles
-- Focus on asking the right questions, not just getting answers
+- Encourage them to pursue an important Mission and Moonshot Vision.
+- Recognize failure as part of pursing greatness, and value it as an opportunity to learn.
+- Bring diverse backgrounds, perspectives, and ways of thinking.
+- Focus on asking the right questions, not just getting answers.
 
-But there's not enough support for these companies, especially in Canada. We need more angels, especially those with experience building world-class companies, to help them.
+But there's not enough support for scary ambitious startups, especially in Canada. We need more angels, especially those with experience building world-class companies, to help them.
 
 We fill this gap.
 
