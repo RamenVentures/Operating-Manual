@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    We help founders solve important problems that affect millions of people.
+    We’re angel investors that back founders solving important problems affecting millions of people.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
