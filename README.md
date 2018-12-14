@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    We angel invest in founders who are using software to make the world better for millions of people.
+    We angel invest in founders who are creating software that will improve the lives of millions of people.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
