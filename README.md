@@ -102,8 +102,8 @@ To decide if your company might fit our Thesis and we should learn more.
 3. For what specific Users?
 4. Could this Problem be important?
 5. Could this Problem be huge?
-6. Could this Unique Value Prop be a Moonshot?
-7. Is something exceptional? (eg: team, traction, or technology)
+6. Could this Vision be a Moonshot?
+7. Is something exceptional? (eg: team, traction, or tech)
 8. Are they "Pre-Seed"?
   - Have they picked a Problem, Users, and Unique Value Prop?
   - Have they made significant progress towards an MVP Solution?
@@ -202,7 +202,7 @@ _[22% of startups die because it’s the wrong team for the problem.](https://ww
 Are they world-class in this Problem?
 
 ###### 2.2 Do they have the right attitude?
-Like @pc, @tobi, or Elon Musk, are they bold, personal growth-minded, unstoppable, mission-driven founders?
+Like @pc, @tobi, or Elon Musk, are they bold, personal growth-minded, unstoppable, mission-driven founders? Do we believe that they believe in this mission?
 
 ###### 2.3 Are they executing in the top 5%?
 
