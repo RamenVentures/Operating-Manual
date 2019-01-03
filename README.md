@@ -53,7 +53,7 @@ Ali is a Y-Combinator graduate. He founded <a href="http://www.vanhawks.com" tar
 We're rational optimists who believe that technology creates abundance and makes the world a better place.
 
 ### Our Mission
-To help founders use technology to create abundance.
+To help founders who are building moonshot solutions to important problems in every way we can.
 
 ### Our Strategy
 The World needs more founders working on Moonshot solutions to important problems that affect millions or billions of people.
