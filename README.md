@@ -281,8 +281,8 @@ To decide whether or not to make additional investments in a company.
 - What is their one metric that matters?
 - What is its month-over-month growth?
 - Is market pull creating exponential growth?
-- Are they executing in the top 5%?
-- Do they send regular, clear, and concise monthly updates?
+- Are these founders executing in the top 5%?
+- Do they sead regular, clear, and concise monthly updates?
 - Are they raising an up-round led by one or more tier-1 VCs?
 
 #### Our Follow-On Investment Requirements
