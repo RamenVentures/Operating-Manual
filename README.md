@@ -27,6 +27,7 @@
 	2. [Step 2: Meeting](#step-2-meeting)
 	3. [Step 3: Analysis](#step-3-analysis)
 	4. [Step 4: Investment Diligence](#step-4-investment-diligence)
+	5. [Later: Making Follow-On Investments](#making-follow-on-investments)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
@@ -265,6 +266,39 @@ Access to a Data Room that includes your:
 **If yes**, we [start helping](#how-we-help-our-portfolio-companies).
 
 **If not yet**, we share our analysis and feedback.
+
+### Making Follow-On Investments
+
+#### Our Follow-On Investment Goal
+To decide whether or not to make additional investments in a company.
+
+#### Our Follow-On Investment Questions
+##### 1. Is _this still_ the future?
+- Do we believe in their current mission?
+- Do we believe in their current vision?
+
+##### 2. Are _these_ founders creating it?
+- What is their one metric that matters?
+- What is its month-over-month growth?
+- Is market pull creating exponential growth?
+- Are they executing in the top 5%?
+- Do they send regular, clear, and concise monthly updates?
+- Are they raising an up-round led by one or more tier-1 VCs?
+
+#### Our Follow-On Investment Requirements
+Access to a Data Room that includes your:
+
+1. Past and Current Financing Documents
+  - Subscription/Share Purchase Agreements
+  - SAFEs, Kisses, and Convertible Notes
+  - Right of First Refusal and Co-Sale Agreements
+  - Side Letters
+2. Key Metrics
+  - Your one metric that matters
+  
+#### Our Follow-On Investment Next Steps
+**If yes**, we send you more money.
+**If no**, we continue helping as we always have.
 
 ## How We Help Our Portfolio Companies
 > "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
