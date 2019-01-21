@@ -73,9 +73,9 @@ We invest in founders working on Moonshots when they're Pre-Product/Market Fit, 
 
 ## Our Investment Thesis
 We believe that every startup is made up of three main pieces:
-* A Market (a Problem and Users)
-* A Product (a Unique Value Proposition and Solution)
-* A Team
+- A Market (a Problem and Users)
+- A Product (a Unique Value Proposition and Solution)
+- A Team
 
 First, we look for companies working on a huge, important, and valuable Problem for Users who desperately need it solved. We call this having an "**Important Mission**."
 
@@ -109,10 +109,10 @@ To decide if your company might fit our Thesis and we should learn more.
 5. Is their unique value proposition extremely ambitious?
 6. Is something exceptional? (eg: team, traction, or tech)
 7. Are they "Pre-Seed"?
-  - Have they discovered a user niche and problem?
-  - Have they discovered a unique value prop that users love?
-  - Have they made significant progress towards a minimum viable product (MVP) to deliver the UVP?
-  - Do they have the ability to build, and maintain their product in-house?
+	- Have they discovered a user niche and problem?
+	- Have they discovered a unique value prop that users love?
+	- Have they made significant progress towards a minimum viable product (MVP) to deliver the UVP?
+	- Do they have the ability to build, and maintain their product in-house?
 
 #### Our Screening Requirements
 1. Your deck (if you have one)
@@ -139,13 +139,13 @@ To develop a deep understanding of your users, problem, value prop, mission, vis
 - How do you know it's painful?
 - How do you know it's unsatisfied?
 - How do you know it's valuable to solve it?
-- What's your mission? (eg: "To organize the world's information. - Google)
+- What's your long-term mission? (eg: "To organize the world's information. - Google)
 
 ##### Unique Value Proposition, Solution, and Vision
 - How will you solve the user’s problem?
 - Why is this 10x better than the users' existing solutions?
-- What is your unfair advantage? (What makes you uniquely capable of doing this?)
-- What will your accumulating advantage be? (What will make this stronger over time?)
+- What is your unfair advantage? (ie: What makes you uniquely capable of doing this?)
+- What will your accumulating advantage be? (ie: What will make this stronger over time?)
 - What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
 
 ##### Team
@@ -160,10 +160,10 @@ To develop a deep understanding of your users, problem, value prop, mission, vis
 - What progress have you achieved in that time?
 
 ##### Your Fundraising
-- Are you raising now? How much and on what terms?
-- Have you raised before? How much and on what terms?
-- What milestones do you need to successfully raise your _next_ round?
-- How will you use the funds to get there?
+- How much are you raising and on what terms?
+- How much have you raised before and on what terms?
+- What milestones do you need to achieve to successfully raise your _next_ round?
+- How will you use these funds to get there?
 - Who’s committed?
 
 ### Step 3: Analysis
@@ -177,19 +177,20 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Is _this_ the future?
 To answer this, we ask:
 
-###### 1.1 Is this problem important, painful, underserved, and valuable?
+###### 1.1 Have they discovered a problem important, painful, underserved, and valuable?
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 1.2 What is their proof from users?
-Evidence over opinion. Do they have:
-- Customer interview transcripts?
-- Alpha users?
-- LOIs?
+###### 1.2 Do they have evidence of problem validation?
+Do they have:
+	- Customer interview transcripts?
+	- LOIs?
+	
+##### 1.3 Have they discovered a unique value prop that's 10x better than existing alternatives?
 
-###### 1.3 Could this problem be huge?
-Could millions of people have this same problem?
-
-###### 1.4 Is this unique value prop 10x better than users' existing alternatives?
+##### 1.4 Do they have evidence of solution validation?
+Do they have:
+	- An MVP with early adopters?
+	- Would 40% of them be "very disappointed" if it went away?
 
 ###### 1.5 Do they have a _real_ unfair advantage?
 Is this first, best, or unique?
@@ -199,7 +200,10 @@ Why now and not before?
 ###### 1.6 Will they have a _real_ accumulating advantage?
 Can they build one of the 7 Powers?
 
-###### 1.7 What could this become?
+###### 1.7 Could this problem be huge?
+Could millions of people have this same problem?
+
+###### 1.8 What could this become?
 Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
 
 ##### 2. Will _these_ founders create it?
@@ -208,16 +212,14 @@ To answer this, we ask:
 ###### 2.1 Do they deeply understand these users and this problem?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 2.2 Are they practicing Customer Development?
-Are they constantly working with users to:
-- Discover and understand problems
-- Validate solutions
-- Iterate on an MVP
-- Test pricing
+###### 2.1 Do they have evidence that they're practicing Customer Development?
+Are they *constantly* working with early adopters to:
+	- Discover and understand problems?
+	- Validate solutions?
+	- Iterate on an MVP?
+	- Discover a business model?
 
-Or, did they "go away and build something?"
-
-###### 2.3 Are they executing in the top 5%?
+###### 2.2 Are they executing in the top 5%?
 
 #### Our Analysis Requirements
 1. Hard evidence of a real user problem, like:
@@ -261,22 +263,22 @@ To ensure that the company and funding are structured for success.
 Access to a Data Room that includes your:
 
 1. Corporate Documents
-  - Shareholder Agreement
-  - Director Resolutions
-  - Employee Stock Options Plan
-  - Cap Table (on a fully diluted basis including all option, note, and warrant holders)
+	- Shareholder Agreement
+	- Director Resolutions
+	- Employee Stock Options Plan
+	- Cap Table (on a fully diluted basis including all option, note, and warrant holders)
 2. Founder Documents
-  - Founder Employment Agreements
-  - Founder Vesting Agreements
+	- Founder Employment Agreements
+	- Founder Vesting Agreements
 3. Past and Current Financing Documents
-  - Subscription/Share Purchase Agreements
-  - SAFEs, Kisses, and Convertible Notes
-  - Right of First Refusal and Co-Sale Agreements
-  - Side Letters
+	- Subscription/Share Purchase Agreements
+	- SAFEs, Kisses, and Convertible Notes
+	- Right of First Refusal and Co-Sale Agreements
+	- Side Letters
 4. Material Contracts
-  - Major Supplier Agreements
-  - Major Customer Agreements
-  - Major Partnership Agreements
+	- Major Supplier Agreements
+	- Major Customer Agreements
+	- Major Partnership Agreements
 5. Three (3) latest investor update emails
 6. Contact info for a few reference customers.
 
@@ -307,12 +309,12 @@ To decide whether or not to make additional investments in a company.
 Access to a Data Room that includes your:
 
 1. Past and Current Financing Documents
-  - Subscription/Share Purchase Agreements
-  - SAFEs, Kisses, and Convertible Notes
-  - Right of First Refusal and Co-Sale Agreements
-  - Side Letters
+	- Subscription/Share Purchase Agreements
+	- SAFEs, Kisses, and Convertible Notes
+	- Right of First Refusal and Co-Sale Agreements
+	- Side Letters
 2. Key Metrics
-  - Your one metric that matters
+	- Your one metric that matters
   
 #### Our Follow-On Investment Next Steps
 **If yes**, we send you more money.
