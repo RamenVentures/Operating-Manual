@@ -99,16 +99,20 @@ To decide if your company might fit our Thesis and we should learn more.
 
 #### Our Screening Questions
 1. Who are the founders?
-2. What Problem does this company solve?
-3. For what specific Users?
-4. Could this Problem be important?
-5. Could this Problem be huge?
-6. Could this Vision be a Moonshot?
-7. Is something exceptional? (eg: team, traction, or tech)
-8. Are they "Pre-Seed"?
-  - Have they picked a Problem, Users, and Unique Value Prop?
-  - Have they made significant progress towards an MVP Solution?
-  - Does their Team have the ability to build, and maintain their product in-house?
+2. What user niche are they trying to solve a problem for?
+3. What problem are they solving for them?
+4. Could this problem be extremely:
+	- important to those users?
+	- painful?
+	- valuable? (something they'd pay for)
+	- huge? (could extend to millions or billions in the future)
+5. Is their unique value proposition extremely ambitious?
+6. Is something exceptional? (eg: team, traction, or tech)
+7. Are they "Pre-Seed"?
+  - Have they discovered a user niche and problem?
+  - Have they discovered a unique value prop that users love?
+  - Have they made significant progress towards a minimum viable product (MVP) to deliver the UVP?
+  - Do they have the ability to build, and maintain their product in-house?
 
 #### Our Screening Requirements
 1. Your deck (if you have one)
@@ -124,23 +128,25 @@ Our next step is to meet your founding team, preferably face-to-face.
 
 #### Our Meeting Goal
 
-To develop a deep understanding of your Problem, Users, Unique Value Prop, and Team.
+To develop a deep understanding of your users, problem, value prop, mission, vision, and team.
 
 #### Our Meeting Questions
 
-##### Mission
-- What's your mission? (eg: "To organize the world’s information." - Google)
-- What specific Problem are you trying to solve?
-- Why is this Problem important? Who desperately needs this solved?
-- Why is this Problem huge? Does it affect millions or billions?
-- Why is this Problem valuable?
+##### User, Problem, and Mission
+- What users are you solving a problem for?
+- What problem are you solving for them?
+- How do you know it's important (to them)?
+- How do you know it's painful?
+- How do you know it's unsatisfied?
+- How do you know it's valuable to solve it?
+- What's your mission? (eg: "To organize the world's information. - Google)
 
-##### Vision
+##### Unique Value Proposition, Solution, and Vision
+- How will you solve the user’s problem?
+- Why is this 10x better than the users' existing solutions?
+- What is your unfair advantage? (What makes you uniquely capable of doing this?)
+- What will your accumulating advantage be? (What will make this stronger over time?)
 - What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
-- How do you solve the user’s problem?
-- Why is this 10x better than the present?
-- What is the unique Insight/Secret that enables this? Why now and not before?
-- What will your Unfair Advantage be?
 
 ##### Team
 - Who is on the team and what does each person do?
@@ -152,9 +158,6 @@ To develop a deep understanding of your Problem, Users, Unique Value Prop, and T
 ##### Progress
 - What is the timeline of the company until now?
 - What progress have you achieved in that time?
-
-##### Business Model
-- How will you make money?
 
 ##### Your Fundraising
 - Are you raising now? How much and on what terms?
@@ -174,38 +177,53 @@ To decide if your company really does fit our thesis and we should pursue an inv
 ##### 1. Is _this_ the future?
 To answer this, we ask:
 
-###### 1.1 Could this Problem be huge?
-Could solving this specific Problem improve the lives of millions or even billions?
-
-###### 1.2 Could this Problem be important?
-Who desperately needs the Problem solved?
+###### 1.1 Is this problem important, painful, underserved, and valuable?
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 1.3 Could this Problem be valuable?
-Would solving this Problem create a ton of value, and is there a way for the company to capture some of that value?
+###### 1.2 What is their proof from users?
+Evidence over opinion. Do they have:
+- Customer interview transcripts?
+- Alpha users?
+- LOIs?
 
-###### 1.4 Is this Vision a Moonshot?
-Is this a radical solution that could be 10x, not 10%, better?
+###### 1.3 Could this problem be huge?
+Could millions of people have this same problem?
 
-###### 1.5 What is the unique insight/secret that enables this Vision?
+###### 1.4 Is this unique value prop 10x better than users' existing alternatives?
+
+###### 1.5 Do they have a _real_ unfair advantage?
+Is this first, best, or unique?
+What is the unique insight/secret that enables this?
 Why now and not before?
 
-###### 1.6 What could this become?
-Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
+###### 1.6 Will they have a _real_ accumulating advantage?
+Can they build one of the 7 Powers?
 
-###### 1.7 Do _we_ believe in this Mission and Vision?
+###### 1.7 What could this become?
+Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
 
 ##### 2. Will _these_ founders create it?
 To answer this, we ask:
 
-###### 2.1 Do they have the right aptitude?
+###### 2.1 Do they deeply understand these users and this problem?
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-Are they world-class in this Problem?
 
-###### 2.2 Do they have the right attitude?
-Like @pc, @tobi, or Elon Musk, are they bold, personal growth-minded, unstoppable, mission-driven founders? Do we believe that they believe in this mission?
+###### 2.2 Are they practicing Customer Development?
+Are they constantly working with users to:
+- Discover and understand problems
+- Validate solutions
+- Iterate on an MVP
+- Test pricing
+
+Or, did they "go away and build something?"
 
 ###### 2.3 Are they executing in the top 5%?
+
+#### Our Analysis Requirements
+1. Hard evidence of a real user problem, like:
+	- Customer interview transcripts
+	- Alpha users
+	- LOIs
 
 #### Our Analysis Next Steps
 **If yes**, start [Due Diligence](#due-diligence).
