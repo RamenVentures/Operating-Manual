@@ -189,8 +189,8 @@ Do they have:
 
 ##### 1.4 Do they have evidence of solution validation?
 Do they have:
-	- An MVP with early adopters?
-	- Would 40% of them be "very disappointed" if it went away?
+- An MVP with early adopters?
+- Would 40% of them be "very disappointed" if it went away?
 
 ###### 1.5 Do they have a _real_ unfair advantage?
 Is this first, best, or unique?
@@ -214,10 +214,10 @@ _[22% of startups die because it’s the wrong team for the problem.](https://ww
 
 ###### 2.1 Do they have evidence that they're practicing Customer Development?
 Are they *constantly* working with early adopters to:
-	- Discover and understand problems?
-	- Validate solutions?
-	- Iterate on an MVP?
-	- Discover a business model?
+- Discover and understand problems?
+- Validate solutions?
+- Iterate on an MVP?
+- Discover a business model?
 
 ###### 2.2 Are they executing in the top 5%?
 
