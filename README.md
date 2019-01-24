@@ -182,8 +182,8 @@ _[42% of startups die because there’s no Market need.](https://www.cbinsights.
 
 ###### 1.2 Do they have evidence of problem validation?
 Do they have:
-	- Customer interview transcripts?
-	- LOIs?
+- Customer interview transcripts?
+- LOIs?
 	
 ##### 1.3 Have they discovered a unique value prop that's 10x better than existing alternatives?
 
