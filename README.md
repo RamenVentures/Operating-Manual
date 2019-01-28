@@ -109,10 +109,9 @@ To decide if your company might fit our Thesis and we should learn more.
 5. Is their unique value proposition extremely ambitious?
 6. Is something exceptional? (eg: team, traction, or tech)
 7. Are they "Pre-Seed"?
-	- Have they discovered a user niche and problem?
-	- Have they discovered a unique value prop that users love?
-	- Have they made significant progress towards a minimum viable product (MVP) to deliver the UVP?
-	- Do they have the ability to build, and maintain their product in-house?
+	- Have they found Problem/Market Fit: a user niche with an important problem?
+	- Have they found Problem/Solution Fit: a unique value prop (UVP) that users love and will pay for?
+	- Are they mnaking progress towards Product/Market Fit: building a minimum viable product (MVP) to deliver the UVP?
 
 #### Our Screening Requirements
 1. Your deck (if you have one)
