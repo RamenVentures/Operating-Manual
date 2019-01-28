@@ -98,7 +98,7 @@ Our first step is to quickly filter all of the opportunities we see.
 To decide if your company might fit our Thesis and we should learn more.
 
 #### Our Screening Questions
-1. Who are the founders?
+1. Who are the founders and do they have the "3 Ds" (Design, Development, and Distribution)?
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
 4. Could this problem be extremely:
