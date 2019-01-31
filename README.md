@@ -111,7 +111,7 @@ To decide if your company might fit our Thesis and we should learn more.
 7. Are they "Pre-Seed"?
 	- Have they found Problem/Market Fit: a user niche with an important problem?
 	- Have they found Problem/Solution Fit: a unique value prop (UVP) that users love and will pay for?
-	- Are they mnaking progress towards Product/Market Fit: building a minimum viable product (MVP) to deliver the UVP?
+	- Are they making progress towards Product/Market Fit: building a minimum viable product (MVP) to deliver the UVP?
 
 #### Our Screening Requirements
 1. Your deck (if you have one)
