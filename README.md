@@ -16,6 +16,7 @@
   </p>
 </p>
 
+---
 
 ## Table of Contents
 
@@ -33,7 +34,7 @@
 
 ## Who We Are
 
-Ramen Ventures is:
+Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
 
 ### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>, Founding Partner
 
@@ -55,51 +56,40 @@ Ali is a Y-Combinator graduate. He founded <a href="http://www.vanhawks.com" tar
 We're rational optimists who believe that technology creates abundance and makes the world a better place.
 
 ### Our Mission
-To help founders who are building moonshot solutions to important problems in every way we can.
+To help great founders who are just starting up successfully solve important problems.
 
 ### Our Strategy
-The World needs more founders working on Moonshot solutions to important problems that affect millions or billions of people.
+The World needs more founders solving important problems that affect millions or billions of people.
 
-These Moonshot companies are the ones who need the most support, especially when they're just starting up. They need investors who:
-- Encourage them to pursue an important Mission and Moonshot Vision.
-- Recognize failure as part of pursing greatness, and value it as an opportunity to learn.
-- Bring diverse backgrounds, perspectives, and ways of thinking.
-- Focus on asking the right questions, not just getting answers.
+These ambitious startups seem very risky when they're just starting up. They need angel investors, especially in Canada, who encourage them to:
+- Pursue an important problem
+- Create a bold, ambitious vision
+- Be friends - open, honest, empathetic, and understanding
+- Embrace failure as part of pursing greatness
 
-But there's not enough support for scary ambitious startups, especially in Canada. We need more angels, especially those with experience building world-class companies, to help them.
+**We fill this gap.**
 
-We fill this gap.
-
-We invest in founders working on Moonshots when they're Pre-Product/Market Fit, then help them get to Product/Market Fit (while staying ambitious).
+We make angel investments in great founders who have found an important problem to solve. Then, we help set an ambitious vision and successfully create it.
 
 ## Our Investment Thesis
-We believe that every startup is made up of three main pieces:
-- A Market (a Problem and Users)
-- A Product (a Unique Value Proposition and Solution)
-- A Team
+First, we look for a startup who has identified a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
 
-First, we look for companies working on a huge, important, and valuable Problem for Users who desperately need it solved. We call this having an "**Important Mission**."
+Next, look for founders willing to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
 
-Next, we look for companies trying to solve the Problem in a way that's 10x, not 10%, better than today. We call this having a "**Moonshot Vision**."
-
-Finally, we look for a team that's irrationally passionate about this Important Mission, has the ambition to pursue a Moonshot Vision, and the aptitude to execute on it. We call this having the "**Right Team**".
+Finally, we look for a team with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
 
 ## Our Investment Process
-We strive to be known as the most founder-friendly investors in Canada. To that end, we:
-- Make investment decisions quickly.
-- Invest $50,000 CAD on your existing terms.
+Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
 
-Our investment process has four steps and is designed to uncover companies that fit [our thesis](#our-investment-thesis):
+---
 
 ### Screening
-Our first step is to quickly filter all of the opportunities we see.
+#### Goal
 
-#### Our Screening Goal
+To quickly understand what a startup does and whether they might fit our thesis.
 
-To decide if your company might fit our Thesis and we should learn more.
-
-#### Our Screening Questions
-1. Who are the founders and do they have the "3 Ds" (Design, Development, and Distribution)?
+#### Questions
+1. Who are the founders? Do they have the "3 Ds (Design, Development, and Distribution)"?
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
 4. Could this problem be extremely:
@@ -114,23 +104,25 @@ To decide if your company might fit our Thesis and we should learn more.
 	- Have they found Problem/Solution Fit: a unique value prop (UVP) that users love and will pay for?
 	- Are they making progress towards Product/Market Fit: building a minimum viable product (MVP) to deliver the UVP?
 
-#### Our Screening Requirements
+#### Requirements
 1. Your deck (if you have one)
 2. A link to your MVP
 
-#### Our Screening Next Steps
-**If yes**, move to [Meeting](#meeting).
+#### Next Steps
+**If your startup fits our thesis**, continue to [Meeting](#meeting).
 
-**If no**, we share our analysis and feedback.
+**If not**, we share our analysis and feedback.
+
+---
 
 ### Meeting
 Our next step is to meet your founding team, preferably face-to-face.
 
-#### Our Meeting Goal
+#### Goal
 
-To develop a deep understanding of your users, problem, value prop, mission, vision, and team.
+For us to deeply understand your target users, problem, existing solutions, value prop, mission, vision, and team.
 
-#### Our Meeting Questions
+#### Questions
 
 ##### User, Problem, and Mission
 - What users are you solving a problem for?
@@ -166,96 +158,126 @@ To develop a deep understanding of your users, problem, value prop, mission, vis
 - How will you use these funds to get there?
 - Who’s committed?
 
+
+#### Requirements
+1. To meet you :)
+
+#### Next Steps
+**If we're excited**, start our [Learning](#learning).
+
+**If not**, we share our feedback.
+
+---
+
 ### Learning
+#### Goal
+To learn more about your target market and their problems, right from the user.
 
-#### Our Learning Goal
-TODO
+#### Questions
+We'll chat with a few users in your target market and ask:
+1. What is the problem you're trying to solve?
+2. How important is this problem to you? Why?
+3. How have you solved this problem in the past?
+4. How painful was this? Why?
+5. In a perfect world, how would you want this problem solved?
+6. How would you feel if I told you that you could no longer use COMPANY?
 
-#### Our Learning Questions
-TODO
+#### Requirements
+- Intros to 2-3 users in your target market
 
-#### Our Learning Requirements
-TODO
+#### Next Steps
+**If users tell us that this problem is important**, start [Analysis](#analysis).
 
-#### Our Learning Next Steps
-**If yes**, start [Analysis](#analysis).
+**If not**, we share our learnings and feedback.
 
-**If no**, we share our learnings and feedback.
+---
 
 ### Analysis
 
-#### Our Analysis Goal
+#### Goal
 
-To decide if your company really does fit our thesis and we should pursue an investment.
+To think deeply about your startup and decide if we should pursue an investment.
 
-#### Our Analysis Questions
+#### Questions
+We ask ourselves:
 
-##### 1. Is _this_ the future?
-To answer this, we ask:
+##### Is _this_ the future?
 
-###### 1.1 Have they discovered a problem important, painful, underserved, and valuable?
+**Have they discovered a problem important, painful, underserved, and valuable?**
+
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 1.2 Do they have evidence of problem validation?
+**Do they have evidence of problem validation?**
+
 Do they have:
 - Customer interview transcripts?
 - LOIs?
 	
-##### 1.3 Have they discovered a unique value prop that's 10x better than existing alternatives?
+**Have they created a unique value prop that's 10x better than existing alternatives?**
 
-##### 1.4 Do they have evidence of solution validation?
+**Do they have evidence of solution validation?**
+
 Do they have:
 - An MVP with early adopters?
 - Would 40% of them be "very disappointed" if it went away?
 
-###### 1.5 Do they have a _real_ unfair advantage?
-Is this first, best, or unique?
-What is the unique insight/secret that enables this?
-Why now and not before?
+**Do they have a _real_ unfair advantage?**
 
-###### 1.6 Will they have a _real_ accumulating advantage?
-Can they build one of the 7 Powers?
+- Is this first, best, or unique?
+- What is the unique insight/secret that enables this?
+- Why now and not before?
 
-###### 1.7 Could this problem be huge?
-Could millions of people have this same problem?
+**Will they have a _real_ accumulating advantage?**
 
-###### 1.8 What could this become?
+_Over time, can this company create one of the [7 Powers](https://link.medium.com/nzL1AoOn2T)?_
+
+**Could this problem be huge?**
+
+_Could millions of people have this same problem?_
+
+**What could this become?**
+
 Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
 
-##### 2. Will _these_ founders create it?
+##### Will _these_ founders create it?
 To answer this, we ask:
 
-###### 2.1 Do they deeply understand these users and this problem?
+**Do they deeply understand these users and this problem?**
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-###### 2.1 Do they have evidence that they're practicing Customer Development?
-Are they *constantly* working with early adopters to:
-- Discover and understand problems?
-- Validate solutions?
-- Iterate on an MVP?
-- Discover a business model?
+**Do they have evidence that they're practicing Customer Development?**
 
-###### 2.2 Are they executing in the top 5%?
+_Are they *constantly* working with early adopters to:_
+- _Discover and understand problems?_
+- _Validate solutions?_
+- _Iterate on an MVP?_
+- _Discover a business model?_
 
-#### Our Analysis Requirements
+**Are they executing in the top 5%?**
+
+#### Requirements
 1. Hard evidence of a real user problem, like:
 	- Customer interview transcripts
 	- Alpha users
 	- LOIs
 
-#### Our Analysis Next Steps
-**If yes**, start [Investment Diligence](#diligence).
+#### Next Steps
+**If we want to invest**, start [Investment Diligence](#diligence).
 
-**If no**, we share our analysis and feedback.
+**If not**, we share our analysis.
+
+---
 
 ### Diligence
 Our investment due diligence is designed to be lightweight but rigorous enough to uncover any red flags.
 
-#### Our Investment Diligence Goal
+#### Goal
 
 To ensure that the company and funding are structured for success.
 
-#### Our Investment Diligence Questions
+#### Questions
+We ask ourselves:
+
 ##### Founders
 - Are the founders ethical?
 - Are the founders vesting?
@@ -275,7 +297,7 @@ To ensure that the company and funding are structured for success.
 ##### Working Together
 - Do the founders agree to monthly updates?
 
-#### Our Investment Diligence Requirements
+#### Requirements
 Access to a Data Room that includes your:
 
 1. Corporate Documents
@@ -298,22 +320,28 @@ Access to a Data Room that includes your:
 5. Three (3) latest investor update emails
 6. Contact info for a few reference customers.
 
-#### Our Investment Diligence Next Steps
-**If yes**, we [start helping](#how-we-help-our-portfolio-companies).
+#### Next Steps
+**If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
 
-**If not yet**, we share our analysis and feedback.
+**If we can't**, we tell you why.
+
+---
 
 ### Making Follow-On Investments
 
-#### Our Follow-On Investment Goal
-To decide whether or not to make additional investments in a company.
+#### Goal
+To decide whether or not to make additional investments in a portfolio company.
 
-#### Our Follow-On Investment Questions
-##### 1. Is _this still_ the future?
+#### Questions
+We ask ourselves:
+
+**Is _this still_ the future?**
+
 - Do we believe in their current mission?
 - Do we believe in their current vision?
 
-##### 2. Are _these_ founders creating it?
+**Are _these_ founders creating it?**
+
 - What is their one metric that matters?
 - What is its month-over-month growth?
 - Is market pull creating exponential growth?
@@ -321,7 +349,8 @@ To decide whether or not to make additional investments in a company.
 - Do they sead regular, clear, and concise monthly updates?
 - Are they raising an up-round led by one or more tier-1 VCs?
 
-#### Our Follow-On Investment Requirements
+**Our Follow-On Investment Requirements**
+
 Access to a Data Room that includes your:
 
 1. Past and Current Financing Documents
@@ -332,33 +361,35 @@ Access to a Data Room that includes your:
 2. Key Metrics
 	- Your one metric that matters
   
-#### Our Follow-On Investment Next Steps
+#### Next Steps
 **If yes**, we send you more money.
 **If no**, we continue helping as we always have.
 
 ## How We Help Our Portfolio Companies
-> "The only thing that matters is getting to Product/Market fit.” \- Marc Andreessen
+Here are the three ways we can uniquely help you:
 
-Based on our experience and strengths, here are the three ways we can help you:
+### 1. Become World-Class Founders
+We've founded several startups and advised almost 100 founders. We help you:
 
-### 1. Help you find Product/Market Fit
+- With founder therapy - dealing with the fear, uncertainty, and doubt that comes from being a founder.
+- Find new learning challenges and set self-improvement goals.
 
-- Help you create an important Mission and Vision that attracts world-class employees and customers.
-- Help you find a Business Model (a combination of a problem, target market(s), unique value proposition, solution, channels, revenue streams, cost structure, key metrics, and unfair advantage) that results in Product/Market Fit.
-- Help you measure Product/Market Fit and know when you’ve truly found it.
-- Share mental models for deciding what's most important to do next and why.
+### 2. Build Products Users Love and Find Product/Market Fit
+We've taken dozens of successful products from problem to Product/Market Fit. We help you:
 
-### 2. Help you build and scale both your Product and your Team.
+- Find, talk to, and learn from users
+- Discover important problems
+- Create and validate ambitious solutions
+- Identify and conquer "business-killing" risks
+- Create and validate a business model (solution, channels, revenue streams, costs, key metrics, and unfair advantage) that works.
 
-- Help you identify the right roles and candidates for your team.
-- Help you effectively structure your team to build a high-quality product.
-- Act as a sounding board for technical and UX questions.
+### 3. Build a World-Class Team
+We've hired and coached hundreds of developers, product managers, and UX researchers. We help you:
 
-### 3. Help you develop into world-class founders
-
-- Coach you on becoming a more effective founder.
-- Guide you towards new learning challenges and provide self-improvement goals.
-- Help you grow and manage others.
+- Identify the right roles
+- Find the right candidates
+- Structure your team to create a high-quality product.
+- Create a high-performance culture
 
 We deliver this help:
 - **Daily**, by being available to talk about anything, personal or professional.
