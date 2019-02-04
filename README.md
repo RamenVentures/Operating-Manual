@@ -23,11 +23,12 @@
 2. [Why We Exist](#why-we-exist)
 3. [Our Investment Thesis](#our-investment-thesis)
 4. [Our Investment Process](#our-investment-process)
-	1. [Step 1: Screening](#step-1-screening)
-	2. [Step 2: Meeting](#step-2-meeting)
-	3. [Step 3: Analysis](#step-3-analysis)
-	4. [Step 4: Investment Diligence](#step-4-investment-diligence)
-	5. [Later: Making Follow-On Investments](#making-follow-on-investments)
+	1. [Screening](#screening)
+	2. [Meeting](#meeting)
+	3. [Learning](#learning)
+	4. [Analysis](#analysis)
+	5. [Diligence](#diligence)
+	6. [Later: Making Follow-On Investments](#making-follow-on-investments)
 6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
@@ -85,12 +86,12 @@ Finally, we look for a team that's irrationally passionate about this Important 
 
 ## Our Investment Process
 We strive to be known as the most founder-friendly investors in Canada. To that end, we:
-- Make investment decisions quickly, usually within 48 hours of [Meeting](#meeting).
+- Make investment decisions quickly.
 - Invest $50,000 CAD on your existing terms.
 
 Our investment process has four steps and is designed to uncover companies that fit [our thesis](#our-investment-thesis):
 
-### Step 1: Screening
+### Screening
 Our first step is to quickly filter all of the opportunities we see.
 
 #### Our Screening Goal
@@ -122,7 +123,7 @@ To decide if your company might fit our Thesis and we should learn more.
 
 **If no**, we share our analysis and feedback.
 
-### Step 2: Meeting
+### Meeting
 Our next step is to meet your founding team, preferably face-to-face.
 
 #### Our Meeting Goal
@@ -165,7 +166,23 @@ To develop a deep understanding of your users, problem, value prop, mission, vis
 - How will you use these funds to get there?
 - Who’s committed?
 
-### Step 3: Analysis
+### Learning
+
+#### Our Learning Goal
+TODO
+
+#### Our Learning Questions
+TODO
+
+#### Our Learning Requirements
+TODO
+
+#### Our Learning Next Steps
+**If yes**, start [Analysis](#analysis).
+
+**If no**, we share our learnings and feedback.
+
+### Analysis
 
 #### Our Analysis Goal
 
@@ -227,11 +244,11 @@ Are they *constantly* working with early adopters to:
 	- LOIs
 
 #### Our Analysis Next Steps
-**If yes**, start [Due Diligence](#due-diligence).
+**If yes**, start [Investment Diligence](#diligence).
 
 **If no**, we share our analysis and feedback.
 
-### Step 4: Investment Diligence
+### Diligence
 Our investment due diligence is designed to be lightweight but rigorous enough to uncover any red flags.
 
 #### Our Investment Diligence Goal
