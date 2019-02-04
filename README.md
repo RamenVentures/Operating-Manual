@@ -206,8 +206,6 @@ To decide whether we should pursue an investment.
 #### Questions
 We ask ourselves:
 
-##### Is _this_ the future?
-
 **Have they discovered a problem important, painful, underserved, and valuable?**
 
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
@@ -244,10 +242,7 @@ _Could millions of people have this same problem?_
 
 Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
 
-##### Will _these_ founders create it?
-To answer this, we ask:
-
-**Do they deeply understand these users and this problem?**
+**Do these founders deeply understand these users and this problem?**
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
 **Do they have evidence that they're practicing Customer Development?**
