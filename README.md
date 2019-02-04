@@ -37,11 +37,11 @@ Ramen Ventures is:
 
 ### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>, Founding Partner
 
-Adam is a computer scientist who loves building products and companies. He was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
+Adam loves building products and companies. He was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
 
 ### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>, Founding Partner
 
-Josh is also a computer scientist who loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
+Josh loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
 
 ### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>, Associate
 
