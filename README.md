@@ -84,6 +84,8 @@ Our investment process is designed to find companies that fit our thesis while b
 ---
 
 ### Screening
+Step 1 is to quickly screen your startup.
+
 #### Goal
 
 To quickly understand what a startup does and whether they might fit our thesis.
@@ -116,7 +118,7 @@ To quickly understand what a startup does and whether they might fit our thesis.
 ---
 
 ### Meeting
-Our next step is to meet your founding team, preferably face-to-face.
+Step 2 is to meet your founding team, preferably face-to-face.
 
 #### Goal
 
@@ -170,8 +172,10 @@ For us to deeply understand your target users, problem, existing solutions, valu
 ---
 
 ### Learning
+Step 3 is to learn more about this target market and their problems, right from the user.
+
 #### Goal
-To learn more about your target market and their problems, right from the user.
+To develop a deep understanding of this target market and their problems.
 
 #### Questions
 We'll chat with a few users in your target market and ask:
@@ -193,10 +197,11 @@ We'll chat with a few users in your target market and ask:
 ---
 
 ### Analysis
+Step 4 is our analysis where we decide whether your startup fits our thesis.
 
 #### Goal
 
-To think deeply about your startup and decide if we should pursue an investment.
+To decide whether we should pursue an investment.
 
 #### Questions
 We ask ourselves:
@@ -269,7 +274,7 @@ _Are they *constantly* working with early adopters to:_
 ---
 
 ### Diligence
-Our investment due diligence is designed to be lightweight but rigorous enough to uncover any red flags.
+Step 5 is our investment due diligence. It's designed to be lightweight but rigorous enough to uncover any red flags.
 
 #### Goal
 
