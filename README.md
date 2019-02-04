@@ -91,6 +91,8 @@ Step 1 is to quickly screen your startup.
 To understand, at a high level, what your startup does and whether it might fit our thesis.
 
 #### Questions
+We ask ourselves:
+
 1. Who are the founders? Do they have the "3 Ds (Design, Development, and Distribution)"?
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
@@ -102,10 +104,10 @@ To understand, at a high level, what your startup does and whether it might fit 
 	- huge? (could extend to millions or billions in the future)
 6. Is their unique value proposition extremely ambitious?
 7. Is something exceptional? (eg: team, traction, or tech)
-8. Are they "Pre-Seed"?
-	- Have they found Problem/Market Fit: a user niche with an important problem?
-	- Have they found Problem/Solution Fit: a unique value prop (UVP) that users love and will pay for?
-	- Are they making progress towards Product/Market Fit: building a minimum viable product (MVP) to deliver the UVP?
+8. Are they at the stage we invest? Have they:
+	- Found a user niche with an important problem? (Problem/Market Fit)
+	- Found a unique value prop (UVP) that users love and will pay for? (Problem/Solution Fit)
+	- Are working on a minimum viable product (MVP) to deliver the UVP? (working towards Product/Market Fit)
 
 #### Requirements
 1. Your deck (if you have one)
@@ -126,6 +128,7 @@ Step 2 is to meet your founding team, preferably face-to-face.
 To deeply understand your target users, problem, existing solutions, value prop, mission, vision, and team.
 
 #### Questions
+We ask you:
 
 ##### User, Problem, and Mission
 - What users are you solving a problem for?
