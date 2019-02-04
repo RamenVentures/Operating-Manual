@@ -107,7 +107,7 @@ We ask ourselves:
 8. Are they at the stage we invest? Have they:
 	- Found a user niche with an important problem? (Problem/Market Fit)
 	- Found a unique value prop (UVP) that users love and will pay for? (Problem/Solution Fit)
-	- Are working on a minimum viable product (MVP) to deliver the UVP? (working towards Product/Market Fit)
+	- Started creating a minimum viable product (MVP) to deliver their value prop? (working towards Product/Market Fit)
 
 #### Requirements
 1. Your deck (if you have one)
