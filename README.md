@@ -94,14 +94,15 @@ To understand, at a high level, what your startup does and whether it might fit 
 1. Who are the founders? Do they have the "3 Ds (Design, Development, and Distribution)"?
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
-4. Could this problem be extremely:
+4. Are any of our portfolio companies solving a similar problem?
+5. Could this problem be extremely:
 	- important to those users?
 	- painful?
 	- valuable? (something they'd pay for)
 	- huge? (could extend to millions or billions in the future)
-5. Is their unique value proposition extremely ambitious?
-6. Is something exceptional? (eg: team, traction, or tech)
-7. Are they "Pre-Seed"?
+6. Is their unique value proposition extremely ambitious?
+7. Is something exceptional? (eg: team, traction, or tech)
+8. Are they "Pre-Seed"?
 	- Have they found Problem/Market Fit: a user niche with an important problem?
 	- Have they found Problem/Solution Fit: a unique value prop (UVP) that users love and will pay for?
 	- Are they making progress towards Product/Market Fit: building a minimum viable product (MVP) to deliver the UVP?
