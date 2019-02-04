@@ -72,11 +72,11 @@ These ambitious startups seem very risky when they're just starting up. They nee
 We make angel investments in great founders who have found an important problem to solve. Then, we help set an ambitious vision and successfully create it.
 
 ## Our Investment Thesis
-First, we look for a startup who has identified a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
+First, we look for a startup that's found a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
 
-Next, look for founders willing to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
+Next, we look for founders who are trying to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
 
-Finally, we look for a team with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
+Finally, we look for founders with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
 
 ## Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
@@ -88,7 +88,7 @@ Step 1 is to quickly screen your startup.
 
 #### Goal
 
-To quickly understand what a startup does and whether they might fit our thesis.
+To understand, at a high level, what your startup does and whether it might fit our thesis.
 
 #### Questions
 1. Who are the founders? Do they have the "3 Ds (Design, Development, and Distribution)"?
@@ -122,7 +122,7 @@ Step 2 is to meet your founding team, preferably face-to-face.
 
 #### Goal
 
-For us to deeply understand your target users, problem, existing solutions, value prop, mission, vision, and team.
+To deeply understand your target users, problem, existing solutions, value prop, mission, vision, and team.
 
 #### Questions
 
@@ -172,10 +172,10 @@ For us to deeply understand your target users, problem, existing solutions, valu
 ---
 
 ### Learning
-Step 3 is to learn more about this target market and their problems, right from the user.
+Step 3 is to learn more about your target market and their problems, right from the user.
 
 #### Goal
-To develop a deep understanding of this target market and their problems.
+To develop a first-hand knowledge of your target market and their problems.
 
 #### Questions
 We'll chat with a few users in your target market and ask:
@@ -201,7 +201,7 @@ Step 4 is our analysis where we decide whether your startup fits our thesis.
 
 #### Goal
 
-To decide whether we should pursue an investment.
+To decide whether we should pursue an investment in your startup.
 
 #### Questions
 We ask ourselves:
