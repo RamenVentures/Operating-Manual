@@ -176,7 +176,7 @@ We ask you:
 ---
 
 ### Learning
-Step 3 is to learn more about your target market and their problems, right from the user.
+Step 3 is to talk to users in your target market to learn more about them and their problems.
 
 #### Goal
 To develop a first-hand knowledge of your target market and their problems.
