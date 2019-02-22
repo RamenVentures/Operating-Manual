@@ -210,7 +210,7 @@ To decide whether we should pursue an investment in your startup.
 #### Questions
 We ask ourselves:
 
-**Have they discovered a problem important, painful, underserved, and valuable?**
+**Have they discovered a problem that's important, painful, underserved, and valuable?**
 
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
