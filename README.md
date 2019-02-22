@@ -93,7 +93,7 @@ To understand, at a high level, what your startup does and whether it might fit 
 #### Questions
 We ask ourselves:
 
-1. Who are the founders? Do they have the "3 Ds (Design, Development, and Distribution)"?
+1. Who are the founders?
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
 4. Are any of our portfolio companies solving a similar problem?
@@ -102,9 +102,7 @@ We ask ourselves:
 	- painful?
 	- valuable? (something they'd pay for)
 	- huge? (could extend to millions or billions in the future)
-6. Is their unique value proposition extremely ambitious?
-7. Is something exceptional? (eg: team, traction, or tech)
-8. Are they at the stage we invest? Have they:
+6. Are they at the stage we invest? Have they:
 	- Found a user niche with an important problem? (Problem/Market Fit)
 	- Found a unique value prop (UVP) that users love and will pay for? (Problem/Solution Fit)
 	- Started creating a minimum viable product (MVP) to deliver their value prop? (working towards Product/Market Fit)
