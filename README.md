@@ -214,19 +214,13 @@ We ask ourselves:
 
 _[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-**Do they have evidence of problem validation?**
+**How big could this become?**
 
-Do they have:
-- Customer interview transcripts?
-- LOIs?
-	
-**Have they created a unique value prop that's 10x better than existing alternatives?**
+What is the maximum possible valuation (as a proxy for societal impact)?
 
-**Do they have evidence of solution validation?**
+**What could this become?**
 
-Do they have:
-- An MVP with early adopters?
-- Would 40% of them be "very disappointed" if it went away?
+If this did work, what could it become? (eg: air beds in stragers' houses -> Airbnb)
 
 **Do they have a _real_ unfair advantage?**
 
@@ -234,24 +228,17 @@ Do they have:
 - What is the unique insight/secret that enables this?
 - Why now and not before?
 
-**Will they have a _real_ accumulating advantage?**
+**Will they have an accumulating advantage?**
 
 _Over time, can this company create one of the [7 Powers](https://link.medium.com/nzL1AoOn2T)?_
 
-**Could this problem be huge?**
+**Will _these_ founders solve this problem**
 
-_Could millions of people have this same problem?_
-
-**What could this become?**
-
-Suspend disbelief. If this did work, what could it become? (eg: Air mattresses in stragers' houses -> Airbnb)
-
-**Do these founders deeply understand these users and this problem?**
 _[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
 
-**Do they have evidence that they're practicing Customer Development?**
+**Are they user-obsessed?**
 
-_Are they *constantly* working with early adopters to:_
+_Are they practicing Customer Development by *constantly* working with early adopters to:_
 - _Discover and understand problems?_
 - _Validate solutions?_
 - _Iterate on an MVP?_
