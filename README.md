@@ -74,7 +74,7 @@ We make angel investments in great founders who have found an important problem 
 ## Our Investment Thesis
 
 - **Type**: Software companies
-- **Geography**: Tier-1 Canadian Cities, especially Toronto
+- **Geography**: Based in Canada, especially Toronto
 - **Stage**: "Pre-Seed". You have:
 	- **Market**: You've found a small niche of users in a market with the potential to be massive. (marketplaces, consumer SaaS, SMB SaaS, etc.)
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
