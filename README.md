@@ -58,7 +58,7 @@ Ali is a Y-Combinator graduate. He founded <a href="http://www.vanhawks.com" tar
 We're rational optimists who believe that technology creates abundance and makes the world a better place.
 
 ### Our Mission
-To help great founders who are just starting up successfully solve important problems.
+To help founders who are creating software that will improve the lives of millions of people.
 
 ## Our Investment Thesis
 
