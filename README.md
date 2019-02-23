@@ -83,7 +83,7 @@ We make angel investments in great founders who have found an important problem 
 - **Founding Team**:
 	- You're mission driven.
 	- You have the ability to design, develop, and distribute your product (the 3 Ds).
-- **Check Size**: $100,000-150,000 CAD first cheque, and we exercise pro rata in later rounds.
+- **Check Size**: $100,000-150,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
 ## Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
