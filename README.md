@@ -76,7 +76,7 @@ We make angel investments in great founders who have found an important problem 
 - **Type**: Software companies
 - **Geography**: Tier-1 Canadian Cities, especially Toronto
 - **Stage**: "Pre-Seed". You have:
-	- **Market**: You've found a small niche of users in a market with the potential to be massive (marketplaces, consumer SaaS, SMB SaaS, etc)
+	- **Market**: You've found a small niche of users in a market with the potential to be massive. (marketplaces, consumer SaaS, SMB SaaS, etc.)
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
 	- **Unique Value Proposition**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
 	- **Product**: You're working with early adopters to create and validate your MVP. (I.e you haven't yet found Product/Market Fit)
