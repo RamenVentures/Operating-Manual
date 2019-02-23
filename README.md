@@ -58,24 +58,21 @@ We're rational optimists who believe that technology creates abundance and makes
 ### Our Mission
 To help great founders who are just starting up successfully solve important problems.
 
-### Our Strategy
-The World needs more founders solving important problems that affect millions or billions of people.
-
-These ambitious startups seem very risky when they're just starting up. They need angel investors, especially in Canada, who encourage them to:
-- Pursue an important problem
-- Create a bold, ambitious vision
-- Be friends - open, honest, empathetic, and understanding
-- Embrace failure as part of pursing greatness
-
-**We fill this gap.**
-
-We make angel investments in great founders who have found an important problem to solve. Then, we help set an ambitious vision and successfully create it.
-
 ## Our Investment Thesis
 
+### At a High Level
+
+First, we look for a startup that's found a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
+
+Next, we look for founders who are trying to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
+
+Finally, we look for founders with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
+
+### The Specifics
+
 - **Type**: Software companies
-- **Geography**: Based in Canada, especially Toronto
-- **Stage**: "Pre-Seed". You have:
+- **Location**: Based in Canada, especially Toronto
+- **Stage**: "Pre-Seed"
 	- **Market**: You've found a small niche of users in a market with the potential to be massive. (marketplaces, consumer SaaS, SMB SaaS, etc.)
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
 	- **Unique Value Proposition**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
