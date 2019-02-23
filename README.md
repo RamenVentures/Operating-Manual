@@ -95,7 +95,7 @@ Step 1 is to quickly screen your startup.
 
 #### Goal
 
-To understand, at a high level, what your startup does and whether it might fit our thesis.
+To understand, at a high level, what your startup does and whether it fits [our investment thesis](#our-investment-thesis).
 
 #### Questions
 We ask ourselves:
@@ -104,7 +104,7 @@ We ask ourselves:
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
 4. Are any of our portfolio companies solving a similar problem?
-5. Do they fit our thesis?
+5. Do they fit [our investment thesis](#our-investment-thesis)?
 	- Type?
 	- Geography?
 	- Market?
@@ -129,7 +129,7 @@ Step 2 is to meet your founding team, preferably face-to-face.
 
 #### Goal
 
-To deeply understand your target users, problem, existing solutions, value prop, mission, vision, and team.
+To deeply understand your target users, problem, existing solutions, unique value prop, mission, vision, and team.
 
 #### Questions
 We ask you:
@@ -205,7 +205,7 @@ We'll chat with a few users in your target market and ask:
 ---
 
 ### Analysis
-Step 4 is our analysis where we decide whether your startup fits our thesis.
+Step 4 is where we decide whether your startup really fits [our investment thesis](#our-investment-thesis).
 
 #### Goal
 
@@ -220,7 +220,7 @@ _[42% of startups die because there’s no Market need.](https://www.cbinsights.
 
 **How big could this become?**
 
-What is the maximum possible valuation (as a proxy for societal impact)?
+What is the maximum possible valuation this startup could achieve (as a proxy for value created for society)?
 
 **What could this become?**
 
@@ -312,8 +312,7 @@ Access to a Data Room that includes your:
 	- Major Supplier Agreements
 	- Major Customer Agreements
 	- Major Partnership Agreements
-5. Three (3) latest investor update emails
-6. Contact info for a few reference customers.
+5. Three (3) most recent investor update emails
 
 #### Next Steps
 **If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
