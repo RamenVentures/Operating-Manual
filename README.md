@@ -23,6 +23,8 @@
 1. [Who We Are](#who-we-are)
 2. [Why We Exist](#why-we-exist)
 3. [Our Investment Thesis](#our-investment-thesis)
+	1. [Our Thesis](#our-thesis)
+	2. [Our Investment Criteria](#our-investment-criteria)
 4. [Our Investment Process](#our-investment-process)
 	1. [Screening](#screening)
 	2. [Meeting](#meeting)
@@ -60,7 +62,7 @@ To help great founders who are just starting up successfully solve important pro
 
 ## Our Investment Thesis
 
-### At a High Level
+### Our Thesis
 
 First, we look for a startup that's found a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
 
@@ -68,7 +70,7 @@ Next, we look for founders who are trying to create an ambitious solution that's
 
 Finally, we look for founders with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
 
-### The Specifics
+### Our Investment Criteria
 
 - **Type**: Software companies
 - **Location**: Based in Canada, especially Toronto
