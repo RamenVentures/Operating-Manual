@@ -58,25 +58,29 @@ We're rational optimists who believe that technology creates abundance and makes
 ### Our Mission
 To help great founders who are just starting up successfully solve important problems.
 
-### Our Strategy
-The World needs more founders solving important problems that affect millions or billions of people.
-
-These ambitious startups seem very risky when they're just starting up. They need angel investors, especially in Canada, who encourage them to:
-- Pursue an important problem
-- Create a bold, ambitious vision
-- Be friends - open, honest, empathetic, and understanding
-- Embrace failure as part of pursing greatness
-
-**We fill this gap.**
-
-We make angel investments in great founders who have found an important problem to solve. Then, we help set an ambitious vision and successfully create it.
-
 ## Our Investment Thesis
+
+### At a High Level
+
 First, we look for a startup that's found a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
 
 Next, we look for founders who are trying to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
 
 Finally, we look for founders with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
+
+### The Specifics
+
+- **Type**: Software companies
+- **Location**: Based in Canada, especially Toronto
+- **Stage**: "Pre-Seed"
+	- **Market**: You've found a small niche of users in a market with the potential to be massive. (marketplaces, consumer SaaS, SMB SaaS, etc.)
+	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
+	- **Unique Value Proposition**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
+	- **Product**: You're working with early adopters to create and validate your MVP. (I.e you haven't yet found Product/Market Fit)
+- **Founding Team**:
+	- You're mission driven.
+	- You have the ability to design, develop, and distribute your product (the 3 Ds).
+- **Check Size**: $100,000-150,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
 ## Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
@@ -88,7 +92,7 @@ Step 1 is to quickly screen your startup.
 
 #### Goal
 
-To understand, at a high level, what your startup does and whether it might fit our thesis.
+To understand, at a high level, what your startup does and whether it fits [our investment thesis](#our-investment-thesis).
 
 #### Questions
 We ask ourselves:
@@ -97,15 +101,14 @@ We ask ourselves:
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
 4. Are any of our portfolio companies solving a similar problem?
-5. Could this problem be extremely:
-	- important to those users?
-	- painful?
-	- valuable? (something they'd pay for)
-	- huge? (could extend to millions or billions in the future)
-6. Are they at the stage we invest? Have they:
-	- Found a user niche with an important problem? (Problem/Market Fit)
-	- Found a unique value prop (UVP) that users love and will pay for? (Problem/Solution Fit)
-	- Started creating a minimum viable product (MVP) to deliver their value prop? (working towards Product/Market Fit)
+5. Do they fit [our investment thesis](#our-investment-thesis)?
+	- Type?
+	- Geography?
+	- Market?
+	- Problem?
+	- Unique Value Prop?
+	- Product?
+	- Founding Team?
 
 #### Requirements
 1. Your deck (if you have one)
@@ -123,7 +126,7 @@ Step 2 is to meet your founding team, preferably face-to-face.
 
 #### Goal
 
-To deeply understand your target users, problem, existing solutions, value prop, mission, vision, and team.
+To deeply understand your target users, problem, existing solutions, unique value prop, mission, vision, and team.
 
 #### Questions
 We ask you:
@@ -199,7 +202,7 @@ We'll chat with a few users in your target market and ask:
 ---
 
 ### Analysis
-Step 4 is our analysis where we decide whether your startup fits our thesis.
+Step 4 is where we decide whether your startup really fits [our investment thesis](#our-investment-thesis).
 
 #### Goal
 
@@ -214,7 +217,7 @@ _[42% of startups die because there’s no Market need.](https://www.cbinsights.
 
 **How big could this become?**
 
-What is the maximum possible valuation (as a proxy for societal impact)?
+What is the maximum possible valuation this startup could achieve (as a proxy for value created for society)?
 
 **What could this become?**
 
@@ -306,8 +309,7 @@ Access to a Data Room that includes your:
 	- Major Supplier Agreements
 	- Major Customer Agreements
 	- Major Partnership Agreements
-5. Three (3) latest investor update emails
-6. Contact info for a few reference customers.
+5. Three (3) most recent investor update emails
 
 #### Next Steps
 **If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
