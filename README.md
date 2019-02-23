@@ -72,11 +72,18 @@ These ambitious startups seem very risky when they're just starting up. They nee
 We make angel investments in great founders who have found an important problem to solve. Then, we help set an ambitious vision and successfully create it.
 
 ## Our Investment Thesis
-First, we look for a startup that's found a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
 
-Next, we look for founders who are trying to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
-
-Finally, we look for founders with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
+- **Type**: Software companies
+- **Geography**: Tier-1 Canadian Cities, especially Toronto
+- **Stage**: "Pre-Seed". You have:
+	- **Market**: You've found a small niche of users in a market with the potential to be massive (marketplaces, consumer SaaS, SMB SaaS, etc)
+	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (Problem/Market Fit)
+	- **Unique Value Proposition**: You've validated a vision that's first, best, or unique. (Problem/Solution Fit)
+	- **Product**: You're working with early adopters to create and validate your MVP (Pre-Product/Market Fit)
+- **Founding Team**:
+	- You're mission driven.
+	- You have the ability to design, develop, and distribute your product (the 3 Ds).
+- **Check Size**: $100,000-150,000 CAD first cheque, and we exercise pro rata in later rounds.
 
 ## Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
@@ -97,15 +104,14 @@ We ask ourselves:
 2. What user niche are they trying to solve a problem for?
 3. What problem are they solving for them?
 4. Are any of our portfolio companies solving a similar problem?
-5. Could this problem be extremely:
-	- important to those users?
-	- painful?
-	- valuable? (something they'd pay for)
-	- huge? (could extend to millions or billions in the future)
-6. Are they at the stage we invest? Have they:
-	- Found a user niche with an important problem? (Problem/Market Fit)
-	- Found a unique value prop (UVP) that users love and will pay for? (Problem/Solution Fit)
-	- Started creating a minimum viable product (MVP) to deliver their value prop? (working towards Product/Market Fit)
+5. Do they fit our thesis?
+	- Type?
+	- Geography?
+	- Market?
+	- Problem?
+	- Unique Value Prop?
+	- Product?
+	- Founding Team?
 
 #### Requirements
 1. Your deck (if you have one)
