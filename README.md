@@ -40,25 +40,26 @@ Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
 
 ### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>, Founding Partner
 
-Adam loves building products and companies. He was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Adam helps founders get to Product/Market Fit and build products users love.
+Adam was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a> where he helped create the Product strategies that Shopify has used to grow from a $100M to $17B company.
 
 ### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>, Founding Partner
 
-Josh loves hard tech and infrastructure. He was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a>, and co-founder of Select Start Studios (acquired by Shopify). Josh helps founders build and scale their technology and their team.
+Josh was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a> where he hired, trained, and lead hundreds of engineers to build software that powers 700,000+ businesses and $10B/year in sales.
 
 ### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>, Associate
 
-Ali is a Y-Combinator graduate. He founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a> and made the world's first smart carbon fibre bike. Ali helps us discover great founders.
+Ali founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a>, a Y Combinator-backed startup that made the world's first smart carbon fibre bike.
 
 ## Why We Exist
 
 ### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
-We're rational optimists who believe that technology creates abundance and makes the world a better place.
+We're rational optimists who believe that innovation makes the world a better place.
 
 ### Our Mission
-To help founders who are creating software that will improve the lives of millions of people.
+
+To help great founders - who are just starting up - change the world.
 
 ## Our Investment Thesis
 
