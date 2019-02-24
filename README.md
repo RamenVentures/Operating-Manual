@@ -22,17 +22,19 @@
 
 1. [Who We Are](#who-we-are)
 2. [Why We Exist](#why-we-exist)
-3. [Our Investment Thesis](#our-investment-thesis)
+	1. [Our Philosophy](#our-philosophy)
+	2. [Our Mission](#our-mission)
+3. [How We Help Founders](#how-we-help-founders)
+4. [Our Investment Thesis](#our-investment-thesis)
 	1. [Our Thesis](#our-thesis)
 	2. [Our Investment Criteria](#our-investment-criteria)
-4. [Our Investment Process](#our-investment-process)
+5. [Our Investment Process](#our-investment-process)
 	1. [Screening](#screening)
 	2. [Meeting](#meeting)
 	3. [Learning](#learning)
 	4. [Analysis](#analysis)
 	5. [Diligence](#diligence)
 	6. [Later: Making Follow-On Investments](#making-follow-on-investments)
-6. [How We Help Our Portfolio Companies](#how-we-help-our-portfolio-companies)
 
 ## Who We Are
 
@@ -59,6 +61,24 @@ We're rational optimists who believe that technology creates abundance and makes
 
 ### Our Mission
 To help founders who are creating software that will improve the lives of millions of people.
+
+## How We Help Founders
+We use our experience to help founders in three unique ways.
+
+**1. Grow Into World-Class Founders**
+We know first-hand what it takes to be the founder a World-leading startup. We can coach you on becoming one, too.
+
+**2. Create a World-Class Team**
+We've hired and lead hundreds of developers, product managers, and UX researchers. We can coach you on how to create a great culture that attracts and grows great people.
+
+**3. Create World-Class Products**
+We've built products that have scaled to billions of dollars in revenue. We can coach you on how to create massively successful products.
+
+---
+
+The best founders schedule regular coaching sessions with us. They also call, text, and email us all the time asking us for help.
+
+We'll watch your investor updates for opportunities to help, but it's up to you to make the most of us.
 
 ## Our Investment Thesis
 
@@ -357,21 +377,3 @@ Access to a Data Room that includes your:
 #### Next Steps
 **If yes**, we send you more money.
 **If no**, we continue helping as we always have.
-
-## How We Help Our Portfolio Companies
-We use our experience to help founders in three unique ways.
-
-**1. Grow Into World-Class Founders**
-We know first-hand what it takes to be the founder a World-leading startup. We can coach you on becoming one, too.
-
-**2. Create a World-Class Team**
-We've hired and lead hundreds of developers, product managers, and UX researchers. We can coach you on how to create a great culture that attracts and grows great people.
-
-**3. Create World-Class Products**
-We've built products that have scaled to billions of dollars in revenue. We can coach you on how to create massively successful products.
-
----
-
-The best founders schedule regular coaching sessions with us. They also call, text, and email us all the time asking us for help.
-
-We'll watch your investor updates for opportunities to help, but it's up to you to make the most of us.
