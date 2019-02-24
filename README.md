@@ -359,34 +359,19 @@ Access to a Data Room that includes your:
 **If no**, we continue helping as we always have.
 
 ## How We Help Our Portfolio Companies
-Here are the three ways we can uniquely help you:
+We use our experience to help founders in three unique ways.
 
-### 1. Become World-Class Founders
-We've founded several startups and advised almost 100 founders. We help you:
+**1. Grow Into World-Class Founders**
+We know first-hand what it takes to be the founder a World-leading startup. We can coach you on becoming one, too.
 
-- With founder therapy - dealing with the fear, uncertainty, and doubt that comes from being a founder.
-- Find new learning challenges and set self-improvement goals.
+**2. Create a World-Class Team**
+We've hired and lead hundreds of developers, product managers, and UX researchers. We can coach you on how to create a great culture that attracts and grows great people.
 
-### 2. Build Products Users Love and Find Product/Market Fit
-We've taken dozens of successful products from problem to Product/Market Fit. We help you:
+**3. Create World-Class Products**
+We've built products that have scaled to billions of dollars in revenue. We can coach you on how to create massively successful products.
 
-- Find, talk to, and learn from users
-- Discover important problems
-- Create and validate ambitious solutions
-- Identify and conquer "business-killing" risks
-- Create and validate a business model (solution, channels, revenue streams, costs, key metrics, and unfair advantage) that works.
+---
 
-### 3. Build a World-Class Team
-We've hired and coached hundreds of developers, product managers, and UX researchers. We help you:
+The best founders schedule regular coaching sessions with us. They also call, text, and email us all the time asking us for help.
 
-- Identify the right roles
-- Find the right candidates
-- Structure your team to create a high-quality product.
-- Create a high-performance culture
-
-We deliver this help:
-- **Daily**, by being available to talk about anything, personal or professional.
-- **Monthly**, by:
-	- Sending you a “Can We Help?” email reminding you of how we can help.
-	- Monitoring your Monthly Investor Update emails for requests for help and red flags.
-- **Quarterly**, by sharing a Founder Review.
+We'll watch your investor updates for opportunities to help, but it's up to you to make the most of us.
