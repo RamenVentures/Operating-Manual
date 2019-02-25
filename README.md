@@ -65,7 +65,7 @@ Our mission at Ramen Ventures is to achieve two goals:
 
 Shopify is the fastest SaaS company to 1-billion dollars in revenue. Anywhere. Ever.
 
-When it acquired our startup, Shopify had just 50 employees, powered 20,000 businesses, and was worth about $100 million. Today, Shopify has more than 3,000 employees, powers 700,000 businesses, and is valued around $17 billion.
+When it acquired our startup, Shopify had about 60 employees, powered 20,000 businesses, and was worth about $100 million. Today, Shopify has more than 3,000 employees, powers 700,000 businesses, and is valued around $17 billion.
 
 As Shopify's first VP Product and Head of Engineering respectively, Adam and Josh learned how to scale from small Canadian startup to World-leading company. We want to share the important lessons we learned with as many founders as possible.
 
