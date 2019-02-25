@@ -59,7 +59,19 @@ We're rational optimists who believe that innovation makes the world a better pl
 
 ### Our Mission
 
-To help great founders - who are just starting up - change the world.
+Our mission at Ramen Ventures is to achieve two goals:
+
+**Help founders create world-class companies like Shopify.**
+
+Shopify is the fastest SaaS company to 1-billion dollars in revenue. Anywhere. Ever.
+
+When it acquired our startup, Shopify had about 60 employees, powered 20,000 businesses, and was worth about $100 million. Today, Shopify has more than 3,000 employees, powers 700,000 businesses, and is valued around $17 billion.
+
+As Shopify's first VP Product and Head of Engineering respectively, Adam and Josh learned how to scale from small Canadian startup to World-leading company. We want to share the important lessons we learned with as many founders as possible.
+
+**Help founders make the world a better place.**
+
+Our life's work is to improve the world. We don't angel invest to make money; we do it to help great founders solve problems that will improve the lives of billions of people.
 
 ## Our Investment Thesis
 
