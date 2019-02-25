@@ -10,6 +10,8 @@
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
+    <a href="https://medium.com/ramen-ventures"><strong>Blog</strong></a>
+    ·
     <a href="https://angel.co/ramen-ventures"><strong>AngelList</strong></a>
     ·
     <a href="https://twitter.com/RamenVentures"><strong>Twitter</strong></a>
