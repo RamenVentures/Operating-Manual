@@ -44,11 +44,11 @@ Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
 
 ### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>
 
-Adam was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a> where he helped create the Product strategies that Shopify has used to grow from a $100M to $17B company.
+Adam was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a> where he helped create the Product strategies it used to grow to a $17B company today.
 
 ### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>
 
-Josh was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a> where he hired, trained, and lead hundreds of engineers to build software that powers 700,000+ businesses and $10B/year in sales.
+Josh was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a> where he lead hundreds of engineers to build software that powers 700,000+ businesses and $10B/year in sales.
 
 ### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>
 
@@ -63,17 +63,17 @@ We're rational optimists who believe that innovation makes the world a better pl
 
 ### Our Mission
 
-Our mission at Ramen Ventures is to achieve two goals:
+Our mission at Ramen Ventures is twofold:
 
-**Help founders create world-class companies like Shopify.**
+**To help founders create world-class companies like Shopify.**
 
 Shopify is the fastest SaaS company to 1-billion dollars in revenue. Anywhere. Ever.
 
 When it acquired our startup, Shopify had about 60 employees, powered 20,000 businesses, and was worth about $100 million. Today, Shopify has more than 3,000 employees, powers 700,000 businesses, and is valued around $17 billion.
 
-As Shopify's first VP Product and Head of Engineering respectively, Adam and Josh learned how to scale from small Canadian startup to World-leading company. We want to share the important lessons we learned with as many founders as possible.
+As Shopify's first VP Product and Head of Engineering respectively, Adam and Josh learned how to scale a small Canadian startup to a World-leading company. We want to share the important lessons we learned with as many founders as possible.
 
-**Help founders make the world a better place.**
+**To help founders make the world a better place.**
 
 Our life's work is to improve the world. We don't angel invest to make money; we do it to help great founders solve problems that will improve the lives of billions of people.
 
@@ -86,7 +86,7 @@ Our number one priority is that you're healthy and happy. We know how hard being
 
 **We're independent.**
 
-Unlike VCs, we invest our own money. We'll always act in your long term best interest, because our interests are 100% aligned with yours, and no one else.
+Unlike VCs, we invest our own money. We'll always act in your long term best interest because our interests are 100% aligned with yours, and no one else.
 
 **We help you grow into World-class founders.**
 
