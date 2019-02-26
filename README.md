@@ -78,15 +78,26 @@ As Shopify's first VP Product and Head of Engineering respectively, Adam and Jos
 Our life's work is to improve the world. We don't angel invest to make money; we do it to help great founders solve problems that will improve the lives of billions of people.
 
 ## How We Help Founders
-We use our experience to help founders in three unique ways.
+We help founders in a few unique ways.
 
-**1. Grow Into World-Class Founders**
+**We're friends first and investors second.**
+
+Our number one priority is that you're healthy and happy. We know how hard being a founder is - we're founders, too. That's why we're friends first and investors second. You can always be honest with us because, no matter what happens, we believe you come first.
+
+**We're independent.**
+
+Unlike VCs, we invest our own money. We'll always act in your long term best interest, because our interests are 100% aligned with yours, and no one else.
+
+**We help you grow into World-class founders.**
+
 We know first-hand what it takes to be the founder a World-leading startup. We can coach you on becoming one, too.
 
-**2. Create a World-Class Team**
+**We help you create a World-class company.**
+
 We've hired and lead hundreds of developers, product managers, and UX researchers. We can coach you on how to create a great culture that attracts and grows great people.
 
-**3. Create World-Class Products**
+**We help you create World-class products.**
+
 We've built products that have scaled to billions of dollars in revenue. We can coach you on how to create massively successful products.
 
 ---
