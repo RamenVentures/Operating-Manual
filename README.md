@@ -257,48 +257,16 @@ Step 4 is where we decide whether your startup really fits [our investment thesi
 To decide whether we should pursue an investment in your startup.
 
 #### Questions
-We ask ourselves:
+We use two tools to help us decide whether we should pursue an investment.
 
-**Have they discovered a problem that's important, painful, underserved, and valuable?**
+Our [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#) is our qualitative analysis. It's full of questions we ask ourselves to recognize great founders working on great problems.
 
-_[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-
-**How big could this become?**
-
-What is the maximum possible valuation this startup could achieve (as a proxy for value created for society)?
-
-**What could this become?**
-
-If this did work, what could it become? (eg: air beds in stragers' houses -> Airbnb)
-
-**Do they have a _real_ unfair advantage?**
-
-- Is this first, best, or unique?
-- What is the unique insight/secret that enables this?
-- Why now and not before?
-
-**Will they have an accumulating advantage?**
-
-_Over time, can this company create one of the [7 Powers](https://link.medium.com/nzL1AoOn2T)?_
-
-**Will _these_ founders solve this problem**
-
-_[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-
-**Are they user-obsessed?**
-
-_Are they practicing Customer Development by *constantly* working with early adopters to:_
-- _Discover and understand problems?_
-- _Validate solutions?_
-- _Iterate on an MVP?_
-- _Discover a business model?_
-
-**Are they executing in the top 5%?**
+Our [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0) is our quantitative analysis. It reminds us that certain aspects of a startup, like Team and Market, are more important than others.
 
 #### Requirements
 1. Hard evidence of a real user problem, like:
-	- Customer interview transcripts
-	- Alpha users
+	- User interview transcripts
+	- Analytics
 	- LOIs
 
 #### Next Steps
