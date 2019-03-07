@@ -225,12 +225,12 @@ We ask you:
 ---
 
 ### Learning
-Step 3 is to talk to users in your target market to learn more about them and their problems.
+Now that we've learned from you, it's time for us to learn from others, too. We'll talk users in your target market to learn more about them and their problems. We'll also talk to people that know you about the traits we look for in founders.
 
 #### Goal
-To develop a first-hand knowledge of your target market and their problems.
+To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
-#### Questions
+#### Questions to Learn About Users
 We'll chat with a few users in your target market and ask:
 1. What is the problem you're trying to solve?
 2. How important is this problem to you? Why?
@@ -238,6 +238,18 @@ We'll chat with a few users in your target market and ask:
 4. How painful was this? Why?
 5. In a perfect world, how would you want this problem solved?
 6. How would you feel if I told you that you could no longer use COMPANY?
+
+#### Questions to Learn About Founders
+We'll chat with a few people who've worked with you and ask:
+1. How do you know them?
+2. How would you describe them?
+3. How do they handle _challenges and uncertainty_?
+4. How _determined and persistent_ are they compared others?
+5. What percentile are they in _Getting Shit Done_?
+6. How self-aware are they?
+7. How do they rank in terms of _personal growth_?
+8. Are they generally a _positive or negative person_?
+9. Would _great people leave their job to work with them_? Would you?
 
 #### Requirements
 - Intros to 2-3 users in your target market
@@ -257,43 +269,11 @@ Step 4 is where we decide whether your startup really fits [our investment thesi
 To decide whether we should pursue an investment in your startup.
 
 #### Questions
-We ask ourselves:
 
-**Have they discovered a problem that's important, painful, underserved, and valuable?**
+We ask ourselves the following questions:
 
-_[42% of startups die because there’s no Market need.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
+##### Market
 
-**How big could this become?**
-
-What is the maximum possible valuation this startup could achieve (as a proxy for value created for society)?
-
-**What could this become?**
-
-If this did work, what could it become? (eg: air beds in stragers' houses -> Airbnb)
-
-**Do they have a _real_ unfair advantage?**
-
-- Is this first, best, or unique?
-- What is the unique insight/secret that enables this?
-- Why now and not before?
-
-**Will they have an accumulating advantage?**
-
-_Over time, can this company create one of the [7 Powers](https://link.medium.com/nzL1AoOn2T)?_
-
-**Will _these_ founders solve this problem**
-
-_[22% of startups die because it’s the wrong team for the problem.](https://www.cbinsights.com/research/startup-failure-reasons-top/)_
-
-**Are they user-obsessed?**
-
-_Are they practicing Customer Development by *constantly* working with early adopters to:_
-- _Discover and understand problems?_
-- _Validate solutions?_
-- _Iterate on an MVP?_
-- _Discover a business model?_
-
-**Are they executing in the top 5%?**
 
 #### Requirements
 1. Hard evidence of a real user problem, like:
