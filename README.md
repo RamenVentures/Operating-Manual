@@ -225,7 +225,7 @@ We ask you:
 ---
 
 ### Learning
-We've learned from you and now it's time for us to learn from others, too. We'll talk users in your target market to learn about them and their problems. We'll also talk to people who know you about the traits we look for in founders.
+Now that we've learned from you, it's time for us to learn from others, too. We'll talk users in your target market to learn more about them and their problems. We'll also talk to people that know you about the traits we look for in founders.
 
 #### Goal
 To develop a first-hand knowledge of your team, target market, and the problem you're solving.
