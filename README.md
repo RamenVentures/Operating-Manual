@@ -225,12 +225,12 @@ We ask you:
 ---
 
 ### Learning
-Step 3 is to talk to users in your target market to learn more about them and their problems.
+We've learned from you and now it's time for us to learn from others, too. We'll talk users in your target market to learn about them and their problems. We'll also talk to people who know you about the traits we look for in founders.
 
 #### Goal
-To develop a first-hand knowledge of your target market and their problems.
+To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
-#### Questions
+#### Questions to Learn About Users
 We'll chat with a few users in your target market and ask:
 1. What is the problem you're trying to solve?
 2. How important is this problem to you? Why?
@@ -238,6 +238,18 @@ We'll chat with a few users in your target market and ask:
 4. How painful was this? Why?
 5. In a perfect world, how would you want this problem solved?
 6. How would you feel if I told you that you could no longer use COMPANY?
+
+#### Questions to Learn About Founders
+We'll chat with a few people who've worked with you and ask:
+1. How do you know them?
+2. How would you describe them?
+3. How do they handle _challenges and uncertainty_?
+4. How _determined and persistent_ are they compared others?
+5. What percentile are they in _Getting Shit Done_?
+6. How self-aware are they?
+7. How do they rank in terms of _personal growth_?
+8. Are they generally a _positive or negative person_?
+9. Would _great people leave their job to work with them_? Would you?
 
 #### Requirements
 - Intros to 2-3 users in your target market
