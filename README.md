@@ -118,10 +118,14 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 
 ### Our Investment Criteria
 
-- **Type**: Software companies
+- **Type**: Combine three or more:
+	- **Market**: Consumer, SMB
+	- **Problem**: Creator tools, E-commerce, Education, Food, Financial Success and the Future of Work, Health and Longevity, Transportation.
+	- **Unique Value Prop**: Marketplace, Platform
+	- **Technologies**: VR/AR, AI, Quantum, Frontier Tech
 - **Location**: Based in Canada, especially Toronto
 - **Stage**: "Pre-Seed"
-	- **Market**: You've found a small niche of users in a market with the potential to be massive. (marketplaces, consumer SaaS, SMB SaaS, etc.)
+	- **Market**: You've found a small niche of users in a market with the potential to be massive.
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
 	- **Unique Value Proposition**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
 	- **Product**: You're working with early adopters to create and validate your MVP. (I.e you haven't yet found Product/Market Fit)
