@@ -122,7 +122,7 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 	- **Market**: Consumer, SMB
 	- **Problem**: Creator tools, E-commerce, Education, Food, Financial Success/Empowerment, Future of Work, Health and Longevity, Transportation.
 	- **Solution**: Marketplace, Platform
-	- **Technologies**: VR/AR, AI, Quantum, Frontier Tech
+	- **Technologies**: VR/AR, AI, Quantum Computing, and other Frontier Technologies
 - **Location**: Based in Canada, especially Toronto
 - **Stage**: "Pre-Seed"
 	- **Market**: You've found a small niche of users in a market with the potential to be massive.
