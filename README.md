@@ -155,11 +155,8 @@ We ask ourselves:
 4. Are any of our portfolio companies solving a similar problem?
 5. Do they fit [our investment thesis](#our-investment-thesis)?
 	- Type?
-	- Geography?
-	- Market?
-	- Problem?
-	- Unique Value Prop?
-	- Product?
+	- Location?
+	- Stage?
 	- Founding Team?
 
 #### What We Need From You
