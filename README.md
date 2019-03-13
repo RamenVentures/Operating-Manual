@@ -128,7 +128,7 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 - **Founding Team**:
 	- You're mission driven.
 	- You have the ability to design, develop, and distribute your product (the 3 Ds).
-- **Check Size**: $100,000-150,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
+- **Check Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
 ## Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
@@ -158,7 +158,7 @@ We ask ourselves:
 	- Product?
 	- Founding Team?
 
-#### Requirements
+#### What We Need From You
 1. Your deck (if you have one)
 2. A link to your MVP
 
@@ -214,7 +214,7 @@ We ask you:
 - Who’s committed?
 
 
-#### Requirements
+#### What We Need From You
 1. To meet you :)
 
 #### Next Steps
@@ -230,7 +230,7 @@ We've learned from you and now it's time for us to learn from others, too. We'll
 #### Goal
 To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
-#### Questions to Learn About Users
+#### Questions to Learn about Users
 We'll chat with a few users in your target market and ask:
 1. What is the problem you're trying to solve?
 2. How important is this problem to you? Why?
@@ -239,7 +239,7 @@ We'll chat with a few users in your target market and ask:
 5. In a perfect world, how would you want this problem solved?
 6. How would you feel if I told you that you could no longer use COMPANY?
 
-#### Questions to Learn About Founders
+#### Questions to Learn about Founders
 We'll chat with a few people who've worked with you and ask:
 1. How do you know them?
 2. How would you describe them?
@@ -251,7 +251,7 @@ We'll chat with a few people who've worked with you and ask:
 8. Are they generally a _positive or negative person_?
 9. Would _great people leave their job to work with them_? Would you?
 
-#### Requirements
+#### What We Need From You
 - Intros to 2-3 users in your target market
 
 #### Next Steps
@@ -273,7 +273,7 @@ First we fill our our [Investment Memo](https://docs.google.com/document/d/1Xjd9
 
 We then turn our memo to an [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0). Our scorecard helps us make data-driven decisions based on what we think are the most important elements of a startup.
 
-#### Requirements
+#### What We Need From You
 1. Hard evidence of a real user problem, like:
 	- User interview transcripts
 	- Analytics
@@ -315,7 +315,7 @@ We ask ourselves:
 ##### Working Together
 - Do the founders agree to monthly updates?
 
-#### Requirements
+#### What We Need From You
 Access to a Data Room that includes your:
 
 1. Corporate Documents
@@ -366,7 +366,7 @@ We ask ourselves:
 - Do they sead regular, clear, and concise monthly updates?
 - Are they raising an up-round led by one or more tier-1 VCs?
 
-**Our Follow-On Investment Requirements**
+#### What We Need From You
 
 Access to a Data Room that includes your:
 
