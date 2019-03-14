@@ -120,7 +120,7 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 
 - **Type**: Combine three or more:
 	- **Market**: Consumer, SMB
-	- **Problem**: Creation (audio, video, programming, etc), E-commerce, Education, Food, Financial Success/Empowerment, Future of Work, Health and Longevity, Transportation.
+	- **Problem**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Food, Financial Success/Empowerment, Health and Longevity, Transportation, Work.
 	- **Solution**: Marketplace, Platform
 	- **Technologies**: VR/AR, AI, Quantum Computing, and other Frontier Technologies
 - **Location**: Based in Canada, especially Toronto
