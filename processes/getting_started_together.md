@@ -18,21 +18,24 @@ We'll start by documenting your business model with a strong focus on your value
 
 ![Business Model Canvas](/media/business-model-canvas.jpeg)
 
-## 2. Document Your Risks and Hypotheses
+## 2. Extract Risks and Hypotheses
 Startups are about creating a bold vision and then systematically addressing the risks that stand in the way of achieving it.
 
 So, the next step is to lists all of the risks and assumptions in your model.
 
-## 3. Rank The Risks
+![Extract Risks and Hypotheses](/media/business-model-extract-hypotheses.jpeg)
+
+## 3. Prioritize The Risks
 Founders must tackle their most significant risks first. If your current model won't work, it's best to pivot and persevere now.
 
 Together we'll rank your risks from most to least "business-killing."
 
-## 4. Set Objectives
-Once we've identified your top 2-3 risks, we'll create Objectives and Key Results (OKRs) for solving them.
+![Prioritize The Risks](/media/business-model-prioritize-hypotheses.jpeg)
 
-## 5. Build, Measure, and Learn
-Finally, we'll meet once a week to brainstorm experiments we can run to address your risks, discuss results, and use what we've learned to update your model and make progress.
+## 4. Build, Measure, and Learn
+We'll meet once a week to design experiments we can run to address your risks, run them, learn from the results, and update your model.
 
-## 6. Repeat
+![Build, Measure, Learn](/media/business-model-build-measure-learn.jpeg)
+
+## 5. Repeat
 We'll work together for six weeks to build a strong business.
