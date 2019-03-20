@@ -37,6 +37,7 @@
 	4. [Analysis](#analysis)
 	5. [Diligence](#diligence)
 	6. [Later: Making Follow-On Investments](#making-follow-on-investments)
+6. [Our Asks](#our-asks)
 
 ## Who We Are
 
@@ -314,7 +315,7 @@ We ask ourselves:
 - If later than Pre-Seed, do they have a strong lead investor who will also lead their _next_ round?
 
 ##### Working Together
-- Do the founders agree to monthly updates?
+- Do the founders agree to [monthly updates](samples/sample_monthly_update.md)?
 
 #### What We Need From You
 Access to a Data Room that includes your:
@@ -364,7 +365,7 @@ We ask ourselves:
 - What is its month-over-month growth?
 - Is market pull creating exponential growth?
 - Are these founders executing in the top 5%?
-- Do they sead regular, clear, and concise monthly updates?
+- Do they sead regular, clear, and concise [monthly updates](samples/sample_monthly_update.md)?
 - Are they raising an up-round led by one or more tier-1 VCs?
 
 #### What We Need From You
@@ -378,8 +379,19 @@ Access to a Data Room that includes your:
 	- Side Letters
 2. Key Metrics
 	- Your one metric that matters
-  
+
 #### Next Steps
 **If yes**, we send you more money.
 
 **If no**, we continue helping as we always have.
+
+---
+
+## Our Asks
+
+Once we've invested in your company, we ask of only two things:
+
+1. Provide us with concise and regular [monthly updates](samples/sample_monthly_update.md).
+2. Keep an open and honest communication channel open. Some things can't wait until a monthly update. Reach out to us whenever you want to talk and we'll make ourselves available.
+
+Our [mission](#why-we-exist) is to help you be successful, and to help us accomplish that, we need to be up to current with what's going on. Please don't only share good news; we'll be by your side on the best days and on the worst days.
