@@ -37,7 +37,7 @@
 	4. [Analysis](#analysis)
 	5. [Diligence](#diligence)
 	6. [Later: Making Follow-On Investments](#making-follow-on-investments)
-6. [Our Asks](#our-asks)
+6. [Working Together](#working-together)
 	1. [Getting Started Together](#getting-started-together)
 	2. [Staying in Touch](#staying-in-touch)
 
@@ -389,7 +389,7 @@ Access to a Data Room that includes your:
 
 ---
 
-## Our Asks
+## Working Together
 
 Our [mission](#why-we-exist) is to help you be successful, and to do that, we only ask you for two things:
 
