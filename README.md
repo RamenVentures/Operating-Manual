@@ -395,7 +395,7 @@ Once we've invested in your company, we ask of only two things:
 
 ### Getting Started Together
 
-We ask founders to spend some time [Getting Started Together](/getting_started_together.md).
+We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md).
 
 ### Staying In Touch
 
