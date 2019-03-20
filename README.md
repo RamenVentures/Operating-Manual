@@ -391,17 +391,17 @@ Access to a Data Room that includes your:
 
 ## Our Asks
 
-Once we've invested in your company, we ask of only two things:
+Our [mission](#why-we-exist) is to help you be successful, and to do that, we only ask you for two things:
 
 ### Getting Started Together
 
-We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md).
+We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md) with us after we invest.
 
 ### Staying In Touch
 
-Our [mission](#why-we-exist) is to help you be successful, and to help us accomplish that, we need to be up to current with what's going on. We ask you to:
+We ask you to stay in touch by:
 
-1. Provide us with concise and regular [monthly updates](samples/sample_monthly_update.md).
-2. Keep an open and honest communication channel open. Some things can't wait until a monthly update. Reach out to us whenever you want to talk and we'll make ourselves available.
+1. Providing us with concise and regular [monthly updates](samples/sample_monthly_update.md).
+2. Keeping an open and honest communication channel open. Some things shouldn't wait until a monthly update, so reach out whenever you want to talk.
 
 Please don't only share good news; we'll be by your side on the best days and on the worst days.
