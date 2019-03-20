@@ -1,11 +1,11 @@
 # Getting Started Together
 
-We'd ask founders to spend one hour per week working with us for six weeks after we invest.
+After we invest, we ask founders to work with us for one hour per week for six weeks.
 
-Our goals are:
+The goals are to:
 1. Build a trusting relationship,
 2. Understand your business, and
-3. Maximize your chances of success.
+3. Maximize your odds of success.
 
 Our process, described in the image below, is designed to do just that.
 
