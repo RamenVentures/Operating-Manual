@@ -24,7 +24,7 @@ Startups are about creating a bold vision and then systematically addressing the
 So, the next step is to lists all of the risks and assumptions in your model.
 
 <p align="center">
-![Extract Risks and Hypotheses](/media/business-model-extract-hypotheses.jpg)
+    ![Extract Risks and Hypotheses](/media/business-model-extract-hypotheses.jpg)
 </p>
 
 ## 3. Prioritize The Risks
@@ -33,15 +33,15 @@ Founders must tackle their most significant risks first. If your current model w
 Together we'll rank your risks from most to least "business-killing."
 
 <p align="center">
-![Prioritize The Risks](/media/business-model-prioritize-hypotheses.jpg)
+    ![Prioritize The Risks](/media/business-model-prioritize-hypotheses.jpg)
 </p>
 
 ## 4. Build, Measure, and Learn
 We'll meet once a week to design experiments we can run to address your risks, run them, learn from the results, and update your model.
 
 <p align="center">
-![Build, Measure, Learn](/media/business-model-build-measure-learn.jpg)
-</p>
+    ![Build, Measure, Learn](/media/business-model-build-measure-learn.jpg)
+<p>
 
 ## 5. Repeat
 We'll work together for six weeks to build a strong business.
