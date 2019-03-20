@@ -18,7 +18,7 @@ We'll start by documenting your business model with a strong focus on your value
 
 ![Business Model Canvas](/media/business-model-canvas.jpeg)
 
-## 2. Document Your Risks and Assumptions
+## 2. Document Your Risks and Hypotheses
 Startups are about creating a bold vision and then systematically addressing the risks that stand in the way of achieving it.
 
 So, the next step is to lists all of the risks and assumptions in your model.
