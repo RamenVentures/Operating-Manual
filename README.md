@@ -37,7 +37,9 @@
 	4. [Analysis](#analysis)
 	5. [Diligence](#diligence)
 	6. [Later: Making Follow-On Investments](#making-follow-on-investments)
-6. [Our Asks](#our-asks)
+6. [Working Together](#working-together)
+	1. [Getting Started Together](#getting-started-together)
+	2. [Staying in Touch](#staying-in-touch)
 
 ## Who We Are
 
@@ -387,11 +389,19 @@ Access to a Data Room that includes your:
 
 ---
 
-## Our Asks
+## Working Together
 
-Once we've invested in your company, we ask of only two things:
+Our [mission](#why-we-exist) is to help you be successful, and to do that, we only ask you for two things:
 
-1. Provide us with concise and regular [monthly updates](samples/sample_monthly_update.md).
-2. Keep an open and honest communication channel open. Some things can't wait until a monthly update. Reach out to us whenever you want to talk and we'll make ourselves available.
+### Getting Started Together
 
-Our [mission](#why-we-exist) is to help you be successful, and to help us accomplish that, we need to be up to current with what's going on. Please don't only share good news; we'll be by your side on the best days and on the worst days.
+We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md) with us after we invest.
+
+### Staying In Touch
+
+We ask you to stay in touch by:
+
+1. Providing us with concise and regular [monthly updates](samples/sample_monthly_update.md).
+2. Keeping an open and honest communication channel open. Some things shouldn't wait until a monthly update, so reach out whenever you want to talk.
+
+Please don't only share good news; we'll be by your side on the best days and on the worst days.
