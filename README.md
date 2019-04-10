@@ -195,6 +195,7 @@ We ask you:
 ##### Unique Value Proposition, Solution, and Vision
 - How will you solve the user’s problem?
 - Why is this 10x better than the users' existing solutions?
+- How will you get in front of early adopters?
 - What is your unfair advantage? (ie: What makes you uniquely capable of doing this?)
 - What will your accumulating advantage be? (ie: What will make this stronger over time?)
 - What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
