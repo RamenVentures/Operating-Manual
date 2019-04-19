@@ -257,7 +257,8 @@ We'll chat with a few people who've worked with you and ask:
 9. Would _great people leave their job to work with them_? Would you?
 
 #### What We Need From You
-- Intros to 2-3 users in your target market
+- Three (3) most recent monthly update emails
+- Intros to 2-3 early users
 
 #### Next Steps
 **If users tell us that this problem is important**, start [Analysis](#analysis).
@@ -340,7 +341,6 @@ Access to a Data Room that includes your:
 	- Major Supplier Agreements
 	- Major Customer Agreements
 	- Major Partnership Agreements
-5. Three (3) most recent investor update emails
 
 #### Next Steps
 **If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
