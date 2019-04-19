@@ -259,6 +259,10 @@ We'll chat with a few people who've worked with you and ask:
 #### What We Need From You
 - Three (3) most recent monthly update emails
 - Intros to 2-3 early users
+- Evidence of a real user problem, like:
+	- User interview transcripts
+	- Retention metrics
+	- LOIs
 
 #### Next Steps
 **If users tell us that this problem is important**, start [Analysis](#analysis).
@@ -280,10 +284,7 @@ First we fill our our [Investment Memo](https://docs.google.com/document/d/1Xjd9
 We then turn our memo to an [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0). Our scorecard helps us make data-driven decisions based on what we think are the most important elements of a startup.
 
 #### What We Need From You
-1. Hard evidence of a real user problem, like:
-	- User interview transcripts
-	- Analytics
-	- LOIs
+Nothing :)
 
 #### Next Steps
 **If we want to invest**, start [Investment Diligence](#diligence).
