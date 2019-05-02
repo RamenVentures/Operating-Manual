@@ -41,23 +41,27 @@
 	1. [Getting Started Together](#getting-started-together)
 	2. [Staying in Touch](#staying-in-touch)
 
-### Who We Are
+&nbsp;
+
+## Who We Are
 
 Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
 
-#### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>
+### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>
 
 Adam was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a> where he helped create the Product strategies it used to grow to a $17B company today.
 
-#### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>
+### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>
 
 Josh was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a> where he lead hundreds of engineers to build software that powers 700,000+ businesses and $10B/year in sales.
 
-#### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>
+### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>
 
 Ali founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a>, a Y Combinator-backed startup that made the world's first smart carbon fibre bike.
 
-### Why We Exist
+&nbsp;
+
+## Why We Exist
 
 #### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
@@ -109,7 +113,7 @@ The best founders schedule regular coaching sessions with us. They also call, te
 
 We'll watch your investor updates for opportunities to help, but it's up to you to make the most of us.
 
----
+&nbsp;
 
 ## Our Investment Thesis
 
@@ -138,6 +142,8 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 	- You're mission driven.
 	- You have the ability to design, develop, and distribute your product (the 3 Ds).
 - **Check Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
+
+&nbsp;
 
 # Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly: fast, honest, and transparent.
@@ -267,7 +273,7 @@ Access to a Data Room that includes your:
 
 **If we can't**, we tell you why.
 
----
+&nbsp;
 
 ## Making Follow-On Investments
 
@@ -293,6 +299,8 @@ Access to a Data Room that includes your:
 **If yes**, we send you more money.
 
 **If no**, we continue helping as we always have.
+
+&nbsp;
 
 # Working Together
 
