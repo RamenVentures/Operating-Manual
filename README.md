@@ -84,6 +84,8 @@ As Shopify's first VP Product and Head of Engineering respectively, Adam and Jos
 
 Our life's work is to improve the world. We don't angel invest to make money; we do it to help great founders solve problems that will improve the lives of billions of people.
 
+&nbsp;
+
 ## How We Help Founders
 We help founders in a few unique ways.
 
@@ -145,59 +147,59 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 
 &nbsp;
 
-# Our Investment Process
+## Our Investment Process
 Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly: fast, honest, and transparent.
 
 ---
 
-## Screening
+### Screening
 Step 1 is to quickly screen your startup.
 
-### Goal
+#### Goal
 
 To understand, at a high level, what your startup does and whether it fits [our investment thesis](#our-investment-thesis).
 
-### Questions
+#### Questions
 We will look at the material you send us and ask ourselves our [Screening Questions](processes/screening_questions.md).
 
-### What We Need From You
+#### What We Need From You
 1. Your deck (if you have one)
 2. A link to your MVP
 
-### Next Steps
+#### Next Steps
 **If your startup fits our thesis**, continue to [Meeting](#meeting).
 
 **If not**, we share our analysis and feedback.
 
 ---
 
-## Meeting
+### Meeting
 Step 2 is to meet your founding team, preferably face-to-face.
 
-### Goal
+#### Goal
 
 To deeply understand your target users, problem, existing solutions, unique value prop, mission, vision, and team.
 
-### Questions
+#### Questions
 When we meet, we'll ask you our [Meeting Questions](/processes/meeting_questions.md).
 
-### What We Need From You
+#### What We Need From You
 1. To meet you :)
 
-### Next Steps
+#### Next Steps
 **If we're excited**, start our [Learning](#learning).
 
 **If not**, we share our feedback.
 
 ---
 
-## Learning
+### Learning
 We've learned from you and now it's time for us to learn from others, too. We'll talk users in your target market to learn about them and their problems. We'll also talk to people who know you about the traits we look for in founders.
 
-### Goal
+#### Goal
 To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
-### Questions
+#### Questions
 We'll reach out to your users and people you know and ask them our [Learning Questions](processes/learning.md).
 
 #### What We Need From You
@@ -208,46 +210,46 @@ We'll reach out to your users and people you know and ask them our [Learning Que
 	- Retention metrics
 	- LOIs
 
-### Next Steps
+#### Next Steps
 **If users tell us that this problem is important**, start [Analysis](#analysis).
 
 **If not**, we share our learnings and feedback.
 
 ---
 
-## Analysis
+### Analysis
 Step 4 is where we decide whether your startup really fits [our investment thesis](#our-investment-thesis).
 
-### Goal
+#### Goal
 
 To decide whether we should pursue an investment in your startup.
 
-### Questions
+#### Questions
 First we fill our our [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#). It's full of questions we ask ourselves to understand if a startup fits our thesis.
 
 We then turn our memo to an [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0). Our scorecard helps us make data-driven decisions based on what we think are the most important elements of a startup.
 
-### What We Need From You
+#### What We Need From You
 Nothing :)
 
-### Next Steps
+#### Next Steps
 **If we want to invest**, start [Investment Diligence](#diligence).
 
 **If not**, we share our analysis.
 
 ---
 
-## Diligence
+### Diligence
 Step 5 is our investment due diligence. It's designed to be lightweight but rigorous enough to uncover any red flags.
 
-### Goal
+#### Goal
 
 To ensure that the company and funding are structured for success.
 
-### Questions
+#### Questions
 During this stage of the process we ask ourselves our [Diligence Questions](processes/diligence_questions.md).
 
-### What We Need From You
+#### What We Need From You
 Access to a Data Room that includes your:
 
 1. Corporate Documents
@@ -268,22 +270,22 @@ Access to a Data Room that includes your:
 	- Major Customer Agreements
 	- Major Partnership Agreements
 
-### Next Steps
+#### Next Steps
 **If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
 
 **If we can't**, we tell you why.
 
-&nbsp;
+---
 
-## Making Follow-On Investments
+### Making Follow-On Investments
 
-### Goal
+#### Goal
 To decide whether or not to make additional investments in a portfolio company.
 
-### Questions
+#### Questions
 We ask ourselves our [Follow-On Questions](processes/follow_on_questions.md).
 
-### What We Need From You
+#### What We Need From You
 
 Access to a Data Room that includes your:
 
@@ -295,22 +297,22 @@ Access to a Data Room that includes your:
 2. Key Metrics
 	- Your one metric that matters
 
-### Next Steps
+#### Next Steps
 **If yes**, we send you more money.
 
 **If no**, we continue helping as we always have.
 
 &nbsp;
 
-# Working Together
+## Working Together
 
 Our [mission](#why-we-exist) is to help you be successful, and to do that, we only ask you for two things:
 
-## Getting Started Together
+### Getting Started Together
 
 We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md) with us after we invest.
 
-## Staying In Touch
+### Staying In Touch
 
 We ask you to stay in touch by:
 
