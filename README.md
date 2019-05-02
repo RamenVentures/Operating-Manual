@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ramen.vc/">
-    <img src="https://static1.squarespace.com/static/56a7490fb209430da46e74d3/t/57a5fdc503596e090b45458f/1534184494358/?format=750w" alt="Ramen Ventures Logo" width=200 height=200>
+    <img src="media/ramen_logo.png" alt="Ramen Ventures Logo" width=200 height=200>
   </a>
 
   <p align="center">
@@ -41,6 +41,8 @@
 	1. [Getting Started Together](#getting-started-together)
 	2. [Staying in Touch](#staying-in-touch)
 
+&nbsp;
+
 ## Who We Are
 
 Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
@@ -57,14 +59,16 @@ Josh was the first Head of Core Product Engineering at  <a href="http://www.shop
 
 Ali founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a>, a Y Combinator-backed startup that made the world's first smart carbon fibre bike.
 
+&nbsp;
+
 ## Why We Exist
 
-### Our Philosophy
+#### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
 We're rational optimists who believe that innovation makes the world a better place.
 
-### Our Mission
+#### Our Mission
 
 Our mission at Ramen Ventures is twofold:
 
@@ -79,6 +83,8 @@ As Shopify's first VP Product and Head of Engineering respectively, Adam and Jos
 **To help founders make the world a better place.**
 
 Our life's work is to improve the world. We don't angel invest to make money; we do it to help great founders solve problems that will improve the lives of billions of people.
+
+&nbsp;
 
 ## How We Help Founders
 We help founders in a few unique ways.
@@ -109,6 +115,8 @@ The best founders schedule regular coaching sessions with us. They also call, te
 
 We'll watch your investor updates for opportunities to help, but it's up to you to make the most of us.
 
+&nbsp;
+
 ## Our Investment Thesis
 
 ### Our Thesis
@@ -137,8 +145,10 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 	- You have the ability to design, develop, and distribute your product (the 3 Ds).
 - **Check Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
+&nbsp;
+
 ## Our Investment Process
-Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
+Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly: fast, honest, and transparent.
 
 ---
 
@@ -150,17 +160,7 @@ Step 1 is to quickly screen your startup.
 To understand, at a high level, what your startup does and whether it fits [our investment thesis](#our-investment-thesis).
 
 #### Questions
-We ask ourselves:
-
-1. Who are the founders?
-2. What user niche are they trying to solve a problem for?
-3. What problem are they solving for them?
-4. Are any of our portfolio companies solving a similar problem?
-5. Do they fit [our investment thesis](#our-investment-thesis)?
-	- Type?
-	- Location?
-	- Stage?
-	- Founding Team?
+We will look at the material you send us and ask ourselves our [Screening Questions](processes/screening_questions.md).
 
 #### What We Need From You
 1. Your deck (if you have one)
@@ -181,43 +181,7 @@ Step 2 is to meet your founding team, preferably face-to-face.
 To deeply understand your target users, problem, existing solutions, unique value prop, mission, vision, and team.
 
 #### Questions
-We ask you:
-
-##### User, Problem, and Mission
-- What users are you solving a problem for?
-- What problem are you solving for them?
-- How do you know it's important (to them)?
-- How do you know it's painful?
-- How do you know it's unsatisfied?
-- How do you know it's valuable to solve it?
-- What's your long-term mission? (eg: "To organize the world's information. - Google)
-
-##### Unique Value Proposition, Solution, and Vision
-- How will you solve the user’s problem?
-- Why is this 10x better than the users' existing solutions?
-- How will you get in front of early adopters?
-- What is your unfair advantage? (ie: What makes you uniquely capable of doing this?)
-- What will your accumulating advantage be? (ie: What will make this stronger over time?)
-- What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
-
-##### Team
-- Who is on the team and what does each person do?
-- What is your history together?
-- Why work on _this_ problem?
-- Is everyone full time?
-- How is equity split?
-
-##### Progress
-- What is the timeline of the company until now?
-- What progress have you achieved in that time?
-
-##### Your Fundraising
-- How much are you raising and on what terms?
-- How much have you raised before and on what terms?
-- What milestones do you need to achieve to successfully raise your _next_ round?
-- How will you use these funds to get there?
-- Who’s committed?
-
+When we meet, we'll ask you our [Meeting Questions](/processes/meeting_questions.md).
 
 #### What We Need From You
 1. To meet you :)
@@ -235,26 +199,8 @@ We've learned from you and now it's time for us to learn from others, too. We'll
 #### Goal
 To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
-#### Questions to Learn about Users
-We'll chat with a few users in your target market and ask:
-1. What is the problem you're trying to solve?
-2. How important is this problem to you? Why?
-3. How have you solved this problem in the past?
-4. How painful was this? Why?
-5. In a perfect world, how would you want this problem solved?
-6. How would you feel if I told you that you could no longer use COMPANY?
-
-#### Questions to Learn about Founders
-We'll chat with a few people who've worked with you and ask:
-1. How do you know them?
-2. How would you describe them?
-3. How do they handle _challenges and uncertainty_?
-4. How _determined and persistent_ are they compared others?
-5. What percentile are they in _Getting Shit Done_?
-6. How self-aware are they?
-7. How do they rank in terms of _personal growth_?
-8. Are they generally a _positive or negative person_?
-9. Would _great people leave their job to work with them_? Would you?
+#### Questions
+We'll reach out to your users and people you know and ask them our [Learning Questions](processes/learning_questions.md).
 
 #### What We Need From You
 - Three (3) most recent monthly update emails
@@ -301,26 +247,7 @@ Step 5 is our investment due diligence. It's designed to be lightweight but rigo
 To ensure that the company and funding are structured for success.
 
 #### Questions
-We ask ourselves:
-
-##### Founders
-- Are the founders ethical?
-- Are the founders vesting?
-
-##### Cap Table
-- Is the cap table lean and fair?
-- Is the cap table free of preferential terms? (liquidity preferences, ratchets, super-voting rights)
-
-##### Fundraising
-- Are they using a standard fundraising agreement and terms?
-- Are all investors receiving equal treatment?
-- Do we have pro-rata rights?
-- Do we have information rights?
-- Are they raising enough to reach a logical next milestone?
-- If later than Pre-Seed, do they have a strong lead investor who will also lead their _next_ round?
-
-##### Working Together
-- Do the founders agree to [monthly updates](samples/sample_monthly_update.md)?
+During this stage of the process we ask ourselves our [Diligence Questions](processes/diligence_questions.md).
 
 #### What We Need From You
 Access to a Data Room that includes your:
@@ -344,7 +271,7 @@ Access to a Data Room that includes your:
 	- Major Partnership Agreements
 
 #### Next Steps
-**If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
+**If there are no red flags**, we invest and [start helping](#how-we-help-founders).
 
 **If we can't**, we tell you why.
 
@@ -356,21 +283,7 @@ Access to a Data Room that includes your:
 To decide whether or not to make additional investments in a portfolio company.
 
 #### Questions
-We ask ourselves:
-
-**Is _this still_ the future?**
-
-- Do we believe in their current mission?
-- Do we believe in their current vision?
-
-**Are _these_ founders creating it?**
-
-- What is their one metric that matters?
-- What is its month-over-month growth?
-- Is market pull creating exponential growth?
-- Are these founders executing in the top 5%?
-- Do they sead regular, clear, and concise [monthly updates](samples/sample_monthly_update.md)?
-- Are they raising an up-round led by one or more tier-1 VCs?
+We'll go through your updates, and through any new material you and us and we'll ask ourselves our [Follow-On Questions](processes/follow_on_questions.md).
 
 #### What We Need From You
 
@@ -389,7 +302,7 @@ Access to a Data Room that includes your:
 
 **If no**, we continue helping as we always have.
 
----
+&nbsp;
 
 ## Working Together
 
