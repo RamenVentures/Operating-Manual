@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ramen.vc/">
-    <img src="https://static1.squarespace.com/static/56a7490fb209430da46e74d3/t/57a5fdc503596e090b45458f/1534184494358/?format=750w" alt="Ramen Ventures Logo" width=200 height=200>
+    <img src="media/ramen_logo.png" alt="Ramen Ventures Logo" width=200 height=200>
   </a>
 
   <p align="center">
@@ -41,30 +41,30 @@
 	1. [Getting Started Together](#getting-started-together)
 	2. [Staying in Touch](#staying-in-touch)
 
-## Who We Are
+### Who We Are
 
 Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
 
-### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>
+#### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>
 
 Adam was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a> where he helped create the Product strategies it used to grow to a $17B company today.
 
-### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>
+#### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>
 
 Josh was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a> where he lead hundreds of engineers to build software that powers 700,000+ businesses and $10B/year in sales.
 
-### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>
+#### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>
 
 Ali founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a>, a Y Combinator-backed startup that made the world's first smart carbon fibre bike.
 
-## Why We Exist
+### Why We Exist
 
-### Our Philosophy
+#### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
 We're rational optimists who believe that innovation makes the world a better place.
 
-### Our Mission
+#### Our Mission
 
 Our mission at Ramen Ventures is twofold:
 
@@ -109,6 +109,8 @@ The best founders schedule regular coaching sessions with us. They also call, te
 
 We'll watch your investor updates for opportunities to help, but it's up to you to make the most of us.
 
+---
+
 ## Our Investment Thesis
 
 ### Our Thesis
@@ -137,124 +139,60 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 	- You have the ability to design, develop, and distribute your product (the 3 Ds).
 - **Check Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
-## Our Investment Process
-Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly - fast, honest, and transparent. It has five steps:
+# Our Investment Process
+Our investment process is designed to find companies that fit our thesis while being _extremely_ founder-friendly: fast, honest, and transparent.
 
 ---
 
-### Screening
+## Screening
 Step 1 is to quickly screen your startup.
 
-#### Goal
+### Goal
 
 To understand, at a high level, what your startup does and whether it fits [our investment thesis](#our-investment-thesis).
 
-#### Questions
-We ask ourselves:
+### Questions
+We will look at the material you send us and ask ourselves our [Screening Questions](processes/screening_questions.md).
 
-1. Who are the founders?
-2. What user niche are they trying to solve a problem for?
-3. What problem are they solving for them?
-4. Are any of our portfolio companies solving a similar problem?
-5. Do they fit [our investment thesis](#our-investment-thesis)?
-	- Type?
-	- Location?
-	- Stage?
-	- Founding Team?
-
-#### What We Need From You
+### What We Need From You
 1. Your deck (if you have one)
 2. A link to your MVP
 
-#### Next Steps
+### Next Steps
 **If your startup fits our thesis**, continue to [Meeting](#meeting).
 
 **If not**, we share our analysis and feedback.
 
 ---
 
-### Meeting
+## Meeting
 Step 2 is to meet your founding team, preferably face-to-face.
 
-#### Goal
+### Goal
 
 To deeply understand your target users, problem, existing solutions, unique value prop, mission, vision, and team.
 
-#### Questions
-We ask you:
+### Questions
+When we meet, we'll ask you our [Meeting Questions](/processes/meeting_questions.md).
 
-##### User, Problem, and Mission
-- What users are you solving a problem for?
-- What problem are you solving for them?
-- How do you know it's important (to them)?
-- How do you know it's painful?
-- How do you know it's unsatisfied?
-- How do you know it's valuable to solve it?
-- What's your long-term mission? (eg: "To organize the world's information. - Google)
-
-##### Unique Value Proposition, Solution, and Vision
-- How will you solve the user’s problem?
-- Why is this 10x better than the users' existing solutions?
-- How will you get in front of early adopters?
-- What is your unfair advantage? (ie: What makes you uniquely capable of doing this?)
-- What will your accumulating advantage be? (ie: What will make this stronger over time?)
-- What's your vision? What will the future look like in 10 years? (eg: "To provide access to the world’s information in one click." - Google)
-
-##### Team
-- Who is on the team and what does each person do?
-- What is your history together?
-- Why work on _this_ problem?
-- Is everyone full time?
-- How is equity split?
-
-##### Progress
-- What is the timeline of the company until now?
-- What progress have you achieved in that time?
-
-##### Your Fundraising
-- How much are you raising and on what terms?
-- How much have you raised before and on what terms?
-- What milestones do you need to achieve to successfully raise your _next_ round?
-- How will you use these funds to get there?
-- Who’s committed?
-
-
-#### What We Need From You
+### What We Need From You
 1. To meet you :)
 
-#### Next Steps
+### Next Steps
 **If we're excited**, start our [Learning](#learning).
 
 **If not**, we share our feedback.
 
 ---
 
-### Learning
+## Learning
 We've learned from you and now it's time for us to learn from others, too. We'll talk users in your target market to learn about them and their problems. We'll also talk to people who know you about the traits we look for in founders.
 
-#### Goal
+### Goal
 To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
-#### Questions to Learn about Users
-We'll chat with a few users in your target market and ask:
-1. What is the problem you're trying to solve?
-2. How important is this problem to you? Why?
-3. How have you solved this problem in the past?
-4. How painful was this? Why?
-5. In a perfect world, how would you want this problem solved?
-6. How would you feel if I told you that you could no longer use COMPANY?
-
-#### Questions to Learn about Founders
-We'll chat with a few people who've worked with you and ask:
-1. How do you know them?
-2. How would you describe them?
-3. How do they handle _challenges and uncertainty_?
-4. How _determined and persistent_ are they compared others?
-5. What percentile are they in _Getting Shit Done_?
-6. How self-aware are they?
-7. How do they rank in terms of _personal growth_?
-8. Are they generally a _positive or negative person_?
-9. Would _great people leave their job to work with them_? Would you?
+### Questions
+We'll reach out to your users and people you know and ask them our [Learning Questions](processes/learning.md).
 
 #### What We Need From You
 - Three (3) most recent monthly update emails
@@ -264,65 +202,46 @@ We'll chat with a few people who've worked with you and ask:
 	- Retention metrics
 	- LOIs
 
-#### Next Steps
+### Next Steps
 **If users tell us that this problem is important**, start [Analysis](#analysis).
 
 **If not**, we share our learnings and feedback.
 
 ---
 
-### Analysis
+## Analysis
 Step 4 is where we decide whether your startup really fits [our investment thesis](#our-investment-thesis).
 
-#### Goal
+### Goal
 
 To decide whether we should pursue an investment in your startup.
 
-#### Questions
+### Questions
 First we fill our our [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#). It's full of questions we ask ourselves to understand if a startup fits our thesis.
 
 We then turn our memo to an [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0). Our scorecard helps us make data-driven decisions based on what we think are the most important elements of a startup.
 
-#### What We Need From You
+### What We Need From You
 Nothing :)
 
-#### Next Steps
+### Next Steps
 **If we want to invest**, start [Investment Diligence](#diligence).
 
 **If not**, we share our analysis.
 
 ---
 
-### Diligence
+## Diligence
 Step 5 is our investment due diligence. It's designed to be lightweight but rigorous enough to uncover any red flags.
 
-#### Goal
+### Goal
 
 To ensure that the company and funding are structured for success.
 
-#### Questions
-We ask ourselves:
+### Questions
+During this stage of the process we ask ourselves our [Diligence Questions](processes/diligence_questions.md).
 
-##### Founders
-- Are the founders ethical?
-- Are the founders vesting?
-
-##### Cap Table
-- Is the cap table lean and fair?
-- Is the cap table free of preferential terms? (liquidity preferences, ratchets, super-voting rights)
-
-##### Fundraising
-- Are they using a standard fundraising agreement and terms?
-- Are all investors receiving equal treatment?
-- Do we have pro-rata rights?
-- Do we have information rights?
-- Are they raising enough to reach a logical next milestone?
-- If later than Pre-Seed, do they have a strong lead investor who will also lead their _next_ round?
-
-##### Working Together
-- Do the founders agree to [monthly updates](samples/sample_monthly_update.md)?
-
-#### What We Need From You
+### What We Need From You
 Access to a Data Room that includes your:
 
 1. Corporate Documents
@@ -343,36 +262,22 @@ Access to a Data Room that includes your:
 	- Major Customer Agreements
 	- Major Partnership Agreements
 
-#### Next Steps
+### Next Steps
 **If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
 
 **If we can't**, we tell you why.
 
 ---
 
-### Making Follow-On Investments
+## Making Follow-On Investments
 
-#### Goal
+### Goal
 To decide whether or not to make additional investments in a portfolio company.
 
-#### Questions
-We ask ourselves:
+### Questions
+We ask ourselves our [Follow-On Questions](processes/follow_on_questions.md).
 
-**Is _this still_ the future?**
-
-- Do we believe in their current mission?
-- Do we believe in their current vision?
-
-**Are _these_ founders creating it?**
-
-- What is their one metric that matters?
-- What is its month-over-month growth?
-- Is market pull creating exponential growth?
-- Are these founders executing in the top 5%?
-- Do they sead regular, clear, and concise [monthly updates](samples/sample_monthly_update.md)?
-- Are they raising an up-round led by one or more tier-1 VCs?
-
-#### What We Need From You
+### What We Need From You
 
 Access to a Data Room that includes your:
 
@@ -384,22 +289,20 @@ Access to a Data Room that includes your:
 2. Key Metrics
 	- Your one metric that matters
 
-#### Next Steps
+### Next Steps
 **If yes**, we send you more money.
 
 **If no**, we continue helping as we always have.
 
----
-
-## Working Together
+# Working Together
 
 Our [mission](#why-we-exist) is to help you be successful, and to do that, we only ask you for two things:
 
-### Getting Started Together
+## Getting Started Together
 
 We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md) with us after we invest.
 
-### Staying In Touch
+## Staying In Touch
 
 We ask you to stay in touch by:
 
