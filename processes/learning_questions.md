@@ -1,6 +1,6 @@
 # Learning Questions
 
-## Questions to Learn about Users
+### Questions to Learn about Users
 We'll chat with a few users in your target market and ask:
 
 1. What is the problem you're trying to solve?
@@ -10,7 +10,7 @@ We'll chat with a few users in your target market and ask:
 5. In a perfect world, how would you want this problem solved?
 6. How would you feel if I told you that you could no longer use COMPANY?
 
-## Questions to Learn about Founders
+### Questions to Learn about Founders
 We'll chat with a few people who've worked with you and ask:
 
 1. How do you know them?

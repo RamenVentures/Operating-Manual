@@ -1,11 +1,11 @@
 # Follow-on Investment Questions
 
-## Is _this still_ the future?
+### Is _this still_ the future?
 
 - Do we believe in their current mission?
 - Do we believe in their current vision?
 
-## Are _these_ founders creating it?
+### Are _these_ founders creating it?
 
 - What is their one metric that matters?
 - What is its month-over-month growth?

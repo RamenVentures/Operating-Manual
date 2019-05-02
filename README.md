@@ -200,7 +200,7 @@ We've learned from you and now it's time for us to learn from others, too. We'll
 To develop a first-hand knowledge of your team, target market, and the problem you're solving.
 
 #### Questions
-We'll reach out to your users and people you know and ask them our [Learning Questions](processes/learning.md).
+We'll reach out to your users and people you know and ask them our [Learning Questions](processes/learning_questions.md).
 
 #### What We Need From You
 - Three (3) most recent monthly update emails
