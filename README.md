@@ -271,7 +271,7 @@ Access to a Data Room that includes your:
 	- Major Partnership Agreements
 
 #### Next Steps
-**If there are no red flags**, we invest and [start helping](#how-we-help-our-portfolio-companies).
+**If there are no red flags**, we invest and [start helping](#how-we-help-founders).
 
 **If we can't**, we tell you why.
 
@@ -283,7 +283,7 @@ Access to a Data Room that includes your:
 To decide whether or not to make additional investments in a portfolio company.
 
 #### Questions
-We ask ourselves our [Follow-On Questions](processes/follow_on_questions.md).
+We'll go through your updates, and through any new material you and us and we'll ask ourselves our [Follow-On Questions](processes/follow_on_questions.md).
 
 #### What We Need From You
 
