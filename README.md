@@ -129,21 +129,20 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 
 ### Our Investment Criteria
 
-- **Type**: Combine three or more:
-	- **Market**: Consumer, SMB
-	- **Problem**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Food, Financial Success/Empowerment, Health and Longevity, Transportation, Work.
-	- **Solution**: Marketplace, Platform
+- **Type**:
+	- **Mission**: You could positively impact the lives of millions.
+	- **User Type**: Consumer, SMB
+	- **Problem Type**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Environmental Sustainability, Food, Financial Success/Empowerment, Health and Longevity, Transportation, Work.
+	- **Solution Type**: It can become a Platform or Marketplace.
 	- **Technologies**: VR/AR, AI, Quantum Computing, and other Frontier Technologies
-- **Location**: Based in Canada, especially Toronto
 - **Stage**: "Pre-Seed"
-	- **Market**: You've found a small niche of users in a market with the potential to be massive.
+	- **Market**: You've found early adopters in a market that could become big.
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
 	- **Solution**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
 	- **Product**: You're working with early adopters to create and validate your MVP. (I.e you haven't yet found Product/Market Fit)
-- **Founding Team**:
-	- You're mission driven.
-	- You have the ability to design, develop, and distribute your product (the 3 Ds).
-- **Check Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
+- **Founders**:
+	- The founding team can design, develop, and distribute your product.
+- **Investment Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
 &nbsp;
 
