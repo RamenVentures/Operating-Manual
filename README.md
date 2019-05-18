@@ -28,8 +28,6 @@
 	2. [Our Mission](#our-mission)
 3. [How We Help Founders](#how-we-help-founders)
 4. [Our Investment Thesis](#our-investment-thesis)
-	1. [Our Thesis](#our-thesis)
-	2. [Our Investment Criteria](#our-investment-criteria)
 5. [Our Investment Process](#our-investment-process)
 	1. [Screening](#screening)
 	2. [Meeting](#meeting)
