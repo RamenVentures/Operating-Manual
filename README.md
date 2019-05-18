@@ -119,29 +119,25 @@ We'll watch your investor updates for opportunities to help, but it's up to you 
 
 ## Our Investment Thesis
 
-### Our Thesis
-
 First, we look for a startup that's found a group of Users with a important, painful, and valuable Problem. We call this having an "**Important Mission**."
 
 Next, we look for founders who are trying to create an ambitious solution that's first, best, or unique. We call this having a "**Bold Vision**."
 
 Finally, we look for founders with the passion, guts, and ability to actually create it. We call this having the "**Right Team**".
 
-### Our Investment Criteria
+More specifically, we aspire to invest in companies that meet the following criteria:
 
-- **Type**:
-	- **Mission**: You could positively impact the lives of millions.
-	- **User Type**: Consumer, SMB
-	- **Problem Type**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Environmental Sustainability, Food, Financial Success/Empowerment, Health and Longevity, Transportation, Work.
-	- **Solution Type**: It can become a Platform or Marketplace.
-	- **Enabling Technology**: VR/AR, AI, Quantum Computing, and other Frontier Technologies
+- **Mission**: You could positively impact the lives of millions.
+- **User Type**: Consumer, SMB
+- **Problem Type**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Environmental Sustainability, Food, Financial Wellbeing, Health and Longevity, Transportation, Work.
+- **Solution Type**: It can become a Platform or Marketplace.
+- **Enabling Technology**: VR/AR, AI, Quantum Computing, or some other Frontier Technology.
 - **Stage**: "Pre-Seed"
-	- **Market**: You've found early adopters in a market that could become big.
+	- **Market**: You've found early adopters in a market that could be big in the future.
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
 	- **Solution**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
 	- **Product**: You're working with early adopters to create and validate your MVP. (I.e you haven't yet found Product/Market Fit)
-- **Founders**:
-	- The founding team can design, develop, and distribute your product.
+- **Founders**: The founding team can design, develop, and distribute your product.
 - **Investment Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
 
 &nbsp;
