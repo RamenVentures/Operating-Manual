@@ -134,7 +134,7 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 	- **User Type**: Consumer, SMB
 	- **Problem Type**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Environmental Sustainability, Food, Financial Success/Empowerment, Health and Longevity, Transportation, Work.
 	- **Solution Type**: It can become a Platform or Marketplace.
-	- **Technologies**: VR/AR, AI, Quantum Computing, and other Frontier Technologies
+	- **Enabling Technology**: VR/AR, AI, Quantum Computing, and other Frontier Technologies
 - **Stage**: "Pre-Seed"
 	- **Market**: You've found early adopters in a market that could become big.
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
