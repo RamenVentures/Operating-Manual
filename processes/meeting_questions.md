@@ -9,17 +9,16 @@
 
 ### Unique Value Proposition, Solution, and Vision
 - How will you solve this problem?
-- Why is this 10x better than their existing solutions?
+- Why is this better than their existing solutions?
 - How will you get in front of early adopters?
 - What's your unfair advantage? (ie: What makes you uniquely capable of doing this?)
-- What will your accumulating advantage be? (ie: What will make this stronger over time?)
 - What's your vision? What will the future look like in 10 years?
 
 ### Team
 - Who is on your team?
-- What is your history together?
+- What's your history together?
 - Why work on _this_ problem?
-- Why will you be the team that wins?
+- Why will _you_ be the team that wins?
 
 ### Company Timeline and Progress
 - What is the timeline and progress of the company? (journey, learnings, milestones, metrics, etc)
@@ -27,6 +26,6 @@
 ### Your Fundraising
 - What milestones do you need to achieve to successfully raise your _next_ round?
 - How much are you raising now and on what terms?
-- How will you use these funds to get there?
+- How will you use these funds to get to your next raise?
 - How much have you raised before and on what terms?
-- Who else is supporting you?
+- Who else is supporting you (investors, advisors, etc)?
