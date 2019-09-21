@@ -112,15 +112,15 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 More specifically, we aspire to invest in companies that meet the following criteria:
 
 - **Mission**: You are working to improve the lives of billions (happier, healthier, wealthier, or wiser) or improve the long-term future of humanity.
-- **Problem Type**: Some examples include: education, health and longevity, financial empowerment, energy production, carbon sequestration, etc.
+- **Types of Problems**: Some examples include (but aren't limited to): education, food, health and longevity, financial empowerment, energy production and storage, carbon sequestration, transportation, etc.
 - **Enabling Technology**: Uses a new or novel technology to change the World. (ie: VR/AR, AI, Quantum Computing, or some other Frontier Technology.)
-- **Stage**: "Pre-Seed"
+- **Stage**: Pre-Seed (ish):
 	- **Market**: You've found early adopters in a market that could be big in the future.
-	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
-	- **Solution**: You've validated a vision that's first, best, or unique. (I.e you've found Problem/Solution Fit)
-	- **Product**: You're working with early adopters to create and validate your MVP. (I.e you haven't yet found Product/Market Fit)
-- **Founders**: The founding team can design, develop, and distribute your product.
-- **Investment Size**: $100,000 CAD at Pre-Seed, and we exercise pro rata in later rounds.
+	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved.
+	- **Solution**: You've validated a vision that's first, best, or unique.
+	- **Product**: You're working with early adopters to create and validate your MVP.
+- **Founders**: The founding team can design, develop, and distribute your solution.
+- **Investment Size**: $100,000 CAD at Pre-Seed, and more in later rounds.
 
 &nbsp;
 
