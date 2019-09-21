@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    We angel invest in founders who are creating software that will improve the lives of millions of people.
+    We angel invest in founders who are improving the lives of billions and the long-term future of humanity.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
@@ -68,7 +68,7 @@ We believe that everyone should have the opportunity to live a happy, healthy, w
 
 #### Our Mission
 
-Our mission is *improve the lives of billions and the long-term future of humanity.* We back founders who are making huge numberes of people happier, healthier, wealthier, and wiser, and making the Earth a clean, safe, and secure place to live.
+Our mission is **improve the lives of billions and the long-term future of humanity.** We back founders who are making huge numberes of people happier, healthier, wealthier, and wiser, and making the Earth a better place to live.
 
 ## How We Help Founders
 We help founders in a few unique ways.
