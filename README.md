@@ -68,21 +68,7 @@ We're rational optimists who believe that innovation makes the world a better pl
 
 #### Our Mission
 
-Our mission at Ramen Ventures is twofold:
-
-**To help founders create world-class companies like Shopify.**
-
-Shopify is the fastest SaaS company to 1-billion dollars in revenue. Anywhere. Ever.
-
-When it acquired our startup, Shopify had about 60 employees, powered 20,000 businesses, and was worth about $100 million. Today, Shopify has more than 3,000 employees, powers 700,000 businesses, and is valued around $17 billion.
-
-As Shopify's first VP Product and Head of Engineering respectively, Adam and Josh learned how to scale a small Canadian startup to a World-leading company. We want to share the important lessons we learned with as many founders as possible.
-
-**To help founders make the world a better place.**
-
-Our life's work is to improve the world. We don't angel invest to make money; we do it to help great founders solve problems that will improve the lives of billions of people.
-
-&nbsp;
+Our mission is *improve the lives of billions and the long-term future of humanity.* We back founders who are making huge numberes of people happier, healthier, wealthier, and wiser, and making the Earth a clean, safe, and secure place to live.
 
 ## How We Help Founders
 We help founders in a few unique ways.
@@ -125,11 +111,9 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 
 More specifically, we aspire to invest in companies that meet the following criteria:
 
-- **Mission**: You could positively impact the lives of millions.
-- **User Type**: Consumer, SMB
-- **Problem Type**: The future of Creation (audio, video, programming, etc), E-commerce, Education, Environmental Sustainability, Food, Financial Wellbeing, Health and Longevity, Transportation, Work.
-- **Solution Type**: It can become a Platform or Marketplace.
-- **Enabling Technology**: VR/AR, AI, Quantum Computing, or some other Frontier Technology.
+- **Mission**: You are working to improve the lives of billions (happier, healthier, wealthier, or wiser) or improve the long-term future of humanity.
+- **Problem Type**: Some examples include: education, health and longevity, financial empowerment, energy production, carbon sequestration, etc.
+- **Enabling Technology**: Uses a new or novel technology to change the World. (ie: VR/AR, AI, Quantum Computing, or some other Frontier Technology.)
 - **Stage**: "Pre-Seed"
 	- **Market**: You've found early adopters in a market that could be big in the future.
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved. (I.e you've found Problem/Market Fit)
