@@ -64,7 +64,7 @@ Ali founded <a href="http://www.vanhawks.com" target="_blank">Vanhawks</a>, a Y 
 #### Our Philosophy
 > “Technology not only moves the human race forward, it’s the only thing that ever has. Without technology, we’re just monkeys playing in the dirt.” \- Naval Ravikant
 
-We're rational optimists who believe that innovation makes the world a better place.
+We believe that everyone should have the opportunity to live a happy, healthy, wealthy, and wise life, and that we should live sustainably on Spaceship Earth.
 
 #### Our Mission
 
