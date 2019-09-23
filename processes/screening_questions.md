@@ -1,5 +1,6 @@
 # Screening Questions
 Do they fit [our investment thesis](/README.md#our-investment-thesis)?	
+- What is this in one sentence?
 - Could this improve the lives of billions and our long-term future?
 - Are these exceptional founders?
 - Using bleeding edge technology?
