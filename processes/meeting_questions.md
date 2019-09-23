@@ -10,8 +10,10 @@
 ### Unique Value Proposition, Solution, and Vision
 - How will you solve this problem?
 - Why is this better than their existing solutions?
-- How will you get in front of early adopters?
+- What new technology enables this?
+- Who else is working on this problem?
 - What's your unfair advantage? (ie: What makes you uniquely capable of doing this?)
+- How will you get in front of early adopters?
 - What's your vision? What will the future look like in 10 years?
 
 ### Team
