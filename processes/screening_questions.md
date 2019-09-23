@@ -1,10 +1,8 @@
 # Screening Questions
-1. Do they fit [our investment thesis](/README.md#our-investment-thesis)?
-	- Mission
-	- User Type
-	- Problem Type
-	- Solution Type
-	- Enabling Tech Type
-	- Stage
-	- Founder Capability
-2. Do we have a portfolio conflict?
+Do they fit [our investment thesis](/README.md#our-investment-thesis)?	
+- Could this improve the lives of billions and our long-term future?
+- Are these exceptional founders?
+- Using bleeding edge technology?
+- To create a world-class breakthrough solution?
+- At the right stage (Pre-seed or Seed)?
+- Do we have a portfolio conflict?
