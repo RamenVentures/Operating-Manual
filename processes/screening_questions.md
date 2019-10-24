@@ -6,5 +6,4 @@ Do they fit [our investment thesis](/README.md#our-investment-thesis)?
 - Using bleeding-edge technology?
 - To create a world-class breakthrough solution?
 - In a large and/or quickly growing market?
-- With an MVP users love?
-- And a viable business model?
+- If they have an MVP, do early users LOVE it?
