@@ -1,9 +1,10 @@
 # Screening Questions
-Do they fit [our investment thesis](/README.md#our-investment-thesis)?	
-- What is this in one sentence?
-- Could this improve the lives of billions and our long-term future?
-- Are these exceptional founders?
-- Using bleeding edge technology?
+Do they fit [our investment thesis](/README.md#our-investment-thesis)?
+- Is this an exceptional team?
+- Solving an important, frequent, painful, and underserved problem?
+- That could improve the lives of billions and our long-term future?
+- Using bleeding-edge technology?
 - To create a world-class breakthrough solution?
-- At the right stage (Pre-seed or Seed)?
-- Do we have a portfolio conflict?
+- In a large and/or quickly growing market?
+- With an MVP users love?
+- And a viable business model?
