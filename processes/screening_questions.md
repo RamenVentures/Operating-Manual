@@ -1,5 +1,6 @@
 # Screening Questions
 Do they fit [our investment thesis](/README.md#our-investment-thesis)?
+- What is this in one sentence?
 - Is this an exceptional team?
 - Solving an important, frequent, painful, and underserved problem?
 - That could improve the lives of billions and our long-term future?
