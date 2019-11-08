@@ -202,7 +202,7 @@ Step 4 is where we decide whether your startup really fits [our investment thesi
 To decide whether we should pursue an investment in your startup.
 
 #### Questions
-First we fill our our [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#). It's full of questions we ask ourselves to understand if a startup fits our thesis.
+First we fill out our [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#). It's full of questions we ask ourselves to understand if a startup fits our thesis.
 
 We then turn our memo to an [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0). Our scorecard helps us make data-driven decisions based on what we think are the most important elements of a startup.
 
