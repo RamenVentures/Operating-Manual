@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    We angel invest in founders who are improving the lives of billions and the long-term future of humanity.
+We angel invest in founders who will improve the lives of billions.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
@@ -47,11 +47,11 @@ Ramen Ventures is an angel fund in Toronto, Canada. We're run by:
 
 ### <a href="http://www.twitter.com/adammcnamara" target="_blank">Adam McNamara</a>
 
-Adam was the first VP Product at <a href="http://www.shopify.com" target="_blank">Shopify</a> where he helped create the Product strategies it used to grow to a $17B company today.
+Adam is a founder (3x), angel investor (50+), and first VP Product at Shopify (NYSE: SHOP, $50B).
 
 ### <a href="http://www.twitter.com/joshpc" target="_blank">Joshua Tessier</a>
 
-Josh was the first Head of Core Product Engineering at  <a href="http://www.shopify.com" target="_blank">Shopify</a> where he lead hundreds of engineers to build software that powers 700,000+ businesses and $10B/year in sales.
+Josh is a founder (3x), angel investor, and first Head of Engineering at Shopify (NYSE: SHOP, $50B)
 
 ### <a href="http://www.twitter.com/alizhd" target="_blank">Ali Zahid</a>
 
