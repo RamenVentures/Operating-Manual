@@ -180,12 +180,9 @@ To develop a first-hand knowledge of your team, target market, and the problem y
 We'll reach out to your users and people you know and ask them our [Learning Questions](processes/learning_questions.md).
 
 #### What We Need From You
-- Three (3) most recent monthly update emails
+- Evidence of a real user problem
 - Intros to 2-3 early users
-- Evidence of a real user problem, like:
-	- User interview transcripts
-	- Retention metrics
-	- LOIs
+- Three (3) most recent monthly update emails
 
 #### Next Steps
 **If users tell us that this problem is important**, start [Analysis](#analysis).
@@ -202,9 +199,7 @@ Step 4 is where we decide whether your startup really fits [our investment thesi
 To decide whether we should pursue an investment in your startup.
 
 #### Questions
-First we fill our our [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#). It's full of questions we ask ourselves to understand if a startup fits our thesis.
-
-We then turn our memo to an [Investment Scorecard](https://docs.google.com/spreadsheets/d/1u-wmovdbcJ5Nl9nWoCuEINg985URzh9cgd3du7kgLCM/edit?pli=1#gid=0). Our scorecard helps us make data-driven decisions based on what we think are the most important elements of a startup.
+We write an [Investment Memo](https://docs.google.com/document/d/1Xjd98CxxXduHbx7-rnTT9qj2--B0ZEee9uF7LLwSBcs/edit?pli=1#) to decide whether to invest or not.
 
 #### What We Need From You
 Nothing :)
@@ -253,33 +248,6 @@ Access to a Data Room that includes your:
 **If we can't**, we tell you why.
 
 ---
-
-### Making Follow-On Investments
-
-#### Goal
-To decide whether or not to make additional investments in a portfolio company.
-
-#### Questions
-We'll go through your updates, and through any new material you and us and we'll ask ourselves our [Follow-On Questions](processes/follow_on_questions.md).
-
-#### What We Need From You
-
-Access to a Data Room that includes your:
-
-1. Past and Current Financing Documents
-	- Subscription/Share Purchase Agreements
-	- SAFEs, Kisses, and Convertible Notes
-	- Right of First Refusal and Co-Sale Agreements
-	- Side Letters
-2. Key Metrics
-	- Your one metric that matters
-
-#### Next Steps
-**If yes**, we send you more money.
-
-**If no**, we continue helping as we always have.
-
-&nbsp;
 
 ## Working Together
 
