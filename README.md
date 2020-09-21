@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-We angel invest in founders who will improve the lives of billions.
+Angel investing in people inventing the future.
     <br>
     <a href="https://ramen.vc/"><strong>Website</strong></a>
     ·
@@ -68,7 +68,10 @@ We believe that everyone should have the opportunity to live a happy, healthy, w
 
 #### Our Mission
 
-Our mission is **improve the lives of billions and the long-term future of humanity.** We back founders who are making huge numberes of people happier, healthier, wealthier, and wiser, and making the Earth a better place to live.
+Our mission is **improve the lives of billions and the long-term future of humanity.** We invest in mission-driven founders using emerging science and technology
+‍to solve important problems.
+
+We'll back world-changing, crazy-sounding ideas across all markets: AI, aerospace, biotech, cleantech, fintech, health, SaaS, AR/VR, and more.
 
 ## How We Help Founders
 We help founders in a few unique ways.
@@ -112,8 +115,8 @@ Finally, we look for founders with the passion, guts, and ability to actually cr
 More specifically, we aspire to invest in companies that meet the following criteria:
 
 - **Mission**: You are working to improve the lives of billions (happier, healthier, wealthier, or wiser) or improve the long-term future of humanity.
-- **Types of Problems**: Some examples include (but aren't limited to): education, food, health and longevity, financial empowerment, energy production and storage, carbon sequestration, transportation, etc.
-- **Enabling Technology**: Uses a new or novel technology to change the World. (ie: VR/AR, AI, Quantum Computing, or some other Frontier Technology.)
+- **Types of Problems**: Some examples include (but aren't limited to): aerospace, AI, decarbonization, education, energy, food, health and longevity, financial empowerment, transportation, etc.
+- **Emerging Science and Tech**: Uses a new or novel technology to change the World. (ie: VR/AR, AI, Quantum Computing, or some other Frontier Technology.)
 - **Stage**: Pre-Seed (ish):
 	- **Market**: You've found early adopters in a market that could be big in the future.
 	- **Problem**: You've validated a problem that's important, painful, valuable, and underserved.
@@ -252,10 +255,6 @@ Access to a Data Room that includes your:
 ## Working Together
 
 Our [mission](#why-we-exist) is to help you be successful, and to do that, we only ask you for two things:
-
-### Getting Started Together
-
-We ask founders to spend some time [Getting Started Together](/processes/getting_started_together.md) with us after we invest.
 
 ### Staying In Touch
 
