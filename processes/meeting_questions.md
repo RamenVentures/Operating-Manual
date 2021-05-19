@@ -7,10 +7,9 @@
 ### User, Problem, and Mission
 - What problem are you working on? For who?
 - How important is this to them?
-- How many people have this problem?
-- How often do they want to do this?
+- How many people have this problem, and how often do they have it?
 - How do they solve this problem today?
-- Why work on _this_ problem?
+- Why are you working on _this_ problem?
 
 ### Solution
 - How do you solve this problem?
@@ -19,15 +18,13 @@
 - Why now and not before?
 
 ### Market
-- Why is this better than their existing solutions?
-- What's your unfair advantage? (ie: What makes you uniquely capable of doing this?)
-- How will you get in front of early adopters?
+- Is this first, best, or unique? Why?
 - What's your vision? What will the future look like in 10 years?
+- How do you get in front of early adopters?
 
 ### Company Timeline and Traction
-- What is the timeline of the company? (major milestones)
+- What is the history of the company? When did it start, and what's happened since then?
 - What is your growth like?
-- How do users find out about you?
 
 ### Fundraising
 - How much are you raising now and on what terms?
