@@ -29,15 +29,11 @@ Angel investing in people inventing the future.
 3. [How We Help Founders](#how-we-help-founders)
 4. [Our Investment Thesis](#our-investment-thesis)
 5. [Our Investment Process](#our-investment-process)
-	1. [Screening](#screening)
-	2. [Meeting](#meeting)
-	3. [Learning](#learning)
-	4. [Analysis](#analysis)
-	5. [Diligence](#diligence)
-	6. [Later: Making Follow-On Investments](#making-follow-on-investments)
-6. [Working Together](#working-together)
-	1. [Getting Started Together](#getting-started-together)
-	2. [Staying in Touch](#staying-in-touch)
+	1. [Screening](#step-1-screening)
+	2. [Meeting](#step-2-meeting)
+	3. [Research](#step-3-learning)
+	4. [Deciding](#step-4-deciding)
+	5. [Diligence](#step-5-diligence)
 
 &nbsp;
 
@@ -131,7 +127,7 @@ We ask ourselves our [Screening Questions](processes/screening_questions.md).
 2. A link to your MVP
 
 #### Next Steps
-**If it's a fit**, continue to [Meeting](#meeting).
+**If it's a fit**, continue to [Meeting](#step-2-meeting).
 
 **If not**, we share why it's not a fit.
 
@@ -147,7 +143,7 @@ When we meet, we'll ask you our [Meeting Questions](/processes/meeting_questions
 1. To meet you :)
 
 #### Next Steps
-**If we're excited**, we start our [Learning](#learning).
+**If we're excited**, we start our [Learning](#step-3-research).
 
 **If not**, we share our feedback.
 
@@ -164,7 +160,7 @@ We'll reach out to your users and people you know and ask them our [Learning Que
 - Three (3) most recent monthly update emails
 
 #### Next Steps
-**If things look good**, we start [Analysis](#analysis).
+**If things look good**, we start [Analysis](#step-4-deciding).
 
 **If not**, we share our learnings and feedback.
 
@@ -177,7 +173,7 @@ Step 4 is where we write an [Investment Memo](https://docs.google.com/document/d
 Nothing :)
 
 #### Next Steps
-**If we think we should be supporters**, we start [Investment Diligence](#diligence).
+**If we think we should be supporters**, we start [Investment Diligence](#step-5-diligence).
 
 **If not**, we share our analysis.
 
