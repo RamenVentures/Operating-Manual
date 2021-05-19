@@ -10,7 +10,7 @@
 - Is the cap table fair? (no crazy liquidity preferences, ratchets, super-voting rights)
 
 ### Contracts
-- Dot heir contracts and patents check out?
+- Do their contracts and patents check out?
 
 ### Fundraising
 - Are they using a standard fundraising agreement and terms?
